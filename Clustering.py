@@ -26,6 +26,16 @@ def checkAppropriateURL(url):
         return False
     return True
 
+
+def fetchFromHypernymDict(hypernymDict,a,b):
+    m = None
+    try:
+        m = hypernymDict[a][b]
+    except KeyError as e:
+        hypernymDict[a] = getHypernymsFromWordnet(a)
+        m = hypernymDict[a][b]
+    return m
+
 def scrapeGoogleForAbstracts(query, count):
     words = query.split()
     q = ("+").join(words)
@@ -158,6 +168,28 @@ def getHypernymsFromWordnet(word):
     multiList = [[[a.name() for a in b.lemmas()] for b in c.hypernyms()]for c in wn.synsets(word)]
     finalList = flatten(multiList)
     return Counter(finalList)
+
+def getHyponymsFromWordnet(word):
+    allSynsets = wn.synsets(word)
+    multiList = [[[a.name() for a in b.lemmas()] for b in c.hyponyms()]for c in wn.synsets(word)]
+    finalList = flatten(multiList)
+    return finalList
+
+def findNodeByName(nodeName, nodesList):
+    searchNode = next((p for p in nodesList if p.name==nodeName),None)
+    if(not searchNode):
+        searchNode = Node(nodeName)
+        nodesList.append(searchNode)
+    return searchNode
+
+def searchISA(node, type):
+    result=()
+    if type==0:
+        result = anytree.search.findall(node, filter_=lambda x: (x==node and not node.parent))
+    else:
+        result = anytree.search.findall(node, filter_=lambda x: (x==node and node.parent))
+    return result
+
 
 def compareTuple(x,model):
     try:
@@ -401,5 +433,131 @@ hypernymDict = {}
 
 for word in wordSet:
     hypernymDict[word] = getHypernyms(word)
+
+for i,(t1,t2) in enumerate(sortedList):
+        t1Node = findNodeByName(t1,nodesList)
+        t2Node = findNodeByName(t2,nodesList)
+        # print (t1, t2)
+        # print (i,"/",len(sortedList))
+        
+        # print (t1,t2,t1Node,t2Node,hypernymDict[t1],hypernymDict[t2])
+        if(not t1Node.parent or not t2Node.parent):
+            intersectHypernym = list((hypernymDict[t1] & hypernymDict[t2]).elements())
+            try:
+                h = max(intersectHypernym, key=lambda a: hypernymDict[t1][a]+hypernymDict[t2][a])
+                hNode = findNodeByName(h,nodesList)
+            except:
+                h = ''
+            if (fetchFromHypernymDict(hypernymDict,t2,t1)):
+                if(fetchFromHypernymDict(hypernymDict,t1,t2) and (fetchFromHypernymDict(hypernymDict,t1,t2)>fetchFromHypernymDict(hypernymDict,t2,t1))):
+                    t1Node.parent = t2Node
+                else:
+                    t2Node.parent = t1Node
+            elif (fetchFromHypernymDict(hypernymDict,t1,t2)):
+                t1Node.parent = t2Node
+            elif (h):
+                tdash = t1Node.parent
+                tddash = t2Node.parent
+                if (tdash):
+                    tdashName = tdash.name
+                    m = fetchFromHypernymDict(hypernymDict,tdashName,h)
+                    n = fetchFromHypernymDict(hypernymDict,h,tdashName)
+                    if(tdashName==h):
+                        try:
+                            t2Node.parent = tdash
+                        except:
+                            pass
+                    elif(m and (not(n) or m<n)):
+                        try:
+                            t2Node.parent = tdash
+                        except:
+                            pass
+                        try:
+                            if(not tdash.parent):
+                                tdash.parent = hNode
+                        except:
+                            pass
+                    else:
+                        try:
+                            t2Node.parent = hNode
+                        except:
+                            pass
+                        try:
+                            if(not tdash.parent):
+                                hNode.parent = tdash
+                        except:
+                            pass
+                elif (tddash):
+                    tddashName = tddash.name
+                    n = fetchFromHypernymDict(hypernymDict,tddashName,h)
+                    m = fetchFromHypernymDict(hypernymDict,h,tddashName)
+                    if(tddashName==h):
+                        t1Node.parent = tddash
+                    elif(m and (not(n) or m<n)):
+                        try:
+                            #As t1 has not yet been classified
+                            t1Node.parent = tddash
+                        except:
+                            pass
+                        try:
+                            if(not tddash.parent):
+                                tddash.parent = hNode
+                        except:
+                            pass
+
+                    else:
+                        #As t1 has not yet been classified
+                        try:
+                            t1Node.parent = hNode
+                        except:
+                            pass
+                        
+                        try:
+                            if(not tddash.parent):
+                                hNode.parent = tddash
+                        except:
+                            pass
+                else:
+                    #As t1 has not yet been classified
+                    try:
+                        t1Node.parent = hNode
+                    except:
+                        pass
+                    
+                    #As t2 has not yet been classified
+                    try:
+                        t2Node.parent = hNode
+                    except:
+                        pass
+            else:
+                clusteredSet = clusteredSet | {(t1Node,t2Node)}
+    
+    # print (nodesList)
+    # print (clusteredSet)
+    # print (wordSe)
+    for word in wordSet:
+        currNode = findNodeByName(word,nodesList)
+        # print (currNode)
+        if(not(currNode.parent or currNode.children)):
+            hyponyms = getHyponymsFromWordnet(word)
+            for hyponym in hyponyms:
+                if word in hyponym:
+                    hyponymNode = Node(hyponym)
+                    hyponymNode.parent = currNode
+                    nodesList.append(hyponymNode)
+
+    # print (nodesList)
+    for node in nodesList:
+        # print (node)
+        if(not node.parent):
+            node.parent = root
+    # print (nodesList)
+    for (t1,t2) in clusteredSet:
+        if(not t1.parent):
+            t1.parent = root
+        if(not t2.parent):
+            t2.parent = root
+    # print (clusteredSet, root)
+    return (nodesList,clusteredSet,root)
 
 open("Clustering_Results.txt","w+").write(str(hypernymDict))

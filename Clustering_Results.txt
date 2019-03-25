@@ -1,0 +1,3095 @@
+Hyponyms of vulnerability:
+
+1836 concepts
+
+danger
+weakness
+land Page
+soil properties
+hydraulic properties
+precipitation patterns
+ground water
+land use
+cross-site scripting
+weaknesses in session handling
+broken access controls
+coast
+BUENO
+CARMO
+Out-of-Bounds Write
+Exposures
+Common Vulnerabilities
+consent
+Help IEEE Account Change Username/Password Update Address Purchase Details Payment
+Get Help Feedback Technical Support
+Education Technical Interests Need Help
+Documents Profile Information Communications Preferences Profession
+d Documents Profile Information Communications Preferences Profession
+application
+operating system
+access
+area
+Macao
+Hong Kong
+China
+imposition of fiduciary duties
+same OpenSSL library
+unprofessional
+unnecessary
+genetics X environmental factors
+ve
+advanced with JavaScript available
+International July
+Volume
+Issue
+flow
+graph theoretical
+probabilistic
+solvable
+other cases
+approximation
+combinatorial
+other methods
+Nazarova
+Teoriya i Sistemy Upravleniya
+R. Albert
+H. Jeong
+A. Barabasi
+Error Tolerance in Complex Networks
+” Nature
+R. Cohen
+K. Erez
+D. Ben-Avraham
+al
+Intentional Attack
+Lett
+A. V. Karzanov
+Multi-Flows
+VNIISI
+Moscow
+D. W. Matula
+Concurrent Connectivity in Graphs
+Wiley
+New York
+B. Germeier
+Nauka
+D. R. Fulkerson
+Press
+Mir
+F. Wagner
+A Simple Minimum Cut Algorithm
+” J. ACM
+G. Ausiello
+P. Crescenzi
+G. Gambosi
+Springer
+Heidelberg
+D. S. Johnson
+Freeman
+San Francisco
+C. H. Papadimitriou
+K. Steiglitz
+Prentice-Hall
+Englewood Cliffs
+E. Dalhaus
+Complexity of Multiway Cuts
+” SIAM J. Comput
+M. Yannakakis
+P. C. Kanellakis
+S. C. Cosmadakis
+Graph After a Fixed Pattern
+Sci
+N. Garg
+V. V. Vazirani
+Their Applications
+Y. Rabani
+Approximation Algorithm
+O. Günlük
+New Min-Cut Max-Flow Ratio for Multicommodity Flow
+M.-C. Costa
+L. Letocart
+F. Roupin
+Integral Multiflow in Rooted Trees
+L. Létocart
+CEDRIC-CNAM
+Paris
+M-C. Costa
+Survey
+Operational Research
+K. Obata
+“ Approximate Max-Intergral-Flow
+Min-Multicut Theorems
+ACM
+Toronto
+N. Linial
+E. London
+Y. Rabinovich
+Algorithmic Application
+” Combinatorica
+C. A. Barefoot
+R. Entringer
+H
+H. Swart
+“ Vulnerability in Graphs—A Comparative Survey
+Combinatorial Comput
+V. K. Popkov
+MG SORAN
+Novosibirsk
+Y. Chen
+J. Tan
+L. Hsu
+Super-Edge-Connectivity for Some Inter Connection Networks
+Comput
+J.-H. Yin
+J.-S. Li
+G.-L. Chen
+Wide Diameter of ω-Connected Graphs
+” Networks
+J.-M. Chang
+J.-S. Yang
+Y.-L. Wang
+Panconnectivity
+Hamiltonian-Connectivity in Alternating Group Graphs
+Z. Wang
+Number in Graphs
+MathSciNet CrossRef zbMATH Google Scholar
+S. Peng
+Other Vulnerability Parameters
+Math
+A. Kurlangic
+Edge-Integrity of Some Graphs
+A. Kirlangic
+Graphs
+Modeling Algorithms
+M. Urquhart
+Reports
+” INCO
+P. Holm
+B. J. Kim
+C. N. Yoon
+“ Attack Vulnerability of Complex Networks
+P. Crucitti
+V. Latora
+M. Marchiori
+Attack Tolerance of Complex Networks
+” Phys
+Against Terrorism
+” Chaos
+Fractals
+CrossRef zbMATH Google Scholar
+Protection of Infrastructure Networks
+A. Renyi
+“ On the Random Graphs
+Debrecen
+Diameter of the World Wide Web
+Random Networks
+” Science
+V. N. Kas ’ yanov
+S. Louca
+A. Pitsillides
+G. Samaras
+Trellis Graph Transformations
+IEEE Computer Society Press
+H. Kang
+C. Butler
+Q. Yang
+J. Chen
+New Survivability Measure for Military Communication Networks
+Military Communication Conference
+Los Alamos
+USA
+D. Shallcross
+N. Dean
+M. Mostrel
+Commercial Application of Survivable Network Design
+K. T. Newpor
+“ Incorporating Survivability Considerations Directly into the Network Design Process
+Computer Society
+pp
+V. Aytac
+Neighbor-Integrity of Line Graphs
+G. Calinescu
+C. Fernandes
+B. Reed
+Tree-Width
+G. M. Whittaker
+M. A. Schroeder
+K. T. Newport
+Computation of Network Nodal Survivability
+L. Brunetta
+M. Conforti
+G. Rinaldi
+Branch-And-Cut Algorithm for the Equicut Problem
+” Math
+G. Woeginger
+A Note on the Bottleneck Graph Partition Problem
+D. Karger
+MIT
+Cambridge
+“ Random Sampling in Cut
+Flow
+Network Design Problems
+Res
+A. Felner
+Graph Partitioning Problem with Heuristic Search
+D. Hochbaum
+Maximum-Flow in Closure Graphs
+K. Wood
+“ Enumerating Near-Minimum S-T Cuts
+Kluwer
+Boston
+Optimal
+Computers
+G. Cälinescu
+H. Karloff
+Improved Approximation Algorithm for Multiway Cut
+S. Sen
+R. D. Doverspike
+S. Cosares
+“ Network Planning with Random Demand
+” Telecommunication
+G. Gürkan
+A. Y. Özuge
+S. M. Robinson
+Application in Network Design
+INFORMS Simulation Society
+Phoenix
+C. Lucet
+J.-F. Manouvrier
+J. Carlier
+Bounded Pathwidth Graphs
+” Algorithmica
+J. Yuan
+Flow Networks
+V. R. Westmark
+Definition for Information System Survivability
+System
+Track
+B. Sankur
+Communication Networks
+V. S. S. Nair
+Survivability Assessment Tool for Restorable Networks
+A. Benczur
+Massachusetts Institute of Technology
+K. J. Cormican
+D. P. Morton
+R. K. Wood
+“ Stochastic Network Interdictions
+” Operation Research
+C. A. Phillips
+Network Inhibition Problem
+C. Burch
+R. Carr
+S. Krumke
+Decomposition-Based Pseudoapproximation Algorithm for Network Flow Inhibition
+Stochastic Integer
+Interfaces
+E. Malashenko
+Nauk
+N. M. Novikova
+Editorial URSS
+Nauk SSSR
+[ in Russian ]
+A. P. Ivanova
+Fizmatlit
+I. V. Sergienko
+Naukova Dumka
+Kiev
+V. K. Leont ’ ev
+Prospective Views
+V. R. Khachaturov
+V. E. Veselovskii
+A. V. Zlotov
+C. Martel
+G. Nuckolls
+D. Sniegowski
+Disconnectivity of a Graph
+Technical Report CSE-2002-38
+California
+T. Aura
+M. Bishop
+“ Analyzing Single-Server Network Inhibition
+C. Meadows
+Service
+T. Ibaraki
+H. Nagamochi
+K. Nishimura
+All Small Cuts in An Undirected Network
+A. Nazarova
+Vulnerability of a Multicommodity Network
+Upr
+A. Korbut
+Sigal
+Finkel ’ shtein
+A Survey on the Theory
+Algorithms
+Programs
+Applications
+Ortimization
+N. Christofides
+Academic
+London
+N. J. Nilsson
+McGraw-Hill
+Tioga
+Palo Alto
+Radio i Svyaz ’
+L. P. Swiler
+C. Phillips
+T
+main content1 Telangana
+Dublin Frankfurt Guatemala City Hong Kong Houston Irvine Johannesburg Kochi Kuala Lumpur Lima London Los Angeles Matawan Melbourne Mexico City Miami Nairobi New York Panama City Paris Perth Phoenix Pittsburgh Rio de Janeiro San Diego San Francisco San Jose Santiago Shanghai Sheffield Silicon Valley Singapore Sydney São Paulo Toronto Troy Washington
+email
+client of the Firm
+'OK ' below
+applicable
+Risk Management Job Description Summary Fragomen Worldwide
+global immigration services provider
+industry-leading
+professional
+passionate about security
+change
+Risk Management program
+small team of security engineers
+external vulnerability discovery program
+triage
+procedures
+times
+exposure
+systems
+applications
+prevention
+educational equivalents Advanced knowledge of exploitation techniques
+malware indicator of compromise
+vulnerability rating systems
+information about products
+Experienced industry experts
+analyze
+services
+customers
+awareness
+reliable
+commitment
+vulnerability
+one
+organizations
+sensitive information
+two-step process
+private disclosure of a potential vulnerability
+public disclosure
+recognition of the security researcher ’ s discovery
+action
+timelines
+addition
+information
+companies
+security ecosystem
+quality information
+products
+protocols
+methodologies
+standards
+responsible disclosure program
+relationships with security researchers
+responsibility approach
+click on the “ Reporting Guidelines ” tab
+Often times
+live hosts
+crash of many production systems
+First
+‘ Project Name ’
+project
+Confirm IP address range
+special NMAP switches
+Sit
+complete
+list of open ports
+service information
+additional tabs such as ‘ Vulnerabilities
+‘ File
+‘ Notes
+‘ Credentials ’
+Right Urgency
+Model Conclusion References
+course
+organization
+information overload—thousands of vulnerability announcements
+circumstances
+numerous vendors
+customer input
+vulnerability management procedures
+confidentiality
+availability
+infrastructure
+design
+available
+time period
+advantage of the vulnerability
+past
+example
+vulnerability on October
+Microsoft Security Bulletin MS00-078
+September
+Microsoft Security Bulletin MS04-011
+Microsoft security update
+situations
+common third-party software packages
+October
+vulnerabilities with medium
+high
+vulnerability information about lower-severity vulnerabilities
+increase
+registered customers through the openVuln API
+attacks on various devices
+routers
+switches
+security appliances
+threats
+exploitation
+inherent
+many customers
+affected platform
+attack
+severe vulnerability
+FIRST
+vulnerabilities by vendor-defined severity
+environmental impact
+CVSS
+quick
+severity
+relevance
+triage on a security vulnerability
+model
+necessary
+Low
+Medium
+High
+Critical
+Appl
+Number
+January-March
+March
+Guidance for SSAE18
+service-oriented environment
+accessible
+corporate networks
+Google Patents Security vulnerability information aggregation Download PDF Info Publication number US8544098B2 US8544098B2 US11/366
+accuracy of the status
+2029-12-07 Application number US11/366
+date 2006-03-02 Publication date 2013-09-24 2005-09-22 Priority
+CHOW
+STANLEY TAIHAI
+GUSTAVE
+CHRISTOPHE
+WIEMER
+Critical Alcatel-Lucent SAS 2006-03-02 Priority
+Adjusted expiration legal-status Critical Links USPTO USPTO Assignment Espacenet Global Dossier Discuss Images Classifications H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION
+computers
+components
+data against unauthorised activity G06F21/50 — Monitoring users
+integrity of platforms
+processors
+computer platforms
+power-downs
+version controls
+system software checks
+format conversion
+content aggregation
+No
+“ SECURITY RISK ANALYSIS SYSTEMS AND METHODS ”
+May
+“ COMMUNICATION NETWORK SECURITY RISK EXPOSURE MANAGEMENT SYSTEMS AND METHODS ”
+“ INFORMATION SYSTEM SERVICE-LEVEL SECURITY RISK ANALYSIS ”
+date herewith
+“ SYSTEMS AND METHODS OF ASSOCIATING SECURITY VULNERABILITIES AND ASSETS ”
+“ APPLICATION OF CUT-SETS TO NETWORK INTERDEPENDENCY SECURITY RISK ASSESSMENT ”
+Sep.
+security vulnerabilities
+particular
+such as an affected software platform product
+remediation patches
+public disclosure date
+affected platform product
+different levels of information detail
+product vendors
+own proprietary format
+SysAdmin
+Audit
+Network
+Institute
+instance
+vulnerability information reporting
+accordance with the same standard
+different data feeds
+name
+short description of the vulnerability
+approach
+vulnerabilities from different sources
+CVE naming scheme
+objective
+knowledge of exploited platforms
+different CVSS scores by different sources
+rating scheme against particular criteria
+consistent vulnerability information from multiple sources
+number of new vulnerabilities
+“ formatting ” aspects of the problem
+time
+different web site for instance
+advisories
+subscription requirements
+Given all of these different problems
+complete set of the advisories
+vulnerabilities
+aggregation policy
+vulnerability information distribution parameters for vulnerability information consumers
+unimportant
+embodiments of the invention
+vulnerability information
+such as vulnerability advisories
+aspect of the invention
+particular security vulnerability
+aggregator
+interface
+vulnerability information through the interface
+embodiment
+this-case
+user interface
+embodiments
+plurality of security vulnerabilities
+policies
+vulnerability information store
+case
+modified aggregation policy
+respective unified vulnerability descriptions
+sources
+conflict rules
+respective source format
+format of the unified vulnerability definition
+distribution parameters for a vulnerability information consumer
+method
+owners
+countermeasures
+threat agents
+risks
+FIG
+Users/owners
+operators of a communication network
+represent actions
+indication
+probability
+Assets
+example of a communication network
+value assets
+assets
+users/owners
+labelled components of FIG
+many different types of data storage device
+solid state memory devices
+databases
+particular embodiment of the invention
+security decision model
+asset information
+LAN
+operation
+main elements
+security module
+input devices such as a keyboard
+mouse
+touchscreen
+execution by a processor
+local stores
+stores
+further
+different elements
+different interconnections
+security risk management functions for instance
+contents of the other drawings
+illustrative purposes
+simulation interface
+configuration interface
+user interface elements
+display
+keyboard
+network
+Internal bus structures
+computer systems
+components with the security module
+data system
+internal connections
+drivers
+various input/output devices
+external systems
+event manager
+network model manager
+risk analyzer
+report interface
+components of the security module
+hardware
+processor
+vulnerability information source interface
+report manager
+various types of storage device
+such as solid state memory devices
+disk drives
+other types of storage device
+movable
+multiple
+embodiment of the invention
+implementation
+“ Aggregation Service
+aggregated feed from the aggregation system
+multiple sources
+drawing
+other components
+such as the event manager
+user inputs through the configuration interface
+represent examples of the databases
+user
+asset information in the databases
+network operator personnel for example
+implementations each of the databases
+events
+effects of changes
+countermeasures for instance
+other sources
+actual network conditions
+external system
+dependent on the type
+format
+information in the databases
+other external systems
+asset database
+relationships
+physical assets
+equipment in the communication network
+images
+text
+combination thereof
+warnings
+e-mail client for instance
+security state database
+content
+accesses security risk information
+vulnerability database
+unified vulnerability definition for a particular vulnerability
+parameters
+analysis
+risk for a specific network asset
+service
+mission
+other network feature
+feature
+other processes
+vulnerability information sources
+format adapters
+content aggregation module
+conflict alert module
+output interface
+unified vulnerability descriptions
+content aggregator
+conflict resolution module
+software-based implementations
+common storage locations in a memory
+such a logical connection
+foregoing
+software
+firmware
+apparatus
+microprocessors
+microcontrollers
+ASICs
+PLDs
+FPGAs
+functional descriptions
+data stores in a hardware component
+system
+important
+variant
+outputs of the format adapters
+stored vulnerability information
+different vulnerability information consumers
+other embodiments
+subscriber system
+physical devices such as a keyboard
+receive vulnerability information from the sources
+remote vulnerability information sources through a communication network
+vulnerability information in a data store
+pull scheme
+vulnerability sources
+interfaces
+respective vulnerability information sources
+terms of implementation
+format adapter
+other software code
+ease of description
+source-specific format adapters
+multiple-format conversion functions in other ways
+format-specific functional components
+vulnerability “ name ”
+free-form textual vulnerability “ description ”
+platforms
+“ impact ”
+systems ”
+“ effect ”
+labels
+tags
+source
+vendor
+Regardless of the format adapter development mechanism
+”
+unified format “ name ”
+unified format “ description ”
+data store
+data structure in the vulnerability information store
+similar manner
+unified format “ impact ”
+above examples of a first format
+second format
+part of the unified format
+appropriate format
+necessary in all embodiments
+primary purpose of the content aggregation module
+particular the content aggregator
+different sources
+single
+consistent
+numeric fields such as CVSS scores
+mean
+maximum
+single text field
+particular text
+user through the user interface
+set of static conflict rules
+particular sources
+field-specific
+cases
+conflicts
+specific information field for instance
+manual analysis
+unified vulnerability definition in a unified format
+browsing application
+communication interface
+local vulnerability database
+remote consumers
+new vulnerability
+remote consumer system
+vulnerability definitions
+scheduled basis
+unified vulnerability definition
+source for instance
+vulnerability database in a risk analysis system
+vulnerability information from multiple sources
+information from multiple sources
+consumer
+consumer 's data feed
+database
+different consumer vulnerability information requirements
+aggregated feed of all new vulnerabilities
+many different software applications
+server
+anything
+IM server
+data feed from the apparatus
+new automation initiative
+trigger
+vulnerability information from the sources
+content conversion
+Other embodiments
+different operations
+herein
+updated vulnerability information
+security management application
+unified definitions
+other forms
+machine-readable medium
+FIGS
+form of a window
+common graphical elements such as a title bar
+directory tree
+window functional elements
+Information in the “ Type ”
+“ Severity ”
+“ Vendor confidence ”
+selectable from pull-down menus
+mouse pointer
+Confidentiality
+Integrity
+Availability
+Magnitude impacts
+“ Description ”
+“ Solution ”
+different ways
+such as a new window dialog-box
+apparent
+store
+particular representation
+layout
+fields
+other form than a number
+“ active ” content such as hyperlinks
+other active content
+hyperlink at a certain time
+current information from the hyperlink
+Offensive Security
+numerous security-hacker tools for information gathering
+vulnerability analysis
+wireless attacks
+web applications
+exploitation tools
+stress
+forensic tools
+spoofing
+password cracking
+reverse engineering
+OSINT Tools available
+reference
+information gathering
+wireless analysis tools
+password crackers
+active hosts within any network
+hostnames
+IP addresses
+networks
+scanme.nmap.org
+microsoft.com/24
+< host1 [
+[
+host3 ]
+TCP SYN/ACK
+ICMP echo
+timestamp
+serv1 [
+serv2 ]
+popular among those in the security industry
+port exploration
+C
+GPL license
+TCP asynchronous scan Asynchronous UDP scan Asynchronous TCP banner detection OS
+Unicornscan
+target network
+GLP license
+weekly scans Exports results into XML
+HTML
+LateX file formats Ability
+pause
+//activatejavascript.org Advertisement Hide SpringerLink Search SpringerLink Search Home Log in Natural Hazards Download PDF Natural Hazards September
+utilizing vulnerability indicators
+losses from storms
+floods
+other hazards
+contrast
+sharing of knowledge
+resources
+coastal communities in British Columbia
+hazard events
+Predisaster conditions such as poverty
+chronic illness
+social
+demographic
+economic aspects
+location
+flooding
+insights into the causes
+processes
+contexts of vulnerability
+total potential flood losses
+few
+Many other studies
+e.g
+Cutter et al
+plan
+absorb
+recover
+National Research Council
+vulnerable
+important for resilience
+relevant
+similar challenges
+recent
+familiar
+Sect
+first
+methodological approaches
+opportunities
+limitations
+environmental change
+world
+nations
+coastal hazards
+emphasizes recent developments
+gaps
+hazards-of-place model
+latter
+economic
+environment attributes of communities
+variables
+census data
+context of specific coastal hazards
+Bjarnadottir et al
+Wood
+Santos
+Cooper
+Huang
+Lichter
+issues of spatial scale
+spatial scales
+community level
+coastal vulnerability indices at national
+local
+hazard
+data availability
+dynamics
+changes over time
+SoVI
+future
+institutional dimensions of places
+recent review
+ecological
+institutional
+availability of hazard mitigation plans
+emergency services
+natural
+physical
+human
+mitigation
+preparedness
+response
+US Gulf Coast counties
+resilience indicator studies
+flood hazard maps
+flood protection
+different contexts
+conceptual applicability
+many cases
+unavailable
+unreliable
+indicators
+indices
+vulnerability conditions
+weights for indicators
+statistical data
+municipal government staff in several Canadian municipalities
+weight
+methodological innovations
+Whether
+Burton
+decisions
+plans
+Vulnerability indicators
+vulnerability indicators
+Fekete
+numerous factors
+quantifiable variables
+factors
+such complexity
+numerous
+Andrey
+Furthermore
+intent
+stakeholders
+local knowledge
+practice
+use
+Birkmann
+vulnerable places
+purpose
+knowledge transfer
+hence
+disaggregated similarity indicators
+new conceptual frameworks
+different methodological approach
+similarity
+Pearson correlation coefficient
+ecology
+Hastings
+interest
+others
+communities ’ vulnerability profiles
+binary
+high/medium/low
+subgroups of vulnerability indicators
+social vulnerability
+considerations
+general similarity coefficient S Gower
+Gan
+x
+k
+communities
+x k
+y
+different types of data
+data x k
+HVSI
+complete dissimilarity
+i.e
+S Gower
+=
+current application
+present
+data
+Table
+completeness index
+n indicators
+similarity of places
+overall similarity in vulnerability profile
+HVSI framework
+full-time jobs
+part-time jobs
+number of businesses
+total income
+data on all of these variables
+economic size
+available for both communities
+other words
+variable
+similarity in vulnerability profile
+relative degree of vulnerability
+coastal landform
+sandy beaches
+rocky cliffs
+southern British Columbia
+small
+communities in the region
+populations
+number of coastal hazards
+storm surge
+earthquake
+tsunami
+simplified demonstration
+well-established in the literature
+indicator
+dollars
+demonstration
+available for all communities
+businesses
+French
+Binary Change Projected sea-level change
+Birkmann et al
+environment
+key dimensions of community capitals
+size
+spatial structure
+composition
+participation
+“ size ” dimension captures such concepts as resources available
+risk
+sectoral structure of the economy
+diversity
+concepts of networks
+integration
+aspects of temporal dynamics
+terms of hazard and/or exposure
+many indicators
+key dimensions
+Census
+provincial statistical agency
+provincial spatial database
+Canada
+“ commercial center on coast
+community
+district of Squamish
+communities with reference
+Figs
+Georgia communities
+c
+terms of overall vulnerability profile
+HVSI =
+Fig
+unusual community in the region
+b
+places in the region
+future flood risks
+associated indicators
+aspects of governance
+planning
+instances of similarity
+riverine flooding
+particular economic
+built
+interested in economic indicators
+commercial center on coast
+type of flood hazard
+landform
+other hand
+sum
+dissimilar places in an efficient manner
+face similar vulnerability issues
+hazards
+coastal areas
+standardized multidimensional profile of vulnerability
+priority for further research
+places with high vulnerability
+complements such studies
+Vulnerabilities Webinar Recap Mar
+| Blog
+Industry News By Reid Wightman
+severity of the vulnerability
+L
+R
+errors
+other issues in advisories
+mitigation advice
+advice
+error rates
+Are NA
+ICS-CERT
+original researcher
+verification that the score
+incorrect
+good as other CERTS
+sure
+trained teams
+reason
+Article
+newcomers
+victims of torture
+other serious forms of psychological
+persons with a post-traumatic disorder
+aspects of this definition
+international protection
+relevant need arises
+victim of torture
+Unaccompanied children
+Victims of torture
+Total
+Asylum Service
+Unit
+protection institution
+medical treatment
+registration of the asylum application
+psychological care provision
+Doctors of the World
+times dysfunctional identification processes
+asylum interview
+EASO caseworkers
+end of March
+place
+extension of the contract period
+late
+end of May
+capacity
+shortage in human resources
+identification procedure
+out-patient consultations
+Samos during March
+assessment
+quality of the vulnerability screening procedures
+MSF
+over-identified
+MSF clinic on Lesvos
+sexual violence
+Samos on the contrary
+identification procedures
+psychosocial screening
+briefly
+electronic database of the RIC
+document
+account in subsequent procedures
+new medical vulnerability template
+psychosocial evaluation of vulnerability ”
+Medium vulnerability
+High vulnerability
+support that the person
+“ medium ”
+other actors in the field
+further assessment
+psychological services on the islands
+clear whether persons
+Qualys FreeScan™ Service Agreement This Qualys FreeScan Service Agreement
+“ Registration ”
+Qualys
+Inc
+“ Qualys ”
+“ Service ”
+BY USING THE SERVICE
+TO BE BOUND BY THIS AGREEMENT
+NOT AGREE TO THE TERMS OF THIS AGREEMENT
+DO NOT APPLY FOR
+ACCEPT
+Qualys ’ acceptance of Your Registration request
+term
+results of scans
+Qualys ’ acceptance of Your Registration
+password
+harmless Qualys for any claims
+liability
+damages
+Site
+full right
+power
+reviewing
+own internal business purposes
+engineer
+decompile
+use of the Service
+Sections
+structure
+licensors
+Plans Duo Beyond Zero-trust security for all users
+Managed Service Providers Give customers
+Events Archive March
+February
+January
+December
+November
+August
+July
+June
+April
+Engineering Changelog March
+Events April
+such as Cisco
+Symantec
+many others
+Technology
+EFF
+outline processes
+security vulnerabilities from outside sources
+such as independent researchers
+Contract Holmdel
+New Jersey
+US Job Description • Daily monitoring of vulnerability scanning reports
+threats of interest
+other high priority threats of interest vulnerabilities
+identification of risk areas
+quantifying exposure
+secure system configuration
+dynamic
+fast-paced environment
+site
+techniques behind successful enterprise application development
+Less hard labor
+practices
+practices for ITOM
+hybrid IT
+Security All things security for software engineering
+DevOps
+application security
+years into the web
+Sir Tim vents on scams
+efforts
+lessons for security teams Robert Lemos
+data breaches
+patching efforts
+USENIX Security Conference in August
+College Park
+University of Michigan
+Harvard University
+defenders
+% precision
+wild
+vulnerability results in wasted effort
+report
+Analyzing Vulnerability Remediation Strategies
+Michael Roytman
+chief data scientist for Kenna Security
+criticals
+Bugtraq
+BID
+Microsoft 's list
+great predictor of whether a vulnerability
+likelihood
+Kenna Security 's research
+PRODUCTS INCLUDING OVAL NEWS  July
+Archive December
+teleconference on Thursday
+OVAL-ID Compatibility Program updates
+Vulnerability in Graphics Rendering Engine Could Allow Remote Code Execution
+image file
+instant message
+ThreatGuard
+developing international
+limits of SQL
+separate schemas
+tests
+individual tests
+machine-readable XML Vulnerability
+Compliance
+Official OVAL Schemas
+OVAL Repository In the beginning
+tests for vulnerabilities
+OVAL Vulnerability Definitions
+Compliance Definitions
+configuration issue
+present on a system
+definitions for Microsoft Windows
+definitions for Red Hat Linux
+definitions for Sun Solaris
+grand total
+OVAL Developer's List
+OVAL Repository
+OVAL Board The OVAL Board
+comments on OVAL Definitions
+system vendors
+commercial information security tool vendors
+academia
+government agencies
+compatibility evaluations
+OVAL-ID Compatibility document
+process
+OVAL-ID Compatible logo
+OVAL effort
+definitions
+years
+Homeland Security
+HP-UX OVAL Definitions OVAL community member ThreatGuard
+OVAL Definitions page
+new component schemas
+list
+interest and/or ways
+Expo on January
+Walt Disney World Resort
+Orlando
+Florida
+utilities
+Booth
+booths
+OVAL Definition Schema
+Schema
+members of the OVAL community ThreatGuard
+Hewlett Packard UNIX
+presence of vulnerabilities
+configuration issues
+Microsoft Windows
+Sun Solaris
+Red Hat Linux
+Debian Linux
+UNIX
+OVAL initiative
+New OVAL Board Member Gregory Toto of BigFix
+NVD
+OVAL
+OVAL Definition Interpreters
+Interpreter Source Code
+Independent
+Apple Macintosh
+Cisco IOS
+HP-UX
+OVAL schemas
+Definition Interpreters
+Interpreter source code
+enterprise patch management system
+PatchLink Update
+main topic of a November
+press release by ThreatGuard
+OVAL-ID Compatibility on November
+Exhibition in Washington
+D.C
+release
+OVAL compatibility
+quote by Rob Hollis
+OVAL Board Member
+Rob Hollis
+right
+Robert Martin
+OVAL Compatibility Lead
+OVAL-ID Compatibility Process
+Declarations of OVAL Compatibility
+OVAL Results Schema
+quote by Carl Banzhof
+Kent Landfield
+ArcSight
+Inc. ArcSight
+awards ceremony November
+Mike Boehm
+ArcSight 's Public Sector Group
+ceremony
+Citadel Security Software Inc
+teleconference meeting on Tuesday
+group
+Exhibition
+November 13-15
+Washington
+CVE
+network professionals from industry
+government
+panel discussion about OVAL
+CME
+FIRST Technical Colloquium on November
+Redwood Shores
+event
+November 14th-16th
+share information about vulnerabilities
+incidents
+OVAL-ID Compatible Product/Service logo
+• ArcSight
+Hercules • ThreatGuard
+OVAL-ID compatibility requirements
+BigFix
+Inc. Makes Declaration of OVAL-ID Compatibility BigFix
+real-time security configuration management suite
+BigFix Enterprise Suite
+tools
+Ibis London Earl 's Court
+Official stage on December
+formal compatibility evaluations
+enterprise
+contact information
+type of product
+declaration
+OVAL-ID Compatibility page of the OVAL Web site
+effort than the first
+reasonable
+new compatibility process
+OVAL-ID Compatibility ThreatGuard
+threat management product
+ThreatGuard Traveler
+Inc. Makes Declaration of OVAL-ID Compatibility ArcSight
+real-time security awareness/incident response solution
+ArcSight ESM
+Automated Vulnerability Remediation product
+Hercules
+OVAL-ID Compatibility Questionnaire ArcSight
+compatibility program
+OVAL-ID Compatibility Process page
+information security tool
+Web site
+archive
+OVAL-ID compatible
+UK
+briefing about OVAL
+Adelphi
+Maryland
+group policy-based patch management product
+PolicyMaker Software Update
+Marriott Wardman Hotel in Washington
+FIAC
+October 25-26
+systems administrators
+security practitioners
+procurement officials
+systems security officers
+federal managers
+accreditors
+Interpreters
+Conference Center
+University of Maryland University College
+MITRE Hosts OVAL/CVE Booth at IT Security World
+September 28-29
+security professionals from industry
+OVAL System Characteristics Schema
+OVAL status updates
+minor OVAL Schema version changes
+intellectual property agreement proposal
+event name with URL
+date of the event
+MISTI 's IT Security World
+Shepard Group 's VISION
+KACE Networks
+Inc. Makes Declaration of OVAL Compatibility KACE Networks
+information technology management appliance
+IT Management Suite
+OVAL Compatibility Program as a second
+security issue
+OVAL-compatible
+tool
+details of vulnerabilities
+patches
+part of this update
+vulnerability alert/notification service
+vulnerability alerting service
+Sintelli Vulnerability Database
+Inc. Makes Declaration of OVAL-ID Compatibility KACE Networks
+information security vulnerabilities on the CVE Web site
+CVE List
+briefly in a September
+press release from KACE Networks
+Easy-to-Use
+Comprehensive
+Inc. Makes Declaration of OVAL Compatibility BigFix
+real-time security configuration management system
+other OVAL-compatible products
+Host OVAL/CVE Booth at IT Security World
+Hyatt Regency in San Francisco
+OVAL1133
+OVAL207
+OVAL241
+E-Soft
+NIST
+quote by Peter Mell
+senior computer scientist at NIST
+article
+such databases
+Gerhard Eschelbeck
+QualysGuard Consultant
+QualysGuard Enterprise
+QualysGuard Express
+classes of OVAL definitions
+news headlines on the homepage
+FAQs
+list discussions
+OVAL Content page
+Vulnerability Definitions
+Events page
+FAQs about the OVAL Definition Interpreter A new section
+Section F. OVAL Definition Interpreter
+Interpreter
+results of an OVAL analysis
+terms of use
+OVAL Board Email List
+OVAL Board Meetings
+OVAL Community Forum Email List
+site design
+definition
+result
+host-based vulnerability assessment tool
+Assuria Auditor
+New OVAL Board Member Andrew Bove of Secure Elements
+Official stage on August
+Bedford
+searchable by OVAL-ID
+CVE Name
+NVD Web site
+MITRE Hosts OVAL Developer Days
+MITRE Corporation in Bedford
+numerous members of the OVAL Community
+technical detail
+New England Electronic Crimes Task Force Meeting on July
+Wellesley
+Massachusetts
+state
+new kinds of [ electronic
+Schema section
+OVAL Schema
+OVAL introductory white paper
+Configuration Issues
+complete overview of the OVAL initiative
+Host OVAL Developer Days
+first-ever OVAL Developer Days meeting on Monday
+Tuesday
+OVAL Board Members
+organizations with OVAL-Compatible Products/Services
+other experts
+OVAL Community
+current version of the OVAL Schema
+Version
+proponents of the OVAL Community
+Scottsdale
+Arizona
+netForensics
+Inc. Makes Declaration of OVAL Compatibility netForensics
+security information management system
+netForensics nFX Open Security Platform
+white paper
+complete meeting minutes
+OVAL Board Preventsys
+press release on June
+support for OVAL
+OVAL Board
+purpose of the OVAL Board
+quote from Ravenel
+adoption of common standards
+such as OVAL
+enterprise-wide security posture
+regulations
+-15
+directors
+CIOs
+CSOs
+systems analysts
+network engineers
+administrators
+Webmasters
+other information security professionals
+modifications for OVAL Version
+Technical aspects of the OVAL Schemas
+attributes
+OVAL Community Forum
+New OVAL Board Member Patrick Ravenel of Preventsys
+New OVAL Board Member Robert Hollis of ThreatGuard
+Status
+public on the OVAL Web site
+status
+Interim status
+Draft status
+system family
+individual platforms
+nCircle Network Security
+Declarations of OVAL Compatibility nCircle Network Security
+IP360 Vulnerability Management System
+IDS
+nTellect for Cisco IDS
+remediation product
+PolicyMaker Standard Edition
+PolicyMaker Application Security
+PolicyMaker Registry Extension
+services compatible with OVAL Definitions
+Host OVAL/CVE Booth at NetSec
+CVE Senior Advisory Council
+oversight for the OVAL effort
+meeting on Monday
+XCCDF
+status updates on CME
+appropriate funding
+activities
+share information
+issue of CrossTalk
+combination with procedural changes
+Extensible Markup Language Configuration Checklist Data Format
+measurement activities
+declarations of OVAL Compatibility
+way
+OVAL XML results for remediation
+organizational status reporting
+accreditation reports
+focused
+efficient
+information security products
+impossible
+]
+RSA conference
+CVE projects
+Training Conference on April
+Denver
+Colorado
+Cyber Security Chiefs Council Meeting on April
+teleconference meeting on Thursday
+main topic of an April
+OVAL Board Member Gerhard Eschelbeck of Qualys
+community effort
+past years
+vulnerability alert
+Software Technology Conference on April
+Salt Palace Convention Center in Salt Lake City
+Utah
+Army
+Marine Corps
+Navy
+Department of the Navy
+Air Force
+DISA
+military services
+defense contractors
+industry
+Preventsys
+Inc. Makes Declaration of OVAL Compatibility Preventsys
+New OVAL Board Member Jim Alderson of GuardedNet
+briefing on April
+information security technology
+technology providers
+Expo/2005
+Westin Westminster in Denver
+speakers from across the Federal Government
+Department
+banking
+finance
+real estate
+insurance
+health care industries
+other industries
+managers of information security
+systems security administrators
+IT auditors
+analysts
+application developers
+engineers
+systems integrators
+strategic planners
+[ among ] IT executives
+managers
+senior professionals
+workshops
+publications
+definition creators
+tool developers
+vulnerability researchers
+set of definitions/characteristics/results
+individual dictionaries for the Core Definition Schema
+Results Schema
+XML elements
+types
+available as a single download
+licensing terms for the Reference OVAL Definition Interpreters
+content ownership
+monthly downloads
+Interim
+schemas
+data files
+definition interpreters
+OSVDB
+OVAL886
+cross-references in SecuritySpace.com
+Inc. 's vulnerability Web site
+OVAL1530
+OVAL2155
+OVAL3179
+OVAL1186
+OVAL1943
+OVAL3514
+OVAL306
+OVAL322
+OVAL507
+GRIDtoday Article Announces Appointment of ArcSight
+main topic of a February
+Cisco
+Defense Information Systems Agency
+OVAL a complete
+high-level view of network security status
+prioritization of security events
+OVAL Board ArcSight
+press release on January
+quote by Hugh Njemanze
+founder of ArcSight
+OVAL/ CVE exhibitor booth at RSA Conference
+Coronado Springs Resort in Orlando
+effective rights tests
+interface test
+port test
+Schemas
+MulVAL
+great extentand an analyzer
+OVAL definitions
+OVAL Definition tests
+ICAT
+paper 's abstract
+finance industry on March
+San Antonio
+Texas
+X9
+private
+conformity assessment systems
+integrity
+OVAL Board Configuresoft
+press release on March
+Dr. Dennis Moreau
+CVE names
+quote by Moreau
+Updated Beta versions of the Red Hat OVAL Definition Interpreter
+OVAL/CVE Booth at RSA Conference
+information technology professionals
+developers
+policy makers
+industry leaders
+academics from organizations
+Available Beta versions of the OVAL Definition Interpreters
+Data Files
+Bulk Content Download
+first teleconference meeting on Thursday
+part of the January
+security checklists
+benchmarks
+information interchange
+document generation
+situational tailoring
+compliance
+other configuration guidance
+XCCDF Web site
+Information Assurance Workshop
+Workshop in Atlanta
+Georgia
+purpose of the workshop
+National Security Agency
+Joint Staff
+Strategic Commands
+compliance with a security policy
+particular service
+open
+particular length
+OVAL Web site
+beta versions of the OVAL Definition Interpreters
+Timeline
+time the current schemas
+Information Assurance Workshop in Philadelphia
+Pennsylvania
+NSA
+forum
+Host OVAL/CVE Booth at RSA Conference
+Moscone Center in San Francisco
+February 7-10
+RSA Conference
+April 4-6
+Software Technology Conference
+April 18-21
+Other events
+network traces
+proof-of-concept exploit code
+Android OS forks such as Amazon ’
+malicious Android Package file
+issue
+critical
+tool for secure communications
+regions of the world
+urban development
+many countries
+language
+gender
+race
+socioeconomic status
+age
+proof of concept
+Meltdown
+well-known threats such as Spectre
+other questions
+vulnerable parties
+Summer School
+rural regions
+anyone
+decade—rings alarms
+IP cameras
+hackers
+peers
+today ’ s society
+friends
+Geriatric Ethics
+human vulnerability
+elderly Cees Hertogh
+Professor of Elderly Care Medicine
+attacks on critical network nodes
+today
+physical discomfort
+negative effect
+
+
+
+Hyponyms of threat:
+
+1245 concepts
+
+danger
+warning
+declaration
+person
+individual
+someone
+somebody
+mortal
+soul
+limited distribution Enhanced analysis
+security vendor report
+Open Source intelligence
+reset instructions Email Cancel If the address
+email address
+username Email Close If the address
+s
+DOI
+keywords
+authors
+etc
+Fellows Events Grants
+schemes
+student
+FERPA
+school official
+other articles
+introduce links
+sociology
+theory in psychology
+effect
+levels of prejudice
+Walter G
+part of realistic conflict theory
+’ s identity
+’ s values
+colleagues
+Esses
+members of the outgroup
+ed
+unsafe
+general stereotypes
+links between prejudice
+other groups
+negative aspects of stereotypes
+ects of stereotypes
+symbolic threats
+realistic
+c framework of the theory
+subtypes of threat
+own separate categories
+physical danger
+realistic threat
+symbolic threat
+threat in order
+types of realistic
+success
+likely
+favorable attitudes towards immigrants
+supportive of programs
+negative attitudes towards the immigrants
+immigration into Canada
+Wann
+perceived threat
+outgroup
+case
+Russians
+d perception of threat
+decreased levels of group
+d
+d levels of group
+contact hypothesis
+important
+jobs
+s on the importance
+beliefs
+ambiguous situations
+research on various social groups
+immigrants
+Muslims
+tourists
+participants from New Zealand
+Attitudes toward Immigrants
+red Multicultural Ideology
+Intergroup Anxiety
+Contact with Immigrants
+Intergroup Threat
+multicultural ideology
+d contact with immigrants
+Great Britain
+dominant groups in France
+Germany
+imilate
+multigroup ethnic identity
+questionnaires
+measures for symbolic threats
+realistic threats
+stereotypes
+perception of immigrants ’ motivation
+res for symbolic threats
+Turkish immigrants in Germany
+expectations of French
+fictitious groups
+paragraph-long descriptions
+d on paragraph-long descriptions
+different attitudes about acculturation
+majority Hindu groups of India
+minority Muslim
+Hindu students at the same university
+Muslim
+in-group bias
+red contact quantity
+contact quality
+groups
+intergroup anxiety
+preference for social distance
+] Results
+important for Hindus ’ levels
+important for Muslims ’ levels
+prejudicial attitudes towards Muslims
+high schoolers in different cities
+support for multicultural ideologies
+in‐group identification
+realistic economic threat
+red support for multicultural ideologies
+levels of education
+ambiguity intolerance
+civilizations
+red ambiguity intolerance
+conspiracy
+d conspiracy
+d perceptions of symbolic threat
+levels of realistic
+levels of belief
+threat
+subject of some research
+New Zealand
+Fiji
+attitudes towards tourists
+tourism
+contact with tourists
+aspects of the original ITT
+ects of the original ITT
+attitudes towards spring breakers
+interviews with Cancun residents
+spring break
+spring break tourists
+influence
+harmful for relationships
+helpful
+Press
+determinants of intergroup attitudes
+oret
+imilation
+antecedent of intergroup threat
+May
+UTC
+dead
+organisms
+myriad of behavioral strategies
+chances
+exposure
+field
+survival rates
+presence of a looming object
+sudden movement
+appearance
+scent
+level of threat
+identity
+presence
+presence of a novel object
+color
+shape
+size
+skin lipids
+chemicals in urine
+predator 's recent presence
+order
+vibrations
+indicators of predator presence
+rainfall
+fleeing
+shells
+energy
+time
+e time
+nearby
+action
+ly
+presence of predators
+predators
+overall activity levels
+silent
+refuge
+avoid detection by predators
+coloration
+behavior
+stones
+decorator crabs
+plant matter
+identity as potential prey
+potential prey
+e of time
+likelihood
+signals of physical fitness
+fit animals
+toxic compounds
+predator
+irritant
+canine predators
+armadillo lizards
+prey after capture
+potential predators
+predation
+significant costs
+mates
+sentries
+respond
+different potential predators
+individual ’ s behavior
+problematic in the presence
+invasive species
+ve species
+fail
+example
+native lizards
+ve fire ant predators
+ern fence lizards
+ve red-imported fire ants
+camouflage
+armor
+dusk Mobbing — crowding
+e Crepuscular — active at dawn
+gait
+springing
+provide reliable information about an individual ’ s quality Autotomy — self-amputation
+signals
+Reading Sundermann
+viable offspring References
+ess risk
+Ecological Monographs
+B
+morphology of native lizards
+Name
+Genetic Makeup Influence Behavior How Does Social Behavior Evolve
+Environment
+Choice Behavior Perceptual Worlds
+Animal Preferences
+Consequences of Biodiversity Declines Disease Ecology Intermediate Animal Migration Cooperation
+Animal Behavior Social Parasitism in Ants Causes
+tism in Ants Causes
+Evolution of Complex Animal Societies Sexual Selection Territoriality
+Ecology Intermediate Animal Migration Cooperation
+Conflict
+Regional Ecology Conservation
+Browse Visually Other Topic Rooms Ecology Evolution Ecosystem Ecology Physiological Ecology Population Ecology Community Ecology Global
+Future Terrestrial Geosystems Marine Geosystems Soil
+Present
+NatureEdCast Simply Science Green Screen ConferenceCast Green Science Bio
+Simply Science Green Screen ConferenceCast Green Science Bio
+Green Science Bio
+Success Code
+Pop SciBytes Postcards from the Universe Brain Metrics Mind Read Eyes
+LearnCasting
+ing
+session
+Facebook page via Scitable LearnCast
+Settings
+fad
+Thrip
+former models
+Daesh in Syria
+commissioner
+irrespective of whether the governor
+Daesh [ ISIS ] in Syria
+rushers
+dust attacks
+alert
+Mission
+military advantage
+foment instability
+increase control over content
+Quote Free Downloads Scrutinizer Flowalyzer IPFIXify Support NetFlow
+IPFIX
+insider threats
+list
+ability
+detect
+opportunity
+insider threat
+former employees
+third parties
+contractors
+– TechTarget Scary
+addition
+record of every conversation
+other important conversation elements
+bottom
+rampant
+regulations
+little information for investigation
+Central Banks
+financial regulators
+physical crime
+financial sector resiliency Monday
+June
+Reston
+Singapore – June
+CE ntral banks
+Forum effective July
+group for central banks
+WannaCry
+frequent
+sophisticated
+Bill Nelson
+Today
+system for regulators
+threats
+banks
+credit unions
+insurance companies
+other financial institutions
+trusted space for private financial institutions
+STIX
+set of TTPs
+incidents
+STIX data model
+intent
+associated TTPs
+efficacy
+likely impact
+cost
+parameter observables
+information about a technical vulnerability
+weakness
+misconfiguration in software
+systems
+vulnerabilities
+other unnamed vulnerabilities
+STIX relationship model
+good deal of information
+information
+incident timeline
+points of contact
+threat actors
+part
+courses of action
+part of the investigation
+incident
+confidence in the indicator ’ s assertion
+restrictions
+valid time windows
+sightings of the indicator
+structured test mechanisms for detection
+related campaigns
+related indicators
+source of the Indicator
+representation
+threat actor
+desired effects
+observed behavior
+line experience
+Automotive Financial services Manufacturing Oil
+Information System Security Event Intelligence Products Security Event Intelligence
+organization ’ s security
+time on false positives
+available on a managed
+Minimize false positives via industry-leading intelligence Technology
+technical platform
+SIEM
+cloud-based public platform
+platform
+Orange Cyberdefense proprietary Threat Intelligence Database
+user behavior analytics
+multinational customers
+outcomes of the monitoring service
+private sources
+network operator
+false positives
+qualify incidents
+DHS Preventing Terrorism Overview Results
+Home > Topics > Preventing Terrorism > Weapons of Mass Destruction Preventing Terrorism Overview Results
+nuclear
+radiological
+chemical
+biological
+other device
+School Violence Sea Piracy September
+Journals
+Statistical Manual of Mental Disorders
+DSM-IV-TR
+essential feature of PTSD
+Remote Access Manage vendor access Vulnerability Management Identify
+prioritize
+support any device
+Passwords in Apps Control Application Usage Support Users
+Desktops
+integrations
+productivity
+Protect End Users
+Systems
+London
+Security Breach Remediation by Morey Haber — December
+reality
+organization
+malware
+compromised accounts
+lateral movement
+compromise of domain controllers
+worst-case scenario
+many cases
+risk
+feasibility
+far-fetched
+threats like rootkits
+Spectre
+Meltdown
+Athletics
+Fitness
+Recreation Student Activities Campus Safety Health
+UC
+way students
+educators
+Bring Storage
+opener Athletics
+Threat Assessment Team opener Health
+secure for all students
+staff
+faculty
+visitors
+possible experience
+Holiday APT Spectacular December
+| by Christopher Glyer
+month
+whole State of the Hack episode
+last
+new office in Reston
+threat intelligence conclusions
+dark
+techniques
+Next
+involved intrusion attempts against multiple industries
+law enforcement
+media
+losses
+DNS Over HTTPS
+hard work on this topic
+MITRE ATT
+element of cybersecurity argument Nikolai Mansourov
+Djenana Campara
+System Assurance
+injury argument
+entry point argument
+threat argument
+system elements
+threat components
+validation tasks
+Robert Nisbet
+Gary Miner
+Data Mining Applications
+visualization
+physical therapy procedures
+security threat identifications
+Chapter
+people
+animals
+rocks
+fact
+past few years
+researchers at several places
+University of California–Berkeley
+Yahoo
+Google
+California Institute of Technology
+% correct object category recognition
+number of objects
+methods
+training sets for object categorization
+left side
+cars
+fixed model for each in a generative system
+training set for object identification
+other hand
+category
+pairs
+identifiers
+distinctive regions of the object
+discriminate analysis methods
+accurate in object identification
+visual objects
+Briefly
+illustrations in Figure
+visual object dataset
+MNIST
+USPS
+CUReT
+illustrations
+populations
+mail envelopes in Buffalo
+real-world textures
+leather
+rabbit fur
+sponge
+next illustration for this object identification–visual data mining
+Figure
+objects
+Maji
+details
+interested
+sample of the false negatives
+al
+fast interaction SVM program
+source code
+book
+extension into movement modeling
+e.g
+motion picture
+successive slices of a body scan
+security threat detections
+athletic training regimens
+Taking Photos
+Pictures
+Photos
+photo
+illustration
+graph
+son
+Matt Miner 's GHOSTS Christmas album
+STATISTICA
+select Import Picture
+File menu
+diagram
+pixel in the photograph
+16-bit photo
+16-columns by 16-cases spreadsheet
+Open dialog box
+right of the dialog
+i.e
+Raw Data Plots
+Advanced tab of the Raw Data Plots dialog
+select Contour/Discrete in the Graph Type box
+spreadsheets
+injured limb
+security
+general
+visual object recognition by data mining technology
+visual object recognition
+such things as audio waves
+brain wave mapping
+full chapter Information Risk Assessment Timothy Virtue
+Justin Rainey
+HCISPP Study Guide
+part of the organizational risk management strategy
+types of threat sources
+Second Edition
+scanning of a radio-frequency band
+measurement of signal strength
+classification
+geolocating of emitters
+digital communication
+Costas-coded signaling for pulse compression radar
+radio monitoring
+FSK signal characteristics such as modulation parameters
+symbol rate
+section
+t
+multiple carrier modulation
+frequency content
+T b T b
+order of the information-bearing symbol
+constant amplitude
+frequency
+combination of frequency f
+f b
+≤ f k
+Unless
+intermediate frequency of the received signal
+Eq
+Part
+unknown
+]
+Fig
+p.
+representation from the spectrogram
+common TFD
+method
+WVD
+similar signals
+such as frequency-hopping signals
+full chapter Case study Nikolai Mansourov
+particular
+fragments of the assurance case
+linguistic analysis of the security requirement
+identification of the key characteristics
+KDM fact-oriented repository
+Security
+Risk
+Compliance
+Law
+Regulations
+Eric Conrad
+Joshua Feldman
+Third Edition
+Special Publication 800-30
+steps
+Vulnerability Identification
+“ Risk = Threat × Vulnerability ” formula
+Control Analysis
+Steps
+Impact Analysis
+Control Recommendations
+final step
+Security Programs Jason Andress CISSP
+ISSAP
+CISM
+GPEN
+Mark Leary CISSP
+CGIET
+PMP
+Practical Information Security Program
+result of the assessment
+information technology
+Vulnerability Assessments Eric D. Knapp
+Joel Thomas Langill
+business network on the other hand
+same as authorized local traffic
+Read full chapter Introduction John R. Vacca
+communicate information security issues Read full chapter FAIR Terminology Jack Freund
+Jack Jones
+Managing Information Risk
+document
+FAIR
+threat identification
+First
+analysis
+opposite of a good idea
+possible matches
+pix into an ipsec tunnel
+great
+worried
+Methods Of Use Download PDF Info Publication number US20070186284A1 US20070186284A1 US11/617
+Application number US11/617
+date 2006-12-28 Publication date 2007-08-09 2004-08-12 Priority
+priority Critical patent/US8082506B1/en 2004-08-12 Priority
+priority patent/US8091130B1/en 2006-06-30 Priority
+priority patent/US20080004805A1/en 2006-07-10 Priority
+priority patent/US8631493B2/en 2006-07-11 Priority
+MCCONNELL
+JAMES T. 2006-12-28 Priority
+PALO ALTO NETWORKS
+INC. reassignment PALO ALTO NETWORKS
+computers
+components
+data against unauthorised activity G06F21/50 — Monitoring users
+integrity of platforms
+processors
+computer platforms
+power-downs
+version controls
+system software checks
+counter-measures H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION
+location-dependent
+terminals H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION
+network traffic H04L63/1425 — Traffic
+Location-sensitive
+geographical location
+correlation of location data
+physical location
+aspect
+threat data
+location data
+map data
+map
+No
+Jul
+“ METHODS AND SYSTEMS FOR LOCATING SOURCE OF COMPUTER-ORIGINATED ATTACK BASED ON GPS EQUIPPED COMPUTING DEVICE
+Jun
+“ GEOGRAPHICAL INTRUSION MAPPING SYSTEM USING TELECOMMUNICATION BILLING AND INVENTORY SYSTEMS
+Aug.
+“ GEOGRAPHICAL INTRUSION RESPONSE PRIORITIZATION MAPPING SYSTEM
+discovered
+practice
+threat information
+impacted/suspect device
+today
+logs
+call data records
+advanced intelligent network logs
+subsequent manual drawing of network “
+Furthermore
+instance
+form of a direct attack
+worm
+receivers
+PDA
+Smartphone
+source of a computer-originated attack
+explosives
+uplink
+scenario
+computer-originated attack
+cyber attack
+GPS device
+vulnerable
+vulnerable GPS device
+security software vendor
+such as Antivirus
+attack
+GPS information
+vulnerability data with GPS data
+availability of GPS data
+manual review of TCP/IP switch information
+manual drawing of network “
+vulnerability in a sequential order
+other instances
+financial systems
+computer systems
+networks
+wireless
+cable television
+Internet access
+business transactions
+detective
+preventive
+business transaction layer
+geographical correlation between physical
+computer-related crimes
+exemplary embodiments
+Wherever possible
+restrictive of the invention
+data processing system
+computer program product
+hardware embodiment
+software embodiment
+storage medium
+hard disks
+CD-ROMs
+optical storage devices
+flowchart illustrations of methods
+flowchart illustrations
+general purpose computer
+special purpose computer
+machine
+function in a particular manner
+blocks
+specified functions
+used herein
+service
+unauthorized use
+attempt
+successful entry into a digital
+system
+scope of the present invention
+herein
+prospective intrusion
+location in a digital
+particular operating system
+Service Pack
+such software products
+software
+anti-virus software
+virus
+vulnerable computer
+specific responses
+ease of discussion
+frauds
+FIG
+databases such as threat database
+database
+location database
+display
+such as a video display
+network
+electronic communication with computer
+embodiment
+threat in the system
+such
+threat type
+description
+date/time
+duration
+tariff cost
+other wireless network
+wireless location data
+telecommunications
+wireless location
+GPS
+exit
+information from the threat
+CDR
+use in system
+main memory
+RAM
+mass storage device
+optical disk
+CRT
+Display
+input device
+such as a keyboard
+cursor control
+such as a mouse
+axes
+y
+combination with another computer system
+computer-readable medium
+computer
+alternative implementation
+place
+invention
+many forms
+non-volatile media
+volatile media
+Non-volatile media
+magnetic disks
+dynamic memory
+coaxial cables
+fiber optics
+light waves
+Common forms of computer-readable media
+floppy disk
+flexible disk
+hard disk
+magnetic tape
+other magnetic medium
+CD-ROM
+other optical medium
+punch cards
+paper tape
+holes
+PROM
+EPROM
+FLASH-EPROM
+cartridge
+carrier wave
+purposes of this discussion
+LAN
+WAN
+such implementation
+electrical
+ISP
+turn
+electric
+data
+program code
+Consistent with the present invention
+and/or
+storage device
+connectable
+alternative embodiment
+computer on network
+databases
+other location
+such as on network
+address
+geographic location
+call detail records
+physical location information
+single database
+multiple threat
+location
+discussed herein
+relational database scheme
+Microsoft Excel™ software
+present invention
+execution
+such as by computer
+geographic mapping of threat information
+stage
+such as from a computer administrator
+threat detection system
+router
+network management system
+security information manager
+description of the threat
+receipt of the threat information
+other wireless networks
+retrieves
+CDR database
+telecommunications call
+messages
+like
+respective telecommunications call
+noted
+location database record
+detail
+network address
+such as an IP address
+potential fraud
+telephone number
+telephone number in a customer database
+map database
+mapping threats
+information within map database
+Microsoft
+Within
+pushpin
+change over time
+spread
+system updates
+system that the intruded computer
+inactive
+“ new
+response team
+map database record
+new ” threat
+locations of the threats
+response teams
+threat on the map
+area of the map
+data such that a user
+status
+quantity
+hardware
+“ TDS ”
+identification system
+location system
+mapping system
+display device
+various systems
+firewall logs
+network threats
+information such as the attack type
+impacted device information such as a network device
+IP address
+threat database
+stores threat information
+threat description
+network equipment
+users
+environment
+Authentication system
+RADIUS Authentication Protocol
+network devices such as routers
+modem servers
+fields such as code
+identifier
+length
+authenticator
+password
+network point in a telecom system
+client
+Authentication data
+user information
+telecom networks
+call database
+transactions
+party telephone number
+MINs
+IP/MAC addresses
+Voice over IP system
+conventional telephone number
+customer database
+particular customer entity
+network element database
+data from the various databases
+case for environment
+network security system
+multiple computing platforms
+other location in any combination
+multiple authentication databases
+authentication
+call
+customer location and/or mapping databases
+computer administrator
+identification information from a CDR database
+examples in FIGS
+authentication identification
+caller ID information
+geographical location data
+FIGS
+pushpin symbol
+area on the map
+pushpin location
+embodiments
+system user
+status of the response
+receives
+TDS
+source telephone number
+destination telephone number
+event name
+identification data from a CDR database
+identification data
+Location data
+stages
+identification
+tables from the aforementioned databases
+associated geographic coordinates
+attack event name
+authentication database
+identification data from identification system
+updated
+mobile device
+such as a GPS device
+GPS-enabled device
+description of the attack event
+appropriate wireless location record
+location information
+such as geographic coordinates
+exemplary embodiment of wireless location data
+telephone number from threat database
+“ pushpin
+updates
+GPS devices
+location data contains
+computer-originated attack from threat database
+regard
+source network address
+destination network address
+location information module
+GPS coordinates
+source of the wireless call
+various systems in wireless communications systems
+databases such as a threat database
+fraud database
+mapping database
+computing devices
+memory
+communications protocols such
+TDSs
+part hereof
+FDSs
+“ MULTIDIMENSIONAL TRANSACTION FRAUD DETECTION SYSTEM AND METHOD
+Dec.
+Information from each of these databases
+location/GPS engine
+street address
+provided database information
+other location information
+exemplary embodiment
+other system
+RADIUS database
+GPS database
+different
+longitude
+vertical
+details such
+originating switch
+terminating switch
+call length
+time of day
+business rules of the organization
+CDR/AIN
+manual review of the CDR/AIN
+table
+format of “ NPA-NXX-XXXX
+inventory of equipment
+devices
+Altoona
+Local Exchange Routing Guide
+“ The LERG ”
+month by Telcordia
+Inc. of Piscataway
+inventory database
+NXX from the suspect telephone number
+NPA
+corresponding NXX
+states
+equipment
+-character code identifies
+state
+building
+function
+horizontal coordinates
+database of FIG
+complete suspect telephone number
+CLLI location
+suspect telephone number
+matching address
+billing address
+possible
+complaint information
+address information
+termination of a suspected fraud activity
+database record identifier
+order of priority
+billing database
+accurate than the NXX range location
+accurate than the NPA range location
+street-type addresses
+vertical coordinates
+icons
+step
+same suspected fraudulent activity
+Step
+POTS
+wireless systems
+case of VoIP
+IP address location
+roaming situations
+useful
+intrusions
+intrusion detection system
+intrusion
+description of the intrusion
+receipt of the intrusion information
+such as from a network
+fraud
+fraud detection system
+receipt of the fraud information
+VoIP
+other Internet-facilitated communications
+telephone call
+specific GPS data
+other fixed network entity
+fraud events
+map database at step
+particular intrusion
+intrusion events
+intrusion information
+map database intrusion records
+Forensic linguistics From Wikipedia
+speech Orthography Prescriptivism Second-language acquisition Structuralism Linguistics portal v t e Forensic linguistics
+legal linguistics
+law
+application of linguistic knowledge
+forensic context of law
+language
+crime investigation
+trial
+judicial processes
+provision of linguistic evidence
+Jan Svartvik
+professor of linguistics
+Notting Hill police station
+England
+crime
+Evans
+different stylistic markers
+convictions of Derek Bentley
+Guildford Four
+Bridgewater Three
+Numerous times
+forensic linguistics
+forensic linguistics in the United Kingdom
+specific format
+orderly fashion
+fast-paced
+ransom note
+Duncan McLure
+girl
+letter
+kidnappers
+proper name
+] In the 1980s
+use of 'English
+English
+IAFL
+AALL
+Johnson
+diverse
+other law-making body
+private wills
+statutes of other bodies
+English common law
+gold
+edit ] Among other things
+cross-examination
+evidence presentation
+judge 's direction
+police cautions
+police testimonies in court
+jury
+interview techniques
+police officers ' social stature
+commands
+Solan
+Tiersma
+P
+unacceptable
+lawyer
+clear
+] During the examination process
+courtroom
+specific responses from the witness
+hostile witness
+response of the witness
+yes/no questions
+elaboration
+such as wh-formation questions
+Olsson
+Luchjenborers
+witness
+slang
+different ways
+previous societal experiences
+gender differences
+socioeconomic differences
+particular dialects
+responses in the legal process
+certain minimum procedural guarantees
+[ edit ] In an emergency call
+Emphasis on intonation
+role in emergency calls
+hesitations
+signs of evasiveness
+lack of commitment
+commission of the offence
+instrument
+persons
+years
+offender
+serious physical disability
+penetration
+practices
+government contractors
+reasons
+industrial networks
+United Nations Security Council
+execution of unknown malware
+exploit
+specific industries such as banking
+retail
+medical
+automotive
+industrial controls
+possible remediation instructions
+source
+affected technologies
+available controls
+possible remediation
+CVE ID
+rules
+implications for wider military strategy
+possible operational approaches
+capability requirements
+UK by Tom Rogan | December
+commuters
+trade within parties
+requirement of double coincidence
+central banks
+subtle
+large
+global workforce
+simple hardware failure coincide
+phishing email
+annexation of Crimea
+Ukraine crisis
+unexpected
+volume of work
+substitution
+modification
+reverse engineering
+information systems change
+business environment
+
+
+

@@ -1,0 +1,10 @@
+'vulnerability'
+Top match: management
+All matches (WWW): {'databases': 2, 'security communities': 1, 'patterns': 1, 'a single repository': 1, 'newsletters': 1, 'forums': 1, 'social media': 1, 'criticality': 1, 'time graph': 1, 'a bounty': 1, 'external researchers': 1, 'type': 1, 'scanners': 1, 'threat': 1, 'assessment': 2, 'products': 1, 'infrastructure': 1, 'security concern': 1, 'quick action': 1, 'risk': 1, 'security issue': 1, 'security': 1, 'black box fuzzing': 1, 'management': 4, 'source code analysis': 1, 'security conference beVX': 1, 'this year': 1, 'eXtreme contest': 1, 'prizes': 1, 'technology partnership': 2, 'Construction': 1, 'service': 1, 'industry': 1, 'r': 1, 'a new look': 1, 'vulnerability assessment': 1, 'beSOURCE®': 1, 'public risk pools': 1, 'companies': 1, 'mitigation': 1, 'disaster': 1, 'response': 1, 'criticality assessment': 2, 'management efforts': 1, 'vulnerability scanning': 1, 'network': 1, 's devices': 1, 'remediation': 1, 'monitoring': 1, 'scans': 1, 'remediation efforts': 1, 'penetration tests': 1, 'tests': 1, 'behalf': 1, 'assessments': 1, 'mitigation measures': 1}
+All matches (WordNet): ['danger', 'weakness']
+
+
+'threat'
+Top match: 'active cyber defence'
+All matches (WWW): {'parallel': 1, 'hunting': 1, 'control': 1, 'attack vector': 1, 'TTP': 1, 'active cyber defence': 2, 'intelligence': 2, 'threat': 1, 'malware research': 2, 'exploitation research': 2, 'threat information': 1, 'network': 1, 'ise': 1, 'important details': 1, 'allegations': 2, 'pressure': 1, 'acts': 1, 'such information': 2, 'security risk': 2, 'emergency': 1, 'access': 1, 'motivation': 2, 'actor capability': 2, 'meds': 1, 'social media': 1, 'the wrong medication': 1, 'the medical center': 1, 'officials': 1, 'the time': 1, 'a statement': 1, 'Risk Analysis': 1, 'Vulnerability': 1, 'vulnerability pairs': 2, 'intelligence ones': 1, 'defense': 1, 'detection': 1, 'actors': 1}
+All matches (WordNet): ['danger', 'warning', 'declaration', 'person', 'individual', 'someone', 'somebody', 'mortal', 'soul']

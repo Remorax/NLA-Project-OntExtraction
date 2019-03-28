@@ -1,0 +1,358 @@
+date: 28:03:2019 11:52
+auto-generated-by: pronto vdev
+
+[Term]
+id: vulnerability
+name: vulnerability
+def: "Node_description Here" []
+is_a: vulnerabilities ! vulnerabilities
+
+[Term]
+id: vulnerabilities
+name: vulnerabilities
+def: "Node_description Here" []
+is_a: vulnerabilites ! vulnerabilites
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: threat
+name: threat
+def: "Node_description Here" []
+is_a: threats ! threats
+
+[Term]
+id: danger
+name: danger
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: threats
+name: threats
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: unpatched_flaws
+name: unpatched_flaws
+def: "Node_description Here" []
+is_a: vulnerabilities ! vulnerabilities
+
+[Term]
+id: exploitable_vulnerabilities
+name: exploitable_vulnerabilities
+def: "Node_description Here" []
+is_a: SQL_injection_vulnerabilities ! SQL_injection_vulnerabilities
+is_a: cyberthreat ! cyberthreat
+is_a: vulnerabilities ! vulnerabilities
+
+[Term]
+id: remotely_exploitable_vulnerability
+name: remotely_exploitable_vulnerability
+def: "Node_description Here" []
+
+[Term]
+id: buffer_overflow_flaw
+name: buffer_overflow_flaw
+def: "Node_description Here" []
+is_a: Windows_Metafile ! Windows_Metafile
+is_a: DoS_vulnerability ! DoS_vulnerability
+is_a: IE_flaw ! IE_flaw
+is_a: QuickTime_vulnerability ! QuickTime_vulnerability
+is_a: buffer_overflow_vulnerability ! buffer_overflow_vulnerability
+is_a: integer_overflow_vulnerability ! integer_overflow_vulnerability
+is_a: remotely_exploitable_vulnerability ! remotely_exploitable_vulnerability
+
+[Term]
+id: unpatched_vulnerability
+name: unpatched_vulnerability
+def: "Node_description Here" []
+is_a: unpatched_bug ! unpatched_bug
+is_a: remotely_exploitable_vulnerability ! remotely_exploitable_vulnerability
+is_a: unpatched_flaw ! unpatched_flaw
+
+[Term]
+id: XSS_vulnerability
+name: XSS_vulnerability
+def: "Node_description Here" []
+is_a: wormable ! wormable
+is_a: 0day ! 0day
+is_a: ActiveX_vulnerability ! ActiveX_vulnerability
+is_a: Clickjacking ! Clickjacking
+is_a: DCOM_RPC ! DCOM_RPC
+is_a: DNS_cache_poisoning ! DNS_cache_poisoning
+is_a: DNS_flaw ! DNS_flaw
+is_a: DoS_vulnerability ! DoS_vulnerability
+is_a: IE_flaw ! IE_flaw
+is_a: QuickTime_flaw ! QuickTime_flaw
+is_a: QuickTime_vulnerability ! QuickTime_vulnerability
+is_a: SQL_injection_vulnerabilities ! SQL_injection_vulnerabilities
+is_a: SQL_injection_vulnerability ! SQL_injection_vulnerability
+is_a: URL_spoofing ! URL_spoofing
+is_a: WMF_exploit ! WMF_exploit
+is_a: WMF_flaw ! WMF_flaw
+is_a: remotely_exploitable_vulnerability ! remotely_exploitable_vulnerability
+
+[Term]
+id: unpatched_vulnerabilities
+name: unpatched_vulnerabilities
+def: "Node_description Here" []
+is_a: VML_exploit ! VML_exploit
+is_a: ActiveX_vulnerabilities ! ActiveX_vulnerabilities
+is_a: unpatched_bugs ! unpatched_bugs
+is_a: unpatched_flaws ! unpatched_flaws
+
+[Term]
+id: unpatched_bugs
+name: unpatched_bugs
+def: "Node_description Here" []
+is_a: wormable ! wormable
+is_a: unpatched_flaws ! unpatched_flaws
+is_a: unpatched_vulnerabilities ! unpatched_vulnerabilities
+
+[Term]
+id: XSS_vulnerabilities
+name: XSS_vulnerabilities
+def: "Node_description Here" []
+
+[Term]
+id: SQL_injection_vulnerabilities
+name: SQL_injection_vulnerabilities
+def: "Node_description Here" []
+is_a: Malicious_code ! Malicious_code
+is_a: ActiveX_vulnerabilities ! ActiveX_vulnerabilities
+is_a: DNS_vulnerability ! DNS_vulnerability
+is_a: XSS_vulnerabilities ! XSS_vulnerabilities
+is_a: exploitable_vulnerabilities ! exploitable_vulnerabilities
+is_a: unpatched_Windows ! unpatched_Windows
+is_a: unpatched_vulnerabilities ! unpatched_vulnerabilities
+is_a: vulnerabilites ! vulnerabilites
+
+[Term]
+id: cyberthreat
+name: cyberthreat
+def: "Node_description Here" []
+
+[Term]
+id: vulnerabilites
+name: vulnerabilites
+def: "Node_description Here" []
+
+[Term]
+id: unpatched_flaw
+name: unpatched_flaw
+def: "Node_description Here" []
+is_a: unpatched_vulnerability ! unpatched_vulnerability
+
+[Term]
+id: unpatched_bug
+name: unpatched_bug
+def: "Node_description Here" []
+is_a: QuickTime_vulnerability ! QuickTime_vulnerability
+is_a: unpatched_vulnerability ! unpatched_vulnerability
+
+[Term]
+id: buffer_overflow_vulnerability
+name: buffer_overflow_vulnerability
+def: "Node_description Here" []
+is_a: Microsoft_DirectShow ! Microsoft_DirectShow
+is_a: DoS_vulnerability ! DoS_vulnerability
+is_a: RPC_DCOM ! RPC_DCOM
+is_a: buffer_overflow_flaw ! buffer_overflow_flaw
+is_a: buffer_overflow_vulnerabilities ! buffer_overflow_vulnerabilities
+is_a: buffer_overrun ! buffer_overrun
+is_a: integer_overflow_vulnerability ! integer_overflow_vulnerability
+is_a: unpatched_bug ! unpatched_bug
+is_a: unpatched_flaw ! unpatched_flaw
+is_a: unpatched_vulnerability ! unpatched_vulnerability
+
+[Term]
+id: Disabling_JavaScript
+name: Disabling_JavaScript
+def: "Node_description Here" []
+
+[Term]
+id: unpatched_IE
+name: unpatched_IE
+def: "Node_description Here" []
+is_a: DCOM_RPC ! DCOM_RPC
+is_a: ActiveX_vulnerability ! ActiveX_vulnerability
+is_a: Disabling_JavaScript ! Disabling_JavaScript
+is_a: URL_spoofing ! URL_spoofing
+
+[Term]
+id: buffer_overflow_exploit
+name: buffer_overflow_exploit
+def: "Node_description Here" []
+is_a: Disabling_JavaScript ! Disabling_JavaScript
+
+[Term]
+id: WMF_exploit
+name: WMF_exploit
+def: "Node_description Here" []
+is_a: WMF_vulnerability ! WMF_vulnerability
+
+[Term]
+id: WMF_vulnerability
+name: WMF_vulnerability
+def: "Node_description Here" []
+is_a: IE_flaw ! IE_flaw
+is_a: LSASS_vulnerability ! LSASS_vulnerability
+is_a: WMF_exploit ! WMF_exploit
+is_a: WMF_flaw ! WMF_flaw
+
+[Term]
+id: ActiveX_vulnerability
+name: ActiveX_vulnerability
+def: "Node_description Here" []
+is_a: VML_exploit ! VML_exploit
+is_a: unpatched_IE ! unpatched_IE
+
+[Term]
+id: worms_viruses_spyware
+name: worms_viruses_spyware
+def: "Node_description Here" []
+is_a: viruses_spyware_malware ! viruses_spyware_malware
+
+[Term]
+id: viruses_spyware_malware
+name: viruses_spyware_malware
+def: "Node_description Here" []
+is_a: worms_viruses_spyware ! worms_viruses_spyware
+
+[Term]
+id: VML_exploit
+name: VML_exploit
+def: "Node_description Here" []
+is_a: unpatched_vulnerabilities ! unpatched_vulnerabilities
+
+[Term]
+id: WMF_flaw
+name: WMF_flaw
+def: "Node_description Here" []
+is_a: WMF_vulnerability ! WMF_vulnerability
+
+[Term]
+id: LSASS_vulnerability
+name: LSASS_vulnerability
+def: "Node_description Here" []
+
+[Term]
+id: wormable
+name: wormable
+def: "Node_description Here" []
+is_a: Exploit_code ! Exploit_code
+is_a: unpatched_bugs ! unpatched_bugs
+
+[Term]
+id: Clickjacking
+name: Clickjacking
+def: "Node_description Here" []
+
+[Term]
+id: SQL_injection_vulnerability
+name: SQL_injection_vulnerability
+def: "Node_description Here" []
+is_a: XSS_vulnerability ! XSS_vulnerability
+
+[Term]
+id: DoS_vulnerability
+name: DoS_vulnerability
+def: "Node_description Here" []
+
+[Term]
+id: URL_spoofing
+name: URL_spoofing
+def: "Node_description Here" []
+
+[Term]
+id: QuickTime_vulnerability
+name: QuickTime_vulnerability
+def: "Node_description Here" []
+is_a: QuickTime_flaw ! QuickTime_flaw
+
+[Term]
+id: unpatched_Windows
+name: unpatched_Windows
+def: "Node_description Here" []
+
+[Term]
+id: DNS_vulnerability
+name: DNS_vulnerability
+def: "Node_description Here" []
+
+[Term]
+id: DNS_flaw
+name: DNS_flaw
+def: "Node_description Here" []
+is_a: DNS_vulnerability ! DNS_vulnerability
+
+[Term]
+id: RPC_DCOM
+name: RPC_DCOM
+def: "Node_description Here" []
+
+[Term]
+id: buffer_overflow_vulnerabilities
+name: buffer_overflow_vulnerabilities
+def: "Node_description Here" []
+
+[Term]
+id: DNS_cache_poisoning
+name: DNS_cache_poisoning
+def: "Node_description Here" []
+
+[Term]
+id: QuickTime_flaw
+name: QuickTime_flaw
+def: "Node_description Here" []
+
+[Term]
+id: IE_flaw
+name: IE_flaw
+def: "Node_description Here" []
+
+[Term]
+id: 0day
+name: 0day
+def: "Node_description Here" []
+
+[Term]
+id: integer_overflow_vulnerability
+name: integer_overflow_vulnerability
+def: "Node_description Here" []
+
+[Term]
+id: Exploit_code
+name: Exploit_code
+def: "Node_description Here" []
+
+[Term]
+id: buffer_overrun
+name: buffer_overrun
+def: "Node_description Here" []
+
+[Term]
+id: ActiveX_vulnerabilities
+name: ActiveX_vulnerabilities
+def: "Node_description Here" []
+
+[Term]
+id: Malicious_code
+name: Malicious_code
+def: "Node_description Here" []
+
+[Term]
+id: Microsoft_DirectShow
+name: Microsoft_DirectShow
+def: "Node_description Here" []
+
+[Term]
+id: Windows_Metafile
+name: Windows_Metafile
+def: "Node_description Here" []
+
+[Term]
+id: DCOM_RPC
+name: DCOM_RPC
+def: "Node_description Here" []

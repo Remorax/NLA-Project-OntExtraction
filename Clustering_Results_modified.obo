@@ -1,0 +1,5893 @@
+date: 28:03:2019 11:52
+auto-generated-by: pronto vdev
+
+[Term]
+id: vulnerability
+name: vulnerability
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: danger
+name: danger
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: weakness
+name: weakness
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: coast
+name: coast
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: BUENO
+name: BUENO
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CARMO
+name: CARMO
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Exposures
+name: Exposures
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: consent
+name: consent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: application
+name: application
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: access
+name: access
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: area
+name: area
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Macao
+name: Macao
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: China
+name: China
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: unprofessional
+name: unprofessional
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: unnecessary
+name: unnecessary
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ve
+name: ve
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Volume
+name: Volume
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Issue
+name: Issue
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: flow
+name: flow
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: probabilistic
+name: probabilistic
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: solvable
+name: solvable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: approximation
+name: approximation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: combinatorial
+name: combinatorial
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Nazarova
+name: Nazarova
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: al
+name: al
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Lett
+name: Lett
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Multi-Flows
+name: Multi-Flows
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: VNIISI
+name: VNIISI
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Moscow
+name: Moscow
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Wiley
+name: Wiley
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Nauka
+name: Nauka
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Press
+name: Press
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Mir
+name: Mir
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Springer
+name: Springer
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Heidelberg
+name: Heidelberg
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Freeman
+name: Freeman
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Prentice-Hall
+name: Prentice-Hall
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sci
+name: Sci
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CEDRIC-CNAM
+name: CEDRIC-CNAM
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Paris
+name: Paris
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Survey
+name: Survey
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ACM
+name: ACM
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Toronto
+name: Toronto
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: H
+name: H
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Novosibirsk
+name: Novosibirsk
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Comput
+name: Comput
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Panconnectivity
+name: Panconnectivity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Math
+name: Math
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Graphs
+name: Graphs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Reports
+name: Reports
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Fractals
+name: Fractals
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Debrecen
+name: Debrecen
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: USA
+name: USA
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: pp
+name: pp
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Tree-Width
+name: Tree-Width
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: MIT
+name: MIT
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Cambridge
+name: Cambridge
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Flow
+name: Flow
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Res
+name: Res
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Kluwer
+name: Kluwer
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Boston
+name: Boston
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Optimal
+name: Optimal
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Computers
+name: Computers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Phoenix
+name: Phoenix
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: System
+name: System
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Track
+name: Track
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Interfaces
+name: Interfaces
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Nauk
+name: Nauk
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Fizmatlit
+name: Fizmatlit
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Kiev
+name: Kiev
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: California
+name: California
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Service
+name: Service
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Upr
+name: Upr
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sigal
+name: Sigal
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Algorithms
+name: Algorithms
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Programs
+name: Programs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Applications
+name: Applications
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Ortimization
+name: Ortimization
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Academic
+name: Academic
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: London
+name: London
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: McGraw-Hill
+name: McGraw-Hill
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Tioga
+name: Tioga
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: T
+name: T
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: email
+name: email
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: applicable
+name: applicable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: industry-leading
+name: industry-leading
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: professional
+name: professional
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: change
+name: change
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: triage
+name: triage
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: procedures
+name: procedures
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: times
+name: times
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: exposure
+name: exposure
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: systems
+name: systems
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: applications
+name: applications
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: prevention
+name: prevention
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: analyze
+name: analyze
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: services
+name: services
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: customers
+name: customers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: awareness
+name: awareness
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: reliable
+name: reliable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: commitment
+name: commitment
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: one
+name: one
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: organizations
+name: organizations
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: action
+name: action
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: timelines
+name: timelines
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: addition
+name: addition
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: information
+name: information
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: companies
+name: companies
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: products
+name: products
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: protocols
+name: protocols
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: methodologies
+name: methodologies
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: standards
+name: standards
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: First
+name: First
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: project
+name: project
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sit
+name: Sit
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: complete
+name: complete
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: course
+name: course
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: organization
+name: organization
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: circumstances
+name: circumstances
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: confidentiality
+name: confidentiality
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: availability
+name: availability
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: infrastructure
+name: infrastructure
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: design
+name: design
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: available
+name: available
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: past
+name: past
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: example
+name: example
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: September
+name: September
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: situations
+name: situations
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: October
+name: October
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: high
+name: high
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: increase
+name: increase
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: routers
+name: routers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: switches
+name: switches
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: threats
+name: threats
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: exploitation
+name: exploitation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: inherent
+name: inherent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: attack
+name: attack
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FIRST
+name: FIRST
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CVSS
+name: CVSS
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: quick
+name: quick
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: severity
+name: severity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: relevance
+name: relevance
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: model
+name: model
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: necessary
+name: necessary
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Low
+name: Low
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Medium
+name: Medium
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: High
+name: High
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Critical
+name: Critical
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Appl
+name: Appl
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Number
+name: Number
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: January-March
+name: January-March
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: March
+name: March
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: accessible
+name: accessible
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CHOW
+name: CHOW
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: GUSTAVE
+name: GUSTAVE
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CHRISTOPHE
+name: CHRISTOPHE
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: WIEMER
+name: WIEMER
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: computers
+name: computers
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: components
+name: components
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: processors
+name: processors
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: power-downs
+name: power-downs
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: No
+name: No
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: May
+name: May
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sep.
+name: Sep.
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: particular
+name: particular
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: SysAdmin
+name: SysAdmin
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Audit
+name: Audit
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Network
+name: Network
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Institute
+name: Institute
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: instance
+name: instance
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: name
+name: name
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: approach
+name: approach
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: objective
+name: objective
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: time
+name: time
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: advisories
+name: advisories
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: vulnerabilities
+name: vulnerabilities
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: unimportant
+name: unimportant
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: aggregator
+name: aggregator
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: interface
+name: interface
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: embodiment
+name: embodiment
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: this-case
+name: this-case
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: embodiments
+name: embodiments
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: policies
+name: policies
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: case
+name: case
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: sources
+name: sources
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: method
+name: method
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: owners
+name: owners
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: countermeasures
+name: countermeasures
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: risks
+name: risks
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FIG
+name: FIG
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Users/owners
+name: Users/owners
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: indication
+name: indication
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: probability
+name: probability
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Assets
+name: Assets
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: assets
+name: assets
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: users/owners
+name: users/owners
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: databases
+name: databases
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: LAN
+name: LAN
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: operation
+name: operation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: mouse
+name: mouse
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: touchscreen
+name: touchscreen
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: stores
+name: stores
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: further
+name: further
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: display
+name: display
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: keyboard
+name: keyboard
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: network
+name: network
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: drivers
+name: drivers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hardware
+name: hardware
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: processor
+name: processor
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: movable
+name: movable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: multiple
+name: multiple
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: implementation
+name: implementation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: drawing
+name: drawing
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: user
+name: user
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: events
+name: events
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: format
+name: format
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: relationships
+name: relationships
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: images
+name: images
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: text
+name: text
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: warnings
+name: warnings
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: content
+name: content
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: parameters
+name: parameters
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: analysis
+name: analysis
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: service
+name: service
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: mission
+name: mission
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: feature
+name: feature
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: foregoing
+name: foregoing
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: software
+name: software
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: firmware
+name: firmware
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: apparatus
+name: apparatus
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: microprocessors
+name: microprocessors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: microcontrollers
+name: microcontrollers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ASICs
+name: ASICs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: PLDs
+name: PLDs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FPGAs
+name: FPGAs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: system
+name: system
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: important
+name: important
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: variant
+name: variant
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: interfaces
+name: interfaces
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: platforms
+name: platforms
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: labels
+name: labels
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: tags
+name: tags
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: source
+name: source
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: vendor
+name: vendor
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ”
+name: ”
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: single
+name: single
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: consistent
+name: consistent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: mean
+name: mean
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: maximum
+name: maximum
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: field-specific
+name: field-specific
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: cases
+name: cases
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: conflicts
+name: conflicts
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: consumer
+name: consumer
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: database
+name: database
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: server
+name: server
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: anything
+name: anything
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: trigger
+name: trigger
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: herein
+name: herein
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FIGS
+name: FIGS
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Confidentiality
+name: Confidentiality
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Integrity
+name: Integrity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Availability
+name: Availability
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: apparent
+name: apparent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: store
+name: store
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: layout
+name: layout
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: fields
+name: fields
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: stress
+name: stress
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: spoofing
+name: spoofing
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: reference
+name: reference
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hostnames
+name: hostnames
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: networks
+name: networks
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: scanme.nmap.org
+name: scanme.nmap.org
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: microsoft.com/24
+name: microsoft.com/24
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: [
+name: [
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: timestamp
+name: timestamp
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: C
+name: C
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Unicornscan
+name: Unicornscan
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: HTML
+name: HTML
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: pause
+name: pause
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: floods
+name: floods
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: contrast
+name: contrast
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: resources
+name: resources
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: social
+name: social
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: demographic
+name: demographic
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: location
+name: location
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: flooding
+name: flooding
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: processes
+name: processes
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: few
+name: few
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: e.g
+name: e.g
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: plan
+name: plan
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: absorb
+name: absorb
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: recover
+name: recover
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: vulnerable
+name: vulnerable
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: relevant
+name: relevant
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: recent
+name: recent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: familiar
+name: familiar
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sect
+name: Sect
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: first
+name: first
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: opportunities
+name: opportunities
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: limitations
+name: limitations
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: world
+name: world
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: nations
+name: nations
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: gaps
+name: gaps
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: latter
+name: latter
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: economic
+name: economic
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: variables
+name: variables
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Wood
+name: Wood
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Santos
+name: Santos
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Cooper
+name: Cooper
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Huang
+name: Huang
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Lichter
+name: Lichter
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: local
+name: local
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hazard
+name: hazard
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: dynamics
+name: dynamics
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: SoVI
+name: SoVI
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: future
+name: future
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ecological
+name: ecological
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: institutional
+name: institutional
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: natural
+name: natural
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: physical
+name: physical
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: human
+name: human
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: mitigation
+name: mitigation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: preparedness
+name: preparedness
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: response
+name: response
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: unavailable
+name: unavailable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: unreliable
+name: unreliable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: indicators
+name: indicators
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: indices
+name: indices
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: weight
+name: weight
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Whether
+name: Whether
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Burton
+name: Burton
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: decisions
+name: decisions
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: plans
+name: plans
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Fekete
+name: Fekete
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: factors
+name: factors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: numerous
+name: numerous
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Andrey
+name: Andrey
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Furthermore
+name: Furthermore
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: intent
+name: intent
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: stakeholders
+name: stakeholders
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: practice
+name: practice
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: use
+name: use
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Birkmann
+name: Birkmann
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: purpose
+name: purpose
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hence
+name: hence
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: similarity
+name: similarity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ecology
+name: ecology
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Hastings
+name: Hastings
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: interest
+name: interest
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: others
+name: others
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: binary
+name: binary
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: high/medium/low
+name: high/medium/low
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: considerations
+name: considerations
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Gan
+name: Gan
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: x
+name: x
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: k
+name: k
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: communities
+name: communities
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: y
+name: y
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: HVSI
+name: HVSI
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: i.e
+name: i.e
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: =
+name: =
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: present
+name: present
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: data
+name: data
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Table
+name: Table
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: variable
+name: variable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: small
+name: small
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: populations
+name: populations
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: earthquake
+name: earthquake
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: tsunami
+name: tsunami
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: indicator
+name: indicator
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: dollars
+name: dollars
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: demonstration
+name: demonstration
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: businesses
+name: businesses
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: French
+name: French
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: environment
+name: environment
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: size
+name: size
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: composition
+name: composition
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: participation
+name: participation
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: risk
+name: risk
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: diversity
+name: diversity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: integration
+name: integration
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Census
+name: Census
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Canada
+name: Canada
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: community
+name: community
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Figs
+name: Figs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: c
+name: c
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Fig
+name: Fig
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: b
+name: b
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: planning
+name: planning
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: built
+name: built
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: landform
+name: landform
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: sum
+name: sum
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hazards
+name: hazards
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: L
+name: L
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: R
+name: R
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: errors
+name: errors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: advice
+name: advice
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ICS-CERT
+name: ICS-CERT
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: incorrect
+name: incorrect
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: sure
+name: sure
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: reason
+name: reason
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Article
+name: Article
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: newcomers
+name: newcomers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Total
+name: Total
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Unit
+name: Unit
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: place
+name: place
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: late
+name: late
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: capacity
+name: capacity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: assessment
+name: assessment
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: MSF
+name: MSF
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: over-identified
+name: over-identified
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: briefly
+name: briefly
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: document
+name: document
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Qualys
+name: Qualys
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Inc
+name: Inc
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ACCEPT
+name: ACCEPT
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: term
+name: term
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: password
+name: password
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: liability
+name: liability
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: damages
+name: damages
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Site
+name: Site
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: power
+name: power
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: reviewing
+name: reviewing
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: engineer
+name: engineer
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: decompile
+name: decompile
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Sections
+name: Sections
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: structure
+name: structure
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: licensors
+name: licensors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: February
+name: February
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: January
+name: January
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: December
+name: December
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: November
+name: November
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: August
+name: August
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: July
+name: July
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: June
+name: June
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: April
+name: April
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Symantec
+name: Symantec
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Technology
+name: Technology
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: EFF
+name: EFF
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: dynamic
+name: dynamic
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: site
+name: site
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: practices
+name: practices
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: DevOps
+name: DevOps
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: efforts
+name: efforts
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: defenders
+name: defenders
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: wild
+name: wild
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: report
+name: report
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: criticals
+name: criticals
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Bugtraq
+name: Bugtraq
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: BID
+name: BID
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: likelihood
+name: likelihood
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ThreatGuard
+name: ThreatGuard
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: tests
+name: tests
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Compliance
+name: Compliance
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: academia
+name: academia
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: process
+name: process
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: definitions
+name: definitions
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: years
+name: years
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: list
+name: list
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Orlando
+name: Orlando
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Florida
+name: Florida
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: utilities
+name: utilities
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Booth
+name: Booth
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: booths
+name: booths
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Schema
+name: Schema
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: UNIX
+name: UNIX
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: NVD
+name: NVD
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL
+name: OVAL
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Independent
+name: Independent
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: HP-UX
+name: HP-UX
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: D.C
+name: D.C
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: release
+name: release
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: right
+name: right
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ArcSight
+name: ArcSight
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ceremony
+name: ceremony
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: group
+name: group
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Exhibition
+name: Exhibition
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Washington
+name: Washington
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CVE
+name: CVE
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: government
+name: government
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CME
+name: CME
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: event
+name: event
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: incidents
+name: incidents
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: BigFix
+name: BigFix
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: tools
+name: tools
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: enterprise
+name: enterprise
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: declaration
+name: declaration
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: reasonable
+name: reasonable
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Hercules
+name: Hercules
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: archive
+name: archive
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: UK
+name: UK
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Adelphi
+name: Adelphi
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Maryland
+name: Maryland
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FIAC
+name: FIAC
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: accreditors
+name: accreditors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Interpreters
+name: Interpreters
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL-compatible
+name: OVAL-compatible
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: tool
+name: tool
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: patches
+name: patches
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Easy-to-Use
+name: Easy-to-Use
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Comprehensive
+name: Comprehensive
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL1133
+name: OVAL1133
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL207
+name: OVAL207
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL241
+name: OVAL241
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: E-Soft
+name: E-Soft
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: NIST
+name: NIST
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: article
+name: article
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: FAQs
+name: FAQs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Interpreter
+name: Interpreter
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: definition
+name: definition
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: result
+name: result
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Bedford
+name: Bedford
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Wellesley
+name: Wellesley
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Massachusetts
+name: Massachusetts
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: state
+name: state
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Tuesday
+name: Tuesday
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Version
+name: Version
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Scottsdale
+name: Scottsdale
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Arizona
+name: Arizona
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: netForensics
+name: netForensics
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: regulations
+name: regulations
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: -15
+name: -15
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: directors
+name: directors
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CIOs
+name: CIOs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: CSOs
+name: CSOs
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: administrators
+name: administrators
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Webmasters
+name: Webmasters
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: attributes
+name: attributes
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Status
+name: Status
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: status
+name: status
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: IDS
+name: IDS
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: XCCDF
+name: XCCDF
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: activities
+name: activities
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: way
+name: way
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: focused
+name: focused
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: efficient
+name: efficient
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: impossible
+name: impossible
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ]
+name: ]
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Denver
+name: Denver
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Colorado
+name: Colorado
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Utah
+name: Utah
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Army
+name: Army
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Navy
+name: Navy
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: DISA
+name: DISA
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: industry
+name: industry
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Preventsys
+name: Preventsys
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Expo/2005
+name: Expo/2005
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Department
+name: Department
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: banking
+name: banking
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: finance
+name: finance
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: insurance
+name: insurance
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: analysts
+name: analysts
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: engineers
+name: engineers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: managers
+name: managers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: workshops
+name: workshops
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: publications
+name: publications
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: types
+name: types
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Interim
+name: Interim
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: schemas
+name: schemas
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OSVDB
+name: OSVDB
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL886
+name: OVAL886
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL1530
+name: OVAL1530
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL2155
+name: OVAL2155
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL3179
+name: OVAL3179
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL1186
+name: OVAL1186
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL1943
+name: OVAL1943
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL3514
+name: OVAL3514
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL306
+name: OVAL306
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL322
+name: OVAL322
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: OVAL507
+name: OVAL507
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Cisco
+name: Cisco
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Schemas
+name: Schemas
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: MulVAL
+name: MulVAL
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: ICAT
+name: ICAT
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Texas
+name: Texas
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: X9
+name: X9
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: private
+name: private
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: integrity
+name: integrity
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: developers
+name: developers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: benchmarks
+name: benchmarks
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: compliance
+name: compliance
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Georgia
+name: Georgia
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: open
+name: open
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Timeline
+name: Timeline
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Pennsylvania
+name: Pennsylvania
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: NSA
+name: NSA
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: forum
+name: forum
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: issue
+name: issue
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: critical
+name: critical
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: language
+name: language
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: gender
+name: gender
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: race
+name: race
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: age
+name: age
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: Meltdown
+name: Meltdown
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: anyone
+name: anyone
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: hackers
+name: hackers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: peers
+name: peers
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: friends
+name: friends
+def: "Node_description Here" []
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: today
+name: today
+def: "Node_description Here" []
+is_a: threat ! threat
+is_a: vulnerability ! vulnerability
+
+[Term]
+id: threat
+name: threat
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: warning
+name: warning
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: person
+name: person
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: individual
+name: individual
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: someone
+name: someone
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: somebody
+name: somebody
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: mortal
+name: mortal
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: soul
+name: soul
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: s
+name: s
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: DOI
+name: DOI
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: keywords
+name: keywords
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: authors
+name: authors
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: etc
+name: etc
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: schemes
+name: schemes
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: student
+name: student
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: FERPA
+name: FERPA
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: sociology
+name: sociology
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: effect
+name: effect
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: colleagues
+name: colleagues
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Esses
+name: Esses
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ed
+name: ed
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: unsafe
+name: unsafe
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: realistic
+name: realistic
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: success
+name: success
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: likely
+name: likely
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Wann
+name: Wann
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: outgroup
+name: outgroup
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Russians
+name: Russians
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: d
+name: d
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: jobs
+name: jobs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: beliefs
+name: beliefs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: immigrants
+name: immigrants
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Muslims
+name: Muslims
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: tourists
+name: tourists
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Germany
+name: Germany
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: imilate
+name: imilate
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: questionnaires
+name: questionnaires
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: stereotypes
+name: stereotypes
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Muslim
+name: Muslim
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: groups
+name: groups
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: civilizations
+name: civilizations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: conspiracy
+name: conspiracy
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Fiji
+name: Fiji
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: tourism
+name: tourism
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: influence
+name: influence
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: helpful
+name: helpful
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: oret
+name: oret
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: imilation
+name: imilation
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: UTC
+name: UTC
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: dead
+name: dead
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: organisms
+name: organisms
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: chances
+name: chances
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: field
+name: field
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: appearance
+name: appearance
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: scent
+name: scent
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: identity
+name: identity
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: presence
+name: presence
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: color
+name: color
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: shape
+name: shape
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: order
+name: order
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: vibrations
+name: vibrations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: rainfall
+name: rainfall
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fleeing
+name: fleeing
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: shells
+name: shells
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: energy
+name: energy
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: nearby
+name: nearby
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ly
+name: ly
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: predators
+name: predators
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: silent
+name: silent
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: refuge
+name: refuge
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: coloration
+name: coloration
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: behavior
+name: behavior
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: stones
+name: stones
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: predator
+name: predator
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: irritant
+name: irritant
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: predation
+name: predation
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: mates
+name: mates
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: sentries
+name: sentries
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: respond
+name: respond
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fail
+name: fail
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: camouflage
+name: camouflage
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: armor
+name: armor
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: gait
+name: gait
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: springing
+name: springing
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: signals
+name: signals
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: B
+name: B
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Name
+name: Name
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Environment
+name: Environment
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Conflict
+name: Conflict
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Present
+name: Present
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: LearnCasting
+name: LearnCasting
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ing
+name: ing
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: session
+name: session
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Settings
+name: Settings
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fad
+name: fad
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Thrip
+name: Thrip
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: commissioner
+name: commissioner
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: rushers
+name: rushers
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: alert
+name: alert
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Mission
+name: Mission
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: IPFIX
+name: IPFIX
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ability
+name: ability
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: detect
+name: detect
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: opportunity
+name: opportunity
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: contractors
+name: contractors
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: bottom
+name: bottom
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: rampant
+name: rampant
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Reston
+name: Reston
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: WannaCry
+name: WannaCry
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: frequent
+name: frequent
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: sophisticated
+name: sophisticated
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Today
+name: Today
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: banks
+name: banks
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: STIX
+name: STIX
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: efficacy
+name: efficacy
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: cost
+name: cost
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: part
+name: part
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: incident
+name: incident
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: restrictions
+name: restrictions
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: representation
+name: representation
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: SIEM
+name: SIEM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: platform
+name: platform
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: nuclear
+name: nuclear
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: radiological
+name: radiological
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: chemical
+name: chemical
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: biological
+name: biological
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Journals
+name: Journals
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: DSM-IV-TR
+name: DSM-IV-TR
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: prioritize
+name: prioritize
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Desktops
+name: Desktops
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: integrations
+name: integrations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: productivity
+name: productivity
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Systems
+name: Systems
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: reality
+name: reality
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: malware
+name: malware
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: feasibility
+name: feasibility
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: far-fetched
+name: far-fetched
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Spectre
+name: Spectre
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Athletics
+name: Athletics
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Fitness
+name: Fitness
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: UC
+name: UC
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: educators
+name: educators
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: staff
+name: staff
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: faculty
+name: faculty
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: visitors
+name: visitors
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: month
+name: month
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: last
+name: last
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: dark
+name: dark
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: techniques
+name: techniques
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Next
+name: Next
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: media
+name: media
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: losses
+name: losses
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: visualization
+name: visualization
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Chapter
+name: Chapter
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: people
+name: people
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: animals
+name: animals
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: rocks
+name: rocks
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fact
+name: fact
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Yahoo
+name: Yahoo
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Google
+name: Google
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: methods
+name: methods
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: cars
+name: cars
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: category
+name: category
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: pairs
+name: pairs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: identifiers
+name: identifiers
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Briefly
+name: Briefly
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: MNIST
+name: MNIST
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: USPS
+name: USPS
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CUReT
+name: CUReT
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: illustrations
+name: illustrations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: leather
+name: leather
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: sponge
+name: sponge
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Figure
+name: Figure
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: objects
+name: objects
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Maji
+name: Maji
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: details
+name: details
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: interested
+name: interested
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: book
+name: book
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Pictures
+name: Pictures
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Photos
+name: Photos
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: photo
+name: photo
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: illustration
+name: illustration
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: graph
+name: graph
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: son
+name: son
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: STATISTICA
+name: STATISTICA
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: diagram
+name: diagram
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: spreadsheets
+name: spreadsheets
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: security
+name: security
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: general
+name: general
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: classification
+name: classification
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: section
+name: section
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: t
+name: t
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: frequency
+name: frequency
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Unless
+name: Unless
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Eq
+name: Eq
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Part
+name: Part
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: unknown
+name: unknown
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: p.
+name: p.
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: WVD
+name: WVD
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Security
+name: Security
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Risk
+name: Risk
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Law
+name: Law
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Regulations
+name: Regulations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: steps
+name: steps
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Steps
+name: Steps
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ISSAP
+name: ISSAP
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CISM
+name: CISM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: GPEN
+name: GPEN
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CGIET
+name: CGIET
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: PMP
+name: PMP
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: FAIR
+name: FAIR
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: great
+name: great
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: worried
+name: worried
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: MCCONNELL
+name: MCCONNELL
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: location-dependent
+name: location-dependent
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Location-sensitive
+name: Location-sensitive
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: aspect
+name: aspect
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: map
+name: map
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Jul
+name: Jul
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Jun
+name: Jun
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Aug.
+name: Aug.
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: discovered
+name: discovered
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: logs
+name: logs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: worm
+name: worm
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: receivers
+name: receivers
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: PDA
+name: PDA
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Smartphone
+name: Smartphone
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: explosives
+name: explosives
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: uplink
+name: uplink
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: scenario
+name: scenario
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: wireless
+name: wireless
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: detective
+name: detective
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: preventive
+name: preventive
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CD-ROMs
+name: CD-ROMs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: machine
+name: machine
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: blocks
+name: blocks
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: attempt
+name: attempt
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: virus
+name: virus
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: frauds
+name: frauds
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: such
+name: such
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: description
+name: description
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: date/time
+name: date/time
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: duration
+name: duration
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: telecommunications
+name: telecommunications
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: GPS
+name: GPS
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: exit
+name: exit
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CDR
+name: CDR
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: RAM
+name: RAM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CRT
+name: CRT
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Display
+name: Display
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: axes
+name: axes
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: computer
+name: computer
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: invention
+name: invention
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CD-ROM
+name: CD-ROM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: holes
+name: holes
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: PROM
+name: PROM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: EPROM
+name: EPROM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: FLASH-EPROM
+name: FLASH-EPROM
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: cartridge
+name: cartridge
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: WAN
+name: WAN
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: electrical
+name: electrical
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: ISP
+name: ISP
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: turn
+name: turn
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: electric
+name: electric
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: and/or
+name: and/or
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: connectable
+name: connectable
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: address
+name: address
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: execution
+name: execution
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: stage
+name: stage
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: router
+name: router
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: retrieves
+name: retrieves
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: messages
+name: messages
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: like
+name: like
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: noted
+name: noted
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: detail
+name: detail
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Microsoft
+name: Microsoft
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Within
+name: Within
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: pushpin
+name: pushpin
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: spread
+name: spread
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: inactive
+name: inactive
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: quantity
+name: quantity
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: users
+name: users
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: identifier
+name: identifier
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: length
+name: length
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: authenticator
+name: authenticator
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: client
+name: client
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: transactions
+name: transactions
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: MINs
+name: MINs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: authentication
+name: authentication
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: call
+name: call
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: receives
+name: receives
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: TDS
+name: TDS
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: stages
+name: stages
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: identification
+name: identification
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: updated
+name: updated
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: updates
+name: updates
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: regard
+name: regard
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: memory
+name: memory
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: TDSs
+name: TDSs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: FDSs
+name: FDSs
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Dec.
+name: Dec.
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: different
+name: different
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: longitude
+name: longitude
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: vertical
+name: vertical
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: CDR/AIN
+name: CDR/AIN
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: table
+name: table
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: devices
+name: devices
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Altoona
+name: Altoona
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: NPA
+name: NPA
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: states
+name: states
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: equipment
+name: equipment
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: building
+name: building
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: function
+name: function
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: possible
+name: possible
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: icons
+name: icons
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: step
+name: step
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Step
+name: Step
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: POTS
+name: POTS
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: useful
+name: useful
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: intrusions
+name: intrusions
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: intrusion
+name: intrusion
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fraud
+name: fraud
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: VoIP
+name: VoIP
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: law
+name: law
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: trial
+name: trial
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: England
+name: England
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: crime
+name: crime
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Evans
+name: Evans
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: fast-paced
+name: fast-paced
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: girl
+name: girl
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: letter
+name: letter
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: kidnappers
+name: kidnappers
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: English
+name: English
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: IAFL
+name: IAFL
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: AALL
+name: AALL
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Johnson
+name: Johnson
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: diverse
+name: diverse
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: gold
+name: gold
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: cross-examination
+name: cross-examination
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: jury
+name: jury
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: commands
+name: commands
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Solan
+name: Solan
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Tiersma
+name: Tiersma
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: P
+name: P
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: unacceptable
+name: unacceptable
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: lawyer
+name: lawyer
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: clear
+name: clear
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: courtroom
+name: courtroom
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: elaboration
+name: elaboration
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Olsson
+name: Olsson
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: Luchjenborers
+name: Luchjenborers
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: witness
+name: witness
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: slang
+name: slang
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: hesitations
+name: hesitations
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: instrument
+name: instrument
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: persons
+name: persons
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: offender
+name: offender
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: penetration
+name: penetration
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: reasons
+name: reasons
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: exploit
+name: exploit
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: retail
+name: retail
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: medical
+name: medical
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: automotive
+name: automotive
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: rules
+name: rules
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: commuters
+name: commuters
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: subtle
+name: subtle
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: large
+name: large
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: unexpected
+name: unexpected
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: substitution
+name: substitution
+def: "Node_description Here" []
+is_a: threat ! threat
+
+[Term]
+id: modification
+name: modification
+def: "Node_description Here" []
+is_a: threat ! threat

@@ -1,0 +1,3081 @@
+danger isA vulnerability
+weakness isA vulnerability
+land Page isA vulnerability
+soil properties isA vulnerability
+hydraulic properties isA vulnerability
+precipitation patterns isA vulnerability
+ground water isA vulnerability
+land use isA vulnerability
+cross-site scripting isA vulnerability
+weaknesses in session handling isA vulnerability
+broken access controls isA vulnerability
+coast isA vulnerability
+BUENO isA vulnerability
+CARMO isA vulnerability
+Out-of-Bounds Write isA vulnerability
+Exposures isA vulnerability
+Common Vulnerabilities isA vulnerability
+consent isA vulnerability
+Help IEEE Account Change Username/Password Update Address Purchase Details Payment isA vulnerability
+Get Help Feedback Technical Support isA vulnerability
+Education Technical Interests Need Help isA vulnerability
+Documents Profile Information Communications Preferences Profession isA vulnerability
+d Documents Profile Information Communications Preferences Profession isA vulnerability
+application isA vulnerability
+operating system isA vulnerability
+access isA vulnerability
+area isA vulnerability
+Macao isA vulnerability
+Hong Kong isA vulnerability
+China isA vulnerability
+imposition of fiduciary duties isA vulnerability
+same OpenSSL library isA vulnerability
+unprofessional isA vulnerability
+unnecessary isA vulnerability
+genetics X environmental factors isA vulnerability
+ve isA vulnerability
+advanced with JavaScript available isA vulnerability
+International July isA vulnerability
+Volume isA vulnerability
+Issue isA vulnerability
+flow isA vulnerability
+graph theoretical isA vulnerability
+probabilistic isA vulnerability
+solvable isA vulnerability
+other cases isA vulnerability
+approximation isA vulnerability
+combinatorial isA vulnerability
+other methods isA vulnerability
+Nazarova isA vulnerability
+Teoriya i Sistemy Upravleniya isA vulnerability
+R. Albert isA vulnerability
+H. Jeong isA vulnerability
+A. Barabasi isA vulnerability
+Error Tolerance in Complex Networks isA vulnerability
+” Nature isA vulnerability
+R. Cohen isA vulnerability
+K. Erez isA vulnerability
+D. Ben-Avraham isA vulnerability
+al isA vulnerability
+Intentional Attack isA vulnerability
+Lett isA vulnerability
+A. V. Karzanov isA vulnerability
+Multi-Flows isA vulnerability
+VNIISI isA vulnerability
+Moscow isA vulnerability
+D. W. Matula isA vulnerability
+Concurrent Connectivity in Graphs isA vulnerability
+Wiley isA vulnerability
+New York isA vulnerability
+B. Germeier isA vulnerability
+Nauka isA vulnerability
+D. R. Fulkerson isA vulnerability
+Press isA vulnerability
+Mir isA vulnerability
+F. Wagner isA vulnerability
+A Simple Minimum Cut Algorithm isA vulnerability
+” J. ACM isA vulnerability
+G. Ausiello isA vulnerability
+P. Crescenzi isA vulnerability
+G. Gambosi isA vulnerability
+Springer isA vulnerability
+Heidelberg isA vulnerability
+D. S. Johnson isA vulnerability
+Freeman isA vulnerability
+San Francisco isA vulnerability
+C. H. Papadimitriou isA vulnerability
+K. Steiglitz isA vulnerability
+Prentice-Hall isA vulnerability
+Englewood Cliffs isA vulnerability
+E. Dalhaus isA vulnerability
+Complexity of Multiway Cuts isA vulnerability
+” SIAM J. Comput isA vulnerability
+M. Yannakakis isA vulnerability
+P. C. Kanellakis isA vulnerability
+S. C. Cosmadakis isA vulnerability
+Graph After a Fixed Pattern isA vulnerability
+Sci isA vulnerability
+N. Garg isA vulnerability
+V. V. Vazirani isA vulnerability
+Their Applications isA vulnerability
+Y. Rabani isA vulnerability
+Approximation Algorithm isA vulnerability
+O. Günlük isA vulnerability
+New Min-Cut Max-Flow Ratio for Multicommodity Flow isA vulnerability
+M.-C. Costa isA vulnerability
+L. Letocart isA vulnerability
+F. Roupin isA vulnerability
+Integral Multiflow in Rooted Trees isA vulnerability
+L. Létocart isA vulnerability
+CEDRIC-CNAM isA vulnerability
+Paris isA vulnerability
+M-C. Costa isA vulnerability
+Survey isA vulnerability
+Operational Research isA vulnerability
+K. Obata isA vulnerability
+“ Approximate Max-Intergral-Flow isA vulnerability
+Min-Multicut Theorems isA vulnerability
+ACM isA vulnerability
+Toronto isA vulnerability
+N. Linial isA vulnerability
+E. London isA vulnerability
+Y. Rabinovich isA vulnerability
+Algorithmic Application isA vulnerability
+” Combinatorica isA vulnerability
+C. A. Barefoot isA vulnerability
+R. Entringer isA vulnerability
+H isA vulnerability
+H. Swart isA vulnerability
+“ Vulnerability in Graphs—A Comparative Survey isA vulnerability
+Combinatorial Comput isA vulnerability
+V. K. Popkov isA vulnerability
+MG SORAN isA vulnerability
+Novosibirsk isA vulnerability
+Y. Chen isA vulnerability
+J. Tan isA vulnerability
+L. Hsu isA vulnerability
+Super-Edge-Connectivity for Some Inter Connection Networks isA vulnerability
+Comput isA vulnerability
+J.-H. Yin isA vulnerability
+J.-S. Li isA vulnerability
+G.-L. Chen isA vulnerability
+Wide Diameter of ω-Connected Graphs isA vulnerability
+” Networks isA vulnerability
+J.-M. Chang isA vulnerability
+J.-S. Yang isA vulnerability
+Y.-L. Wang isA vulnerability
+Panconnectivity isA vulnerability
+Hamiltonian-Connectivity in Alternating Group Graphs isA vulnerability
+Z. Wang isA vulnerability
+Number in Graphs isA vulnerability
+MathSciNet CrossRef zbMATH Google Scholar isA vulnerability
+S. Peng isA vulnerability
+Other Vulnerability Parameters isA vulnerability
+Math isA vulnerability
+A. Kurlangic isA vulnerability
+Edge-Integrity of Some Graphs isA vulnerability
+A. Kirlangic isA vulnerability
+Graphs isA vulnerability
+Modeling Algorithms isA vulnerability
+M. Urquhart isA vulnerability
+Reports isA vulnerability
+” INCO isA vulnerability
+P. Holm isA vulnerability
+B. J. Kim isA vulnerability
+C. N. Yoon isA vulnerability
+“ Attack Vulnerability of Complex Networks isA vulnerability
+P. Crucitti isA vulnerability
+V. Latora isA vulnerability
+M. Marchiori isA vulnerability
+Attack Tolerance of Complex Networks isA vulnerability
+” Phys isA vulnerability
+Against Terrorism isA vulnerability
+” Chaos isA vulnerability
+Fractals isA vulnerability
+CrossRef zbMATH Google Scholar isA vulnerability
+Protection of Infrastructure Networks isA vulnerability
+A. Renyi isA vulnerability
+“ On the Random Graphs isA vulnerability
+Debrecen isA vulnerability
+Diameter of the World Wide Web isA vulnerability
+Random Networks isA vulnerability
+” Science isA vulnerability
+V. N. Kas ’ yanov isA vulnerability
+S. Louca isA vulnerability
+A. Pitsillides isA vulnerability
+G. Samaras isA vulnerability
+Trellis Graph Transformations isA vulnerability
+IEEE Computer Society Press isA vulnerability
+H. Kang isA vulnerability
+C. Butler isA vulnerability
+Q. Yang isA vulnerability
+J. Chen isA vulnerability
+New Survivability Measure for Military Communication Networks isA vulnerability
+Military Communication Conference isA vulnerability
+Los Alamos isA vulnerability
+USA isA vulnerability
+D. Shallcross isA vulnerability
+N. Dean isA vulnerability
+M. Mostrel isA vulnerability
+Commercial Application of Survivable Network Design isA vulnerability
+K. T. Newpor isA vulnerability
+“ Incorporating Survivability Considerations Directly into the Network Design Process isA vulnerability
+Computer Society isA vulnerability
+pp isA vulnerability
+V. Aytac isA vulnerability
+Neighbor-Integrity of Line Graphs isA vulnerability
+G. Calinescu isA vulnerability
+C. Fernandes isA vulnerability
+B. Reed isA vulnerability
+Tree-Width isA vulnerability
+G. M. Whittaker isA vulnerability
+M. A. Schroeder isA vulnerability
+K. T. Newport isA vulnerability
+Computation of Network Nodal Survivability isA vulnerability
+L. Brunetta isA vulnerability
+M. Conforti isA vulnerability
+G. Rinaldi isA vulnerability
+Branch-And-Cut Algorithm for the Equicut Problem isA vulnerability
+” Math isA vulnerability
+G. Woeginger isA vulnerability
+A Note on the Bottleneck Graph Partition Problem isA vulnerability
+D. Karger isA vulnerability
+MIT isA vulnerability
+Cambridge isA vulnerability
+“ Random Sampling in Cut isA vulnerability
+Flow isA vulnerability
+Network Design Problems isA vulnerability
+Res isA vulnerability
+A. Felner isA vulnerability
+Graph Partitioning Problem with Heuristic Search isA vulnerability
+D. Hochbaum isA vulnerability
+Maximum-Flow in Closure Graphs isA vulnerability
+K. Wood isA vulnerability
+“ Enumerating Near-Minimum S-T Cuts isA vulnerability
+Kluwer isA vulnerability
+Boston isA vulnerability
+Optimal isA vulnerability
+Computers isA vulnerability
+G. Cälinescu isA vulnerability
+H. Karloff isA vulnerability
+Improved Approximation Algorithm for Multiway Cut isA vulnerability
+S. Sen isA vulnerability
+R. D. Doverspike isA vulnerability
+S. Cosares isA vulnerability
+“ Network Planning with Random Demand isA vulnerability
+” Telecommunication isA vulnerability
+G. Gürkan isA vulnerability
+A. Y. Özuge isA vulnerability
+S. M. Robinson isA vulnerability
+Application in Network Design isA vulnerability
+INFORMS Simulation Society isA vulnerability
+Phoenix isA vulnerability
+C. Lucet isA vulnerability
+J.-F. Manouvrier isA vulnerability
+J. Carlier isA vulnerability
+Bounded Pathwidth Graphs isA vulnerability
+” Algorithmica isA vulnerability
+J. Yuan isA vulnerability
+Flow Networks isA vulnerability
+V. R. Westmark isA vulnerability
+Definition for Information System Survivability isA vulnerability
+System isA vulnerability
+Track isA vulnerability
+B. Sankur isA vulnerability
+Communication Networks isA vulnerability
+V. S. S. Nair isA vulnerability
+Survivability Assessment Tool for Restorable Networks isA vulnerability
+A. Benczur isA vulnerability
+Massachusetts Institute of Technology isA vulnerability
+K. J. Cormican isA vulnerability
+D. P. Morton isA vulnerability
+R. K. Wood isA vulnerability
+“ Stochastic Network Interdictions isA vulnerability
+” Operation Research isA vulnerability
+C. A. Phillips isA vulnerability
+Network Inhibition Problem isA vulnerability
+C. Burch isA vulnerability
+R. Carr isA vulnerability
+S. Krumke isA vulnerability
+Decomposition-Based Pseudoapproximation Algorithm for Network Flow Inhibition isA vulnerability
+Stochastic Integer isA vulnerability
+Interfaces isA vulnerability
+E. Malashenko isA vulnerability
+Nauk isA vulnerability
+N. M. Novikova isA vulnerability
+Editorial URSS isA vulnerability
+Nauk SSSR isA vulnerability
+[ in Russian ] isA vulnerability
+A. P. Ivanova isA vulnerability
+Fizmatlit isA vulnerability
+I. V. Sergienko isA vulnerability
+Naukova Dumka isA vulnerability
+Kiev isA vulnerability
+V. K. Leont ’ ev isA vulnerability
+Prospective Views isA vulnerability
+V. R. Khachaturov isA vulnerability
+V. E. Veselovskii isA vulnerability
+A. V. Zlotov isA vulnerability
+C. Martel isA vulnerability
+G. Nuckolls isA vulnerability
+D. Sniegowski isA vulnerability
+Disconnectivity of a Graph isA vulnerability
+Technical Report CSE-2002-38 isA vulnerability
+California isA vulnerability
+T. Aura isA vulnerability
+M. Bishop isA vulnerability
+“ Analyzing Single-Server Network Inhibition isA vulnerability
+C. Meadows isA vulnerability
+Service isA vulnerability
+T. Ibaraki isA vulnerability
+H. Nagamochi isA vulnerability
+K. Nishimura isA vulnerability
+All Small Cuts in An Undirected Network isA vulnerability
+A. Nazarova isA vulnerability
+Vulnerability of a Multicommodity Network isA vulnerability
+Upr isA vulnerability
+A. Korbut isA vulnerability
+Sigal isA vulnerability
+Finkel ’ shtein isA vulnerability
+A Survey on the Theory isA vulnerability
+Algorithms isA vulnerability
+Programs isA vulnerability
+Applications isA vulnerability
+Ortimization isA vulnerability
+N. Christofides isA vulnerability
+Academic isA vulnerability
+London isA vulnerability
+N. J. Nilsson isA vulnerability
+McGraw-Hill isA vulnerability
+Tioga isA vulnerability
+Palo Alto isA vulnerability
+Radio i Svyaz ’ isA vulnerability
+L. P. Swiler isA vulnerability
+C. Phillips isA vulnerability
+T isA vulnerability
+main content1 Telangana isA vulnerability
+Dublin Frankfurt Guatemala City Hong Kong Houston Irvine Johannesburg Kochi Kuala Lumpur Lima London Los Angeles Matawan Melbourne Mexico City Miami Nairobi New York Panama City Paris Perth Phoenix Pittsburgh Rio de Janeiro San Diego San Francisco San Jose Santiago Shanghai Sheffield Silicon Valley Singapore Sydney São Paulo Toronto Troy Washington isA vulnerability
+email isA vulnerability
+client of the Firm isA vulnerability
+'OK ' below isA vulnerability
+applicable isA vulnerability
+Risk Management Job Description Summary Fragomen Worldwide isA vulnerability
+global immigration services provider isA vulnerability
+industry-leading isA vulnerability
+professional isA vulnerability
+passionate about security isA vulnerability
+change isA vulnerability
+Risk Management program isA vulnerability
+small team of security engineers isA vulnerability
+external vulnerability discovery program isA vulnerability
+triage isA vulnerability
+procedures isA vulnerability
+times isA vulnerability
+exposure isA vulnerability
+systems isA vulnerability
+applications isA vulnerability
+prevention isA vulnerability
+educational equivalents Advanced knowledge of exploitation techniques isA vulnerability
+malware indicator of compromise isA vulnerability
+vulnerability rating systems isA vulnerability
+information about products isA vulnerability
+Experienced industry experts isA vulnerability
+analyze isA vulnerability
+services isA vulnerability
+customers isA vulnerability
+awareness isA vulnerability
+reliable isA vulnerability
+commitment isA vulnerability
+vulnerability isA vulnerability
+one isA vulnerability
+organizations isA vulnerability
+sensitive information isA vulnerability
+two-step process isA vulnerability
+private disclosure of a potential vulnerability isA vulnerability
+public disclosure isA vulnerability
+recognition of the security researcher ’ s discovery isA vulnerability
+action isA vulnerability
+timelines isA vulnerability
+addition isA vulnerability
+information isA vulnerability
+companies isA vulnerability
+security ecosystem isA vulnerability
+quality information isA vulnerability
+products isA vulnerability
+protocols isA vulnerability
+methodologies isA vulnerability
+standards isA vulnerability
+responsible disclosure program isA vulnerability
+relationships with security researchers isA vulnerability
+responsibility approach isA vulnerability
+click on the “ Reporting Guidelines ” tab isA vulnerability
+Often times isA vulnerability
+live hosts isA vulnerability
+crash of many production systems isA vulnerability
+First isA vulnerability
+‘ Project Name ’ isA vulnerability
+project isA vulnerability
+Confirm IP address range isA vulnerability
+special NMAP switches isA vulnerability
+Sit isA vulnerability
+complete isA vulnerability
+list of open ports isA vulnerability
+service information isA vulnerability
+additional tabs such as ‘ Vulnerabilities isA vulnerability
+‘ File isA vulnerability
+‘ Notes isA vulnerability
+‘ Credentials ’ isA vulnerability
+Right Urgency isA vulnerability
+Model Conclusion References isA vulnerability
+course isA vulnerability
+organization isA vulnerability
+information overload—thousands of vulnerability announcements isA vulnerability
+circumstances isA vulnerability
+numerous vendors isA vulnerability
+customer input isA vulnerability
+vulnerability management procedures isA vulnerability
+confidentiality isA vulnerability
+availability isA vulnerability
+infrastructure isA vulnerability
+design isA vulnerability
+available isA vulnerability
+time period isA vulnerability
+advantage of the vulnerability isA vulnerability
+past isA vulnerability
+example isA vulnerability
+vulnerability on October isA vulnerability
+Microsoft Security Bulletin MS00-078 isA vulnerability
+September isA vulnerability
+Microsoft Security Bulletin MS04-011 isA vulnerability
+Microsoft security update isA vulnerability
+situations isA vulnerability
+common third-party software packages isA vulnerability
+October isA vulnerability
+vulnerabilities with medium isA vulnerability
+high isA vulnerability
+vulnerability information about lower-severity vulnerabilities isA vulnerability
+increase isA vulnerability
+registered customers through the openVuln API isA vulnerability
+attacks on various devices isA vulnerability
+routers isA vulnerability
+switches isA vulnerability
+security appliances isA vulnerability
+threats isA vulnerability
+exploitation isA vulnerability
+inherent isA vulnerability
+many customers isA vulnerability
+affected platform isA vulnerability
+attack isA vulnerability
+severe vulnerability isA vulnerability
+FIRST isA vulnerability
+vulnerabilities by vendor-defined severity isA vulnerability
+environmental impact isA vulnerability
+CVSS isA vulnerability
+quick isA vulnerability
+severity isA vulnerability
+relevance isA vulnerability
+triage on a security vulnerability isA vulnerability
+model isA vulnerability
+necessary isA vulnerability
+Low isA vulnerability
+Medium isA vulnerability
+High isA vulnerability
+Critical isA vulnerability
+Appl isA vulnerability
+Number isA vulnerability
+January-March isA vulnerability
+March isA vulnerability
+Guidance for SSAE18 isA vulnerability
+service-oriented environment isA vulnerability
+accessible isA vulnerability
+corporate networks isA vulnerability
+Google Patents Security vulnerability information aggregation Download PDF Info Publication number US8544098B2 US8544098B2 US11/366 isA vulnerability
+accuracy of the status isA vulnerability
+2029-12-07 Application number US11/366 isA vulnerability
+date 2006-03-02 Publication date 2013-09-24 2005-09-22 Priority isA vulnerability
+CHOW isA vulnerability
+STANLEY TAIHAI isA vulnerability
+GUSTAVE isA vulnerability
+CHRISTOPHE isA vulnerability
+WIEMER isA vulnerability
+Critical Alcatel-Lucent SAS 2006-03-02 Priority isA vulnerability
+Adjusted expiration legal-status Critical Links USPTO USPTO Assignment Espacenet Global Dossier Discuss Images Classifications H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION isA vulnerability
+computers isA vulnerability
+components isA vulnerability
+data against unauthorised activity G06F21/50 — Monitoring users isA vulnerability
+integrity of platforms isA vulnerability
+processors isA vulnerability
+computer platforms isA vulnerability
+power-downs isA vulnerability
+version controls isA vulnerability
+system software checks isA vulnerability
+format conversion isA vulnerability
+content aggregation isA vulnerability
+No isA vulnerability
+“ SECURITY RISK ANALYSIS SYSTEMS AND METHODS ” isA vulnerability
+May isA vulnerability
+“ COMMUNICATION NETWORK SECURITY RISK EXPOSURE MANAGEMENT SYSTEMS AND METHODS ” isA vulnerability
+“ INFORMATION SYSTEM SERVICE-LEVEL SECURITY RISK ANALYSIS ” isA vulnerability
+date herewith isA vulnerability
+“ SYSTEMS AND METHODS OF ASSOCIATING SECURITY VULNERABILITIES AND ASSETS ” isA vulnerability
+“ APPLICATION OF CUT-SETS TO NETWORK INTERDEPENDENCY SECURITY RISK ASSESSMENT ” isA vulnerability
+Sep. isA vulnerability
+security vulnerabilities isA vulnerability
+particular isA vulnerability
+such as an affected software platform product isA vulnerability
+remediation patches isA vulnerability
+public disclosure date isA vulnerability
+affected platform product isA vulnerability
+different levels of information detail isA vulnerability
+product vendors isA vulnerability
+own proprietary format isA vulnerability
+SysAdmin isA vulnerability
+Audit isA vulnerability
+Network isA vulnerability
+Institute isA vulnerability
+instance isA vulnerability
+vulnerability information reporting isA vulnerability
+accordance with the same standard isA vulnerability
+different data feeds isA vulnerability
+name isA vulnerability
+short description of the vulnerability isA vulnerability
+approach isA vulnerability
+vulnerabilities from different sources isA vulnerability
+CVE naming scheme isA vulnerability
+objective isA vulnerability
+knowledge of exploited platforms isA vulnerability
+different CVSS scores by different sources isA vulnerability
+rating scheme against particular criteria isA vulnerability
+consistent vulnerability information from multiple sources isA vulnerability
+number of new vulnerabilities isA vulnerability
+“ formatting ” aspects of the problem isA vulnerability
+time isA vulnerability
+different web site for instance isA vulnerability
+advisories isA vulnerability
+subscription requirements isA vulnerability
+Given all of these different problems isA vulnerability
+complete set of the advisories isA vulnerability
+vulnerabilities isA vulnerability
+aggregation policy isA vulnerability
+vulnerability information distribution parameters for vulnerability information consumers isA vulnerability
+unimportant isA vulnerability
+embodiments of the invention isA vulnerability
+vulnerability information isA vulnerability
+such as vulnerability advisories isA vulnerability
+aspect of the invention isA vulnerability
+particular security vulnerability isA vulnerability
+aggregator isA vulnerability
+interface isA vulnerability
+vulnerability information through the interface isA vulnerability
+embodiment isA vulnerability
+this-case isA vulnerability
+user interface isA vulnerability
+embodiments isA vulnerability
+plurality of security vulnerabilities isA vulnerability
+policies isA vulnerability
+vulnerability information store isA vulnerability
+case isA vulnerability
+modified aggregation policy isA vulnerability
+respective unified vulnerability descriptions isA vulnerability
+sources isA vulnerability
+conflict rules isA vulnerability
+respective source format isA vulnerability
+format of the unified vulnerability definition isA vulnerability
+distribution parameters for a vulnerability information consumer isA vulnerability
+method isA vulnerability
+owners isA vulnerability
+countermeasures isA vulnerability
+threat agents isA vulnerability
+risks isA vulnerability
+FIG isA vulnerability
+Users/owners isA vulnerability
+operators of a communication network isA vulnerability
+represent actions isA vulnerability
+indication isA vulnerability
+probability isA vulnerability
+Assets isA vulnerability
+example of a communication network isA vulnerability
+value assets isA vulnerability
+assets isA vulnerability
+users/owners isA vulnerability
+labelled components of FIG isA vulnerability
+many different types of data storage device isA vulnerability
+solid state memory devices isA vulnerability
+databases isA vulnerability
+particular embodiment of the invention isA vulnerability
+security decision model isA vulnerability
+asset information isA vulnerability
+LAN isA vulnerability
+operation isA vulnerability
+main elements isA vulnerability
+security module isA vulnerability
+input devices such as a keyboard isA vulnerability
+mouse isA vulnerability
+touchscreen isA vulnerability
+execution by a processor isA vulnerability
+local stores isA vulnerability
+stores isA vulnerability
+further isA vulnerability
+different elements isA vulnerability
+different interconnections isA vulnerability
+security risk management functions for instance isA vulnerability
+contents of the other drawings isA vulnerability
+illustrative purposes isA vulnerability
+simulation interface isA vulnerability
+configuration interface isA vulnerability
+user interface elements isA vulnerability
+display isA vulnerability
+keyboard isA vulnerability
+network isA vulnerability
+Internal bus structures isA vulnerability
+computer systems isA vulnerability
+components with the security module isA vulnerability
+data system isA vulnerability
+internal connections isA vulnerability
+drivers isA vulnerability
+various input/output devices isA vulnerability
+external systems isA vulnerability
+event manager isA vulnerability
+network model manager isA vulnerability
+risk analyzer isA vulnerability
+report interface isA vulnerability
+components of the security module isA vulnerability
+hardware isA vulnerability
+processor isA vulnerability
+vulnerability information source interface isA vulnerability
+report manager isA vulnerability
+various types of storage device isA vulnerability
+such as solid state memory devices isA vulnerability
+disk drives isA vulnerability
+other types of storage device isA vulnerability
+movable isA vulnerability
+multiple isA vulnerability
+embodiment of the invention isA vulnerability
+implementation isA vulnerability
+“ Aggregation Service isA vulnerability
+aggregated feed from the aggregation system isA vulnerability
+multiple sources isA vulnerability
+drawing isA vulnerability
+other components isA vulnerability
+such as the event manager isA vulnerability
+user inputs through the configuration interface isA vulnerability
+represent examples of the databases isA vulnerability
+user isA vulnerability
+asset information in the databases isA vulnerability
+network operator personnel for example isA vulnerability
+implementations each of the databases isA vulnerability
+events isA vulnerability
+effects of changes isA vulnerability
+countermeasures for instance isA vulnerability
+other sources isA vulnerability
+actual network conditions isA vulnerability
+external system isA vulnerability
+dependent on the type isA vulnerability
+format isA vulnerability
+information in the databases isA vulnerability
+other external systems isA vulnerability
+asset database isA vulnerability
+relationships isA vulnerability
+physical assets isA vulnerability
+equipment in the communication network isA vulnerability
+images isA vulnerability
+text isA vulnerability
+combination thereof isA vulnerability
+warnings isA vulnerability
+e-mail client for instance isA vulnerability
+security state database isA vulnerability
+content isA vulnerability
+accesses security risk information isA vulnerability
+vulnerability database isA vulnerability
+unified vulnerability definition for a particular vulnerability isA vulnerability
+parameters isA vulnerability
+analysis isA vulnerability
+risk for a specific network asset isA vulnerability
+service isA vulnerability
+mission isA vulnerability
+other network feature isA vulnerability
+feature isA vulnerability
+other processes isA vulnerability
+vulnerability information sources isA vulnerability
+format adapters isA vulnerability
+content aggregation module isA vulnerability
+conflict alert module isA vulnerability
+output interface isA vulnerability
+unified vulnerability descriptions isA vulnerability
+content aggregator isA vulnerability
+conflict resolution module isA vulnerability
+software-based implementations isA vulnerability
+common storage locations in a memory isA vulnerability
+such a logical connection isA vulnerability
+foregoing isA vulnerability
+software isA vulnerability
+firmware isA vulnerability
+apparatus isA vulnerability
+microprocessors isA vulnerability
+microcontrollers isA vulnerability
+ASICs isA vulnerability
+PLDs isA vulnerability
+FPGAs isA vulnerability
+functional descriptions isA vulnerability
+data stores in a hardware component isA vulnerability
+system isA vulnerability
+important isA vulnerability
+variant isA vulnerability
+outputs of the format adapters isA vulnerability
+stored vulnerability information isA vulnerability
+different vulnerability information consumers isA vulnerability
+other embodiments isA vulnerability
+subscriber system isA vulnerability
+physical devices such as a keyboard isA vulnerability
+receive vulnerability information from the sources isA vulnerability
+remote vulnerability information sources through a communication network isA vulnerability
+vulnerability information in a data store isA vulnerability
+pull scheme isA vulnerability
+vulnerability sources isA vulnerability
+interfaces isA vulnerability
+respective vulnerability information sources isA vulnerability
+terms of implementation isA vulnerability
+format adapter isA vulnerability
+other software code isA vulnerability
+ease of description isA vulnerability
+source-specific format adapters isA vulnerability
+multiple-format conversion functions in other ways isA vulnerability
+format-specific functional components isA vulnerability
+vulnerability “ name ” isA vulnerability
+free-form textual vulnerability “ description ” isA vulnerability
+platforms isA vulnerability
+“ impact ” isA vulnerability
+systems ” isA vulnerability
+“ effect ” isA vulnerability
+labels isA vulnerability
+tags isA vulnerability
+source isA vulnerability
+vendor isA vulnerability
+Regardless of the format adapter development mechanism isA vulnerability
+” isA vulnerability
+unified format “ name ” isA vulnerability
+unified format “ description ” isA vulnerability
+data store isA vulnerability
+data structure in the vulnerability information store isA vulnerability
+similar manner isA vulnerability
+unified format “ impact ” isA vulnerability
+above examples of a first format isA vulnerability
+second format isA vulnerability
+part of the unified format isA vulnerability
+appropriate format isA vulnerability
+necessary in all embodiments isA vulnerability
+primary purpose of the content aggregation module isA vulnerability
+particular the content aggregator isA vulnerability
+different sources isA vulnerability
+single isA vulnerability
+consistent isA vulnerability
+numeric fields such as CVSS scores isA vulnerability
+mean isA vulnerability
+maximum isA vulnerability
+single text field isA vulnerability
+particular text isA vulnerability
+user through the user interface isA vulnerability
+set of static conflict rules isA vulnerability
+particular sources isA vulnerability
+field-specific isA vulnerability
+cases isA vulnerability
+conflicts isA vulnerability
+specific information field for instance isA vulnerability
+manual analysis isA vulnerability
+unified vulnerability definition in a unified format isA vulnerability
+browsing application isA vulnerability
+communication interface isA vulnerability
+local vulnerability database isA vulnerability
+remote consumers isA vulnerability
+new vulnerability isA vulnerability
+remote consumer system isA vulnerability
+vulnerability definitions isA vulnerability
+scheduled basis isA vulnerability
+unified vulnerability definition isA vulnerability
+source for instance isA vulnerability
+vulnerability database in a risk analysis system isA vulnerability
+vulnerability information from multiple sources isA vulnerability
+information from multiple sources isA vulnerability
+consumer isA vulnerability
+consumer 's data feed isA vulnerability
+database isA vulnerability
+different consumer vulnerability information requirements isA vulnerability
+aggregated feed of all new vulnerabilities isA vulnerability
+many different software applications isA vulnerability
+server isA vulnerability
+anything isA vulnerability
+IM server isA vulnerability
+data feed from the apparatus isA vulnerability
+new automation initiative isA vulnerability
+trigger isA vulnerability
+vulnerability information from the sources isA vulnerability
+content conversion isA vulnerability
+Other embodiments isA vulnerability
+different operations isA vulnerability
+herein isA vulnerability
+updated vulnerability information isA vulnerability
+security management application isA vulnerability
+unified definitions isA vulnerability
+other forms isA vulnerability
+machine-readable medium isA vulnerability
+FIGS isA vulnerability
+form of a window isA vulnerability
+common graphical elements such as a title bar isA vulnerability
+directory tree isA vulnerability
+window functional elements isA vulnerability
+Information in the “ Type ” isA vulnerability
+“ Severity ” isA vulnerability
+“ Vendor confidence ” isA vulnerability
+selectable from pull-down menus isA vulnerability
+mouse pointer isA vulnerability
+Confidentiality isA vulnerability
+Integrity isA vulnerability
+Availability isA vulnerability
+Magnitude impacts isA vulnerability
+“ Description ” isA vulnerability
+“ Solution ” isA vulnerability
+different ways isA vulnerability
+such as a new window dialog-box isA vulnerability
+apparent isA vulnerability
+store isA vulnerability
+particular representation isA vulnerability
+layout isA vulnerability
+fields isA vulnerability
+other form than a number isA vulnerability
+“ active ” content such as hyperlinks isA vulnerability
+other active content isA vulnerability
+hyperlink at a certain time isA vulnerability
+current information from the hyperlink isA vulnerability
+Offensive Security isA vulnerability
+numerous security-hacker tools for information gathering isA vulnerability
+vulnerability analysis isA vulnerability
+wireless attacks isA vulnerability
+web applications isA vulnerability
+exploitation tools isA vulnerability
+stress isA vulnerability
+forensic tools isA vulnerability
+spoofing isA vulnerability
+password cracking isA vulnerability
+reverse engineering isA vulnerability
+OSINT Tools available isA vulnerability
+reference isA vulnerability
+information gathering isA vulnerability
+wireless analysis tools isA vulnerability
+password crackers isA vulnerability
+active hosts within any network isA vulnerability
+hostnames isA vulnerability
+IP addresses isA vulnerability
+networks isA vulnerability
+scanme.nmap.org isA vulnerability
+microsoft.com/24 isA vulnerability
+< host1 [ isA vulnerability
+[ isA vulnerability
+host3 ] isA vulnerability
+TCP SYN/ACK isA vulnerability
+ICMP echo isA vulnerability
+timestamp isA vulnerability
+serv1 [ isA vulnerability
+serv2 ] isA vulnerability
+popular among those in the security industry isA vulnerability
+port exploration isA vulnerability
+C isA vulnerability
+GPL license isA vulnerability
+TCP asynchronous scan Asynchronous UDP scan Asynchronous TCP banner detection OS isA vulnerability
+Unicornscan isA vulnerability
+target network isA vulnerability
+GLP license isA vulnerability
+weekly scans Exports results into XML isA vulnerability
+HTML isA vulnerability
+LateX file formats Ability isA vulnerability
+pause isA vulnerability
+//activatejavascript.org Advertisement Hide SpringerLink Search SpringerLink Search Home Log in Natural Hazards Download PDF Natural Hazards September isA vulnerability
+utilizing vulnerability indicators isA vulnerability
+losses from storms isA vulnerability
+floods isA vulnerability
+other hazards isA vulnerability
+contrast isA vulnerability
+sharing of knowledge isA vulnerability
+resources isA vulnerability
+coastal communities in British Columbia isA vulnerability
+hazard events isA vulnerability
+Predisaster conditions such as poverty isA vulnerability
+chronic illness isA vulnerability
+social isA vulnerability
+demographic isA vulnerability
+economic aspects isA vulnerability
+location isA vulnerability
+flooding isA vulnerability
+insights into the causes isA vulnerability
+processes isA vulnerability
+contexts of vulnerability isA vulnerability
+total potential flood losses isA vulnerability
+few isA vulnerability
+Many other studies isA vulnerability
+e.g isA vulnerability
+Cutter et al isA vulnerability
+plan isA vulnerability
+absorb isA vulnerability
+recover isA vulnerability
+National Research Council isA vulnerability
+vulnerable isA vulnerability
+important for resilience isA vulnerability
+relevant isA vulnerability
+similar challenges isA vulnerability
+recent isA vulnerability
+familiar isA vulnerability
+Sect isA vulnerability
+first isA vulnerability
+methodological approaches isA vulnerability
+opportunities isA vulnerability
+limitations isA vulnerability
+environmental change isA vulnerability
+world isA vulnerability
+nations isA vulnerability
+coastal hazards isA vulnerability
+emphasizes recent developments isA vulnerability
+gaps isA vulnerability
+hazards-of-place model isA vulnerability
+latter isA vulnerability
+economic isA vulnerability
+environment attributes of communities isA vulnerability
+variables isA vulnerability
+census data isA vulnerability
+context of specific coastal hazards isA vulnerability
+Bjarnadottir et al isA vulnerability
+Wood isA vulnerability
+Santos isA vulnerability
+Cooper isA vulnerability
+Huang isA vulnerability
+Lichter isA vulnerability
+issues of spatial scale isA vulnerability
+spatial scales isA vulnerability
+community level isA vulnerability
+coastal vulnerability indices at national isA vulnerability
+local isA vulnerability
+hazard isA vulnerability
+data availability isA vulnerability
+dynamics isA vulnerability
+changes over time isA vulnerability
+SoVI isA vulnerability
+future isA vulnerability
+institutional dimensions of places isA vulnerability
+recent review isA vulnerability
+ecological isA vulnerability
+institutional isA vulnerability
+availability of hazard mitigation plans isA vulnerability
+emergency services isA vulnerability
+natural isA vulnerability
+physical isA vulnerability
+human isA vulnerability
+mitigation isA vulnerability
+preparedness isA vulnerability
+response isA vulnerability
+US Gulf Coast counties isA vulnerability
+resilience indicator studies isA vulnerability
+flood hazard maps isA vulnerability
+flood protection isA vulnerability
+different contexts isA vulnerability
+conceptual applicability isA vulnerability
+many cases isA vulnerability
+unavailable isA vulnerability
+unreliable isA vulnerability
+indicators isA vulnerability
+indices isA vulnerability
+vulnerability conditions isA vulnerability
+weights for indicators isA vulnerability
+statistical data isA vulnerability
+municipal government staff in several Canadian municipalities isA vulnerability
+weight isA vulnerability
+methodological innovations isA vulnerability
+Whether isA vulnerability
+Burton isA vulnerability
+decisions isA vulnerability
+plans isA vulnerability
+Vulnerability indicators isA vulnerability
+vulnerability indicators isA vulnerability
+Fekete isA vulnerability
+numerous factors isA vulnerability
+quantifiable variables isA vulnerability
+factors isA vulnerability
+such complexity isA vulnerability
+numerous isA vulnerability
+Andrey isA vulnerability
+Furthermore isA vulnerability
+intent isA vulnerability
+stakeholders isA vulnerability
+local knowledge isA vulnerability
+practice isA vulnerability
+use isA vulnerability
+Birkmann isA vulnerability
+vulnerable places isA vulnerability
+purpose isA vulnerability
+knowledge transfer isA vulnerability
+hence isA vulnerability
+disaggregated similarity indicators isA vulnerability
+new conceptual frameworks isA vulnerability
+different methodological approach isA vulnerability
+similarity isA vulnerability
+Pearson correlation coefficient isA vulnerability
+ecology isA vulnerability
+Hastings isA vulnerability
+interest isA vulnerability
+others isA vulnerability
+communities ’ vulnerability profiles isA vulnerability
+binary isA vulnerability
+high/medium/low isA vulnerability
+subgroups of vulnerability indicators isA vulnerability
+social vulnerability isA vulnerability
+considerations isA vulnerability
+general similarity coefficient S Gower isA vulnerability
+Gan isA vulnerability
+x isA vulnerability
+k isA vulnerability
+communities isA vulnerability
+x k isA vulnerability
+y isA vulnerability
+different types of data isA vulnerability
+data x k isA vulnerability
+HVSI isA vulnerability
+complete dissimilarity isA vulnerability
+i.e isA vulnerability
+S Gower isA vulnerability
+= isA vulnerability
+current application isA vulnerability
+present isA vulnerability
+data isA vulnerability
+Table isA vulnerability
+completeness index isA vulnerability
+n indicators isA vulnerability
+similarity of places isA vulnerability
+overall similarity in vulnerability profile isA vulnerability
+HVSI framework isA vulnerability
+full-time jobs isA vulnerability
+part-time jobs isA vulnerability
+number of businesses isA vulnerability
+total income isA vulnerability
+data on all of these variables isA vulnerability
+economic size isA vulnerability
+available for both communities isA vulnerability
+other words isA vulnerability
+variable isA vulnerability
+similarity in vulnerability profile isA vulnerability
+relative degree of vulnerability isA vulnerability
+coastal landform isA vulnerability
+sandy beaches isA vulnerability
+rocky cliffs isA vulnerability
+southern British Columbia isA vulnerability
+small isA vulnerability
+communities in the region isA vulnerability
+populations isA vulnerability
+number of coastal hazards isA vulnerability
+storm surge isA vulnerability
+earthquake isA vulnerability
+tsunami isA vulnerability
+simplified demonstration isA vulnerability
+well-established in the literature isA vulnerability
+indicator isA vulnerability
+dollars isA vulnerability
+demonstration isA vulnerability
+available for all communities isA vulnerability
+businesses isA vulnerability
+French isA vulnerability
+Binary Change Projected sea-level change isA vulnerability
+Birkmann et al isA vulnerability
+environment isA vulnerability
+key dimensions of community capitals isA vulnerability
+size isA vulnerability
+spatial structure isA vulnerability
+composition isA vulnerability
+participation isA vulnerability
+“ size ” dimension captures such concepts as resources available isA vulnerability
+risk isA vulnerability
+sectoral structure of the economy isA vulnerability
+diversity isA vulnerability
+concepts of networks isA vulnerability
+integration isA vulnerability
+aspects of temporal dynamics isA vulnerability
+terms of hazard and/or exposure isA vulnerability
+many indicators isA vulnerability
+key dimensions isA vulnerability
+Census isA vulnerability
+provincial statistical agency isA vulnerability
+provincial spatial database isA vulnerability
+Canada isA vulnerability
+“ commercial center on coast isA vulnerability
+community isA vulnerability
+district of Squamish isA vulnerability
+communities with reference isA vulnerability
+Figs isA vulnerability
+Georgia communities isA vulnerability
+c isA vulnerability
+terms of overall vulnerability profile isA vulnerability
+HVSI = isA vulnerability
+Fig isA vulnerability
+unusual community in the region isA vulnerability
+b isA vulnerability
+places in the region isA vulnerability
+future flood risks isA vulnerability
+associated indicators isA vulnerability
+aspects of governance isA vulnerability
+planning isA vulnerability
+instances of similarity isA vulnerability
+riverine flooding isA vulnerability
+particular economic isA vulnerability
+built isA vulnerability
+interested in economic indicators isA vulnerability
+commercial center on coast isA vulnerability
+type of flood hazard isA vulnerability
+landform isA vulnerability
+other hand isA vulnerability
+sum isA vulnerability
+dissimilar places in an efficient manner isA vulnerability
+face similar vulnerability issues isA vulnerability
+hazards isA vulnerability
+coastal areas isA vulnerability
+standardized multidimensional profile of vulnerability isA vulnerability
+priority for further research isA vulnerability
+places with high vulnerability isA vulnerability
+complements such studies isA vulnerability
+Vulnerabilities Webinar Recap Mar isA vulnerability
+| Blog isA vulnerability
+Industry News By Reid Wightman isA vulnerability
+severity of the vulnerability isA vulnerability
+L isA vulnerability
+R isA vulnerability
+errors isA vulnerability
+other issues in advisories isA vulnerability
+mitigation advice isA vulnerability
+advice isA vulnerability
+error rates isA vulnerability
+Are NA isA vulnerability
+ICS-CERT isA vulnerability
+original researcher isA vulnerability
+verification that the score isA vulnerability
+incorrect isA vulnerability
+good as other CERTS isA vulnerability
+sure isA vulnerability
+trained teams isA vulnerability
+reason isA vulnerability
+Article isA vulnerability
+newcomers isA vulnerability
+victims of torture isA vulnerability
+other serious forms of psychological isA vulnerability
+persons with a post-traumatic disorder isA vulnerability
+aspects of this definition isA vulnerability
+international protection isA vulnerability
+relevant need arises isA vulnerability
+victim of torture isA vulnerability
+Unaccompanied children isA vulnerability
+Victims of torture isA vulnerability
+Total isA vulnerability
+Asylum Service isA vulnerability
+Unit isA vulnerability
+protection institution isA vulnerability
+medical treatment isA vulnerability
+registration of the asylum application isA vulnerability
+psychological care provision isA vulnerability
+Doctors of the World isA vulnerability
+times dysfunctional identification processes isA vulnerability
+asylum interview isA vulnerability
+EASO caseworkers isA vulnerability
+end of March isA vulnerability
+place isA vulnerability
+extension of the contract period isA vulnerability
+late isA vulnerability
+end of May isA vulnerability
+capacity isA vulnerability
+shortage in human resources isA vulnerability
+identification procedure isA vulnerability
+out-patient consultations isA vulnerability
+Samos during March isA vulnerability
+assessment isA vulnerability
+quality of the vulnerability screening procedures isA vulnerability
+MSF isA vulnerability
+over-identified isA vulnerability
+MSF clinic on Lesvos isA vulnerability
+sexual violence isA vulnerability
+Samos on the contrary isA vulnerability
+identification procedures isA vulnerability
+psychosocial screening isA vulnerability
+briefly isA vulnerability
+electronic database of the RIC isA vulnerability
+document isA vulnerability
+account in subsequent procedures isA vulnerability
+new medical vulnerability template isA vulnerability
+psychosocial evaluation of vulnerability ” isA vulnerability
+Medium vulnerability isA vulnerability
+High vulnerability isA vulnerability
+support that the person isA vulnerability
+“ medium ” isA vulnerability
+other actors in the field isA vulnerability
+further assessment isA vulnerability
+psychological services on the islands isA vulnerability
+clear whether persons isA vulnerability
+Qualys FreeScan™ Service Agreement This Qualys FreeScan Service Agreement isA vulnerability
+“ Registration ” isA vulnerability
+Qualys isA vulnerability
+Inc isA vulnerability
+“ Qualys ” isA vulnerability
+“ Service ” isA vulnerability
+BY USING THE SERVICE isA vulnerability
+TO BE BOUND BY THIS AGREEMENT isA vulnerability
+NOT AGREE TO THE TERMS OF THIS AGREEMENT isA vulnerability
+DO NOT APPLY FOR isA vulnerability
+ACCEPT isA vulnerability
+Qualys ’ acceptance of Your Registration request isA vulnerability
+term isA vulnerability
+results of scans isA vulnerability
+Qualys ’ acceptance of Your Registration isA vulnerability
+password isA vulnerability
+harmless Qualys for any claims isA vulnerability
+liability isA vulnerability
+damages isA vulnerability
+Site isA vulnerability
+full right isA vulnerability
+power isA vulnerability
+reviewing isA vulnerability
+own internal business purposes isA vulnerability
+engineer isA vulnerability
+decompile isA vulnerability
+use of the Service isA vulnerability
+Sections isA vulnerability
+structure isA vulnerability
+licensors isA vulnerability
+Plans Duo Beyond Zero-trust security for all users isA vulnerability
+Managed Service Providers Give customers isA vulnerability
+Events Archive March isA vulnerability
+February isA vulnerability
+January isA vulnerability
+December isA vulnerability
+November isA vulnerability
+August isA vulnerability
+July isA vulnerability
+June isA vulnerability
+April isA vulnerability
+Engineering Changelog March isA vulnerability
+Events April isA vulnerability
+such as Cisco isA vulnerability
+Symantec isA vulnerability
+many others isA vulnerability
+Technology isA vulnerability
+EFF isA vulnerability
+outline processes isA vulnerability
+security vulnerabilities from outside sources isA vulnerability
+such as independent researchers isA vulnerability
+Contract Holmdel isA vulnerability
+New Jersey isA vulnerability
+US Job Description • Daily monitoring of vulnerability scanning reports isA vulnerability
+threats of interest isA vulnerability
+other high priority threats of interest vulnerabilities isA vulnerability
+identification of risk areas isA vulnerability
+quantifying exposure isA vulnerability
+secure system configuration isA vulnerability
+dynamic isA vulnerability
+fast-paced environment isA vulnerability
+site isA vulnerability
+techniques behind successful enterprise application development isA vulnerability
+Less hard labor isA vulnerability
+practices isA vulnerability
+practices for ITOM isA vulnerability
+hybrid IT isA vulnerability
+Security All things security for software engineering isA vulnerability
+DevOps isA vulnerability
+application security isA vulnerability
+years into the web isA vulnerability
+Sir Tim vents on scams isA vulnerability
+efforts isA vulnerability
+lessons for security teams Robert Lemos isA vulnerability
+data breaches isA vulnerability
+patching efforts isA vulnerability
+USENIX Security Conference in August isA vulnerability
+College Park isA vulnerability
+University of Michigan isA vulnerability
+Harvard University isA vulnerability
+defenders isA vulnerability
+% precision isA vulnerability
+wild isA vulnerability
+vulnerability results in wasted effort isA vulnerability
+report isA vulnerability
+Analyzing Vulnerability Remediation Strategies isA vulnerability
+Michael Roytman isA vulnerability
+chief data scientist for Kenna Security isA vulnerability
+criticals isA vulnerability
+Bugtraq isA vulnerability
+BID isA vulnerability
+Microsoft 's list isA vulnerability
+great predictor of whether a vulnerability isA vulnerability
+likelihood isA vulnerability
+Kenna Security 's research isA vulnerability
+PRODUCTS INCLUDING OVAL NEWS  July isA vulnerability
+Archive December isA vulnerability
+teleconference on Thursday isA vulnerability
+OVAL-ID Compatibility Program updates isA vulnerability
+Vulnerability in Graphics Rendering Engine Could Allow Remote Code Execution isA vulnerability
+image file isA vulnerability
+instant message isA vulnerability
+ThreatGuard isA vulnerability
+developing international isA vulnerability
+limits of SQL isA vulnerability
+separate schemas isA vulnerability
+tests isA vulnerability
+individual tests isA vulnerability
+machine-readable XML Vulnerability isA vulnerability
+Compliance isA vulnerability
+Official OVAL Schemas isA vulnerability
+OVAL Repository In the beginning isA vulnerability
+tests for vulnerabilities isA vulnerability
+OVAL Vulnerability Definitions isA vulnerability
+Compliance Definitions isA vulnerability
+configuration issue isA vulnerability
+present on a system isA vulnerability
+definitions for Microsoft Windows isA vulnerability
+definitions for Red Hat Linux isA vulnerability
+definitions for Sun Solaris isA vulnerability
+grand total isA vulnerability
+OVAL Developer's List isA vulnerability
+OVAL Repository isA vulnerability
+OVAL Board The OVAL Board isA vulnerability
+comments on OVAL Definitions isA vulnerability
+system vendors isA vulnerability
+commercial information security tool vendors isA vulnerability
+academia isA vulnerability
+government agencies isA vulnerability
+compatibility evaluations isA vulnerability
+OVAL-ID Compatibility document isA vulnerability
+process isA vulnerability
+OVAL-ID Compatible logo isA vulnerability
+OVAL effort isA vulnerability
+definitions isA vulnerability
+years isA vulnerability
+Homeland Security isA vulnerability
+HP-UX OVAL Definitions OVAL community member ThreatGuard isA vulnerability
+OVAL Definitions page isA vulnerability
+new component schemas isA vulnerability
+list isA vulnerability
+interest and/or ways isA vulnerability
+Expo on January isA vulnerability
+Walt Disney World Resort isA vulnerability
+Orlando isA vulnerability
+Florida isA vulnerability
+utilities isA vulnerability
+Booth isA vulnerability
+booths isA vulnerability
+OVAL Definition Schema isA vulnerability
+Schema isA vulnerability
+members of the OVAL community ThreatGuard isA vulnerability
+Hewlett Packard UNIX isA vulnerability
+presence of vulnerabilities isA vulnerability
+configuration issues isA vulnerability
+Microsoft Windows isA vulnerability
+Sun Solaris isA vulnerability
+Red Hat Linux isA vulnerability
+Debian Linux isA vulnerability
+UNIX isA vulnerability
+OVAL initiative isA vulnerability
+New OVAL Board Member Gregory Toto of BigFix isA vulnerability
+NVD isA vulnerability
+OVAL isA vulnerability
+OVAL Definition Interpreters isA vulnerability
+Interpreter Source Code isA vulnerability
+Independent isA vulnerability
+Apple Macintosh isA vulnerability
+Cisco IOS isA vulnerability
+HP-UX isA vulnerability
+OVAL schemas isA vulnerability
+Definition Interpreters isA vulnerability
+Interpreter source code isA vulnerability
+enterprise patch management system isA vulnerability
+PatchLink Update isA vulnerability
+main topic of a November isA vulnerability
+press release by ThreatGuard isA vulnerability
+OVAL-ID Compatibility on November isA vulnerability
+Exhibition in Washington isA vulnerability
+D.C isA vulnerability
+release isA vulnerability
+OVAL compatibility isA vulnerability
+quote by Rob Hollis isA vulnerability
+OVAL Board Member isA vulnerability
+Rob Hollis isA vulnerability
+right isA vulnerability
+Robert Martin isA vulnerability
+OVAL Compatibility Lead isA vulnerability
+OVAL-ID Compatibility Process isA vulnerability
+Declarations of OVAL Compatibility isA vulnerability
+OVAL Results Schema isA vulnerability
+quote by Carl Banzhof isA vulnerability
+Kent Landfield isA vulnerability
+ArcSight isA vulnerability
+Inc. ArcSight isA vulnerability
+awards ceremony November isA vulnerability
+Mike Boehm isA vulnerability
+ArcSight 's Public Sector Group isA vulnerability
+ceremony isA vulnerability
+Citadel Security Software Inc isA vulnerability
+teleconference meeting on Tuesday isA vulnerability
+group isA vulnerability
+Exhibition isA vulnerability
+November 13-15 isA vulnerability
+Washington isA vulnerability
+CVE isA vulnerability
+network professionals from industry isA vulnerability
+government isA vulnerability
+panel discussion about OVAL isA vulnerability
+CME isA vulnerability
+FIRST Technical Colloquium on November isA vulnerability
+Redwood Shores isA vulnerability
+event isA vulnerability
+November 14th-16th isA vulnerability
+share information about vulnerabilities isA vulnerability
+incidents isA vulnerability
+OVAL-ID Compatible Product/Service logo isA vulnerability
+• ArcSight isA vulnerability
+Hercules • ThreatGuard isA vulnerability
+OVAL-ID compatibility requirements isA vulnerability
+BigFix isA vulnerability
+Inc. Makes Declaration of OVAL-ID Compatibility BigFix isA vulnerability
+real-time security configuration management suite isA vulnerability
+BigFix Enterprise Suite isA vulnerability
+tools isA vulnerability
+Ibis London Earl 's Court isA vulnerability
+Official stage on December isA vulnerability
+formal compatibility evaluations isA vulnerability
+enterprise isA vulnerability
+contact information isA vulnerability
+type of product isA vulnerability
+declaration isA vulnerability
+OVAL-ID Compatibility page of the OVAL Web site isA vulnerability
+effort than the first isA vulnerability
+reasonable isA vulnerability
+new compatibility process isA vulnerability
+OVAL-ID Compatibility ThreatGuard isA vulnerability
+threat management product isA vulnerability
+ThreatGuard Traveler isA vulnerability
+Inc. Makes Declaration of OVAL-ID Compatibility ArcSight isA vulnerability
+real-time security awareness/incident response solution isA vulnerability
+ArcSight ESM isA vulnerability
+Automated Vulnerability Remediation product isA vulnerability
+Hercules isA vulnerability
+OVAL-ID Compatibility Questionnaire ArcSight isA vulnerability
+compatibility program isA vulnerability
+OVAL-ID Compatibility Process page isA vulnerability
+information security tool isA vulnerability
+Web site isA vulnerability
+archive isA vulnerability
+OVAL-ID compatible isA vulnerability
+UK isA vulnerability
+briefing about OVAL isA vulnerability
+Adelphi isA vulnerability
+Maryland isA vulnerability
+group policy-based patch management product isA vulnerability
+PolicyMaker Software Update isA vulnerability
+Marriott Wardman Hotel in Washington isA vulnerability
+FIAC isA vulnerability
+October 25-26 isA vulnerability
+systems administrators isA vulnerability
+security practitioners isA vulnerability
+procurement officials isA vulnerability
+systems security officers isA vulnerability
+federal managers isA vulnerability
+accreditors isA vulnerability
+Interpreters isA vulnerability
+Conference Center isA vulnerability
+University of Maryland University College isA vulnerability
+MITRE Hosts OVAL/CVE Booth at IT Security World isA vulnerability
+September 28-29 isA vulnerability
+security professionals from industry isA vulnerability
+OVAL System Characteristics Schema isA vulnerability
+OVAL status updates isA vulnerability
+minor OVAL Schema version changes isA vulnerability
+intellectual property agreement proposal isA vulnerability
+event name with URL isA vulnerability
+date of the event isA vulnerability
+MISTI 's IT Security World isA vulnerability
+Shepard Group 's VISION isA vulnerability
+KACE Networks isA vulnerability
+Inc. Makes Declaration of OVAL Compatibility KACE Networks isA vulnerability
+information technology management appliance isA vulnerability
+IT Management Suite isA vulnerability
+OVAL Compatibility Program as a second isA vulnerability
+security issue isA vulnerability
+OVAL-compatible isA vulnerability
+tool isA vulnerability
+details of vulnerabilities isA vulnerability
+patches isA vulnerability
+part of this update isA vulnerability
+vulnerability alert/notification service isA vulnerability
+vulnerability alerting service isA vulnerability
+Sintelli Vulnerability Database isA vulnerability
+Inc. Makes Declaration of OVAL-ID Compatibility KACE Networks isA vulnerability
+information security vulnerabilities on the CVE Web site isA vulnerability
+CVE List isA vulnerability
+briefly in a September isA vulnerability
+press release from KACE Networks isA vulnerability
+Easy-to-Use isA vulnerability
+Comprehensive isA vulnerability
+Inc. Makes Declaration of OVAL Compatibility BigFix isA vulnerability
+real-time security configuration management system isA vulnerability
+other OVAL-compatible products isA vulnerability
+Host OVAL/CVE Booth at IT Security World isA vulnerability
+Hyatt Regency in San Francisco isA vulnerability
+OVAL1133 isA vulnerability
+OVAL207 isA vulnerability
+OVAL241 isA vulnerability
+E-Soft isA vulnerability
+NIST isA vulnerability
+quote by Peter Mell isA vulnerability
+senior computer scientist at NIST isA vulnerability
+article isA vulnerability
+such databases isA vulnerability
+Gerhard Eschelbeck isA vulnerability
+QualysGuard Consultant isA vulnerability
+QualysGuard Enterprise isA vulnerability
+QualysGuard Express isA vulnerability
+classes of OVAL definitions isA vulnerability
+news headlines on the homepage isA vulnerability
+FAQs isA vulnerability
+list discussions isA vulnerability
+OVAL Content page isA vulnerability
+Vulnerability Definitions isA vulnerability
+Events page isA vulnerability
+FAQs about the OVAL Definition Interpreter A new section isA vulnerability
+Section F. OVAL Definition Interpreter isA vulnerability
+Interpreter isA vulnerability
+results of an OVAL analysis isA vulnerability
+terms of use isA vulnerability
+OVAL Board Email List isA vulnerability
+OVAL Board Meetings isA vulnerability
+OVAL Community Forum Email List isA vulnerability
+site design isA vulnerability
+definition isA vulnerability
+result isA vulnerability
+host-based vulnerability assessment tool isA vulnerability
+Assuria Auditor isA vulnerability
+New OVAL Board Member Andrew Bove of Secure Elements isA vulnerability
+Official stage on August isA vulnerability
+Bedford isA vulnerability
+searchable by OVAL-ID isA vulnerability
+CVE Name isA vulnerability
+NVD Web site isA vulnerability
+MITRE Hosts OVAL Developer Days isA vulnerability
+MITRE Corporation in Bedford isA vulnerability
+numerous members of the OVAL Community isA vulnerability
+technical detail isA vulnerability
+New England Electronic Crimes Task Force Meeting on July isA vulnerability
+Wellesley isA vulnerability
+Massachusetts isA vulnerability
+state isA vulnerability
+new kinds of [ electronic isA vulnerability
+Schema section isA vulnerability
+OVAL Schema isA vulnerability
+OVAL introductory white paper isA vulnerability
+Configuration Issues isA vulnerability
+complete overview of the OVAL initiative isA vulnerability
+Host OVAL Developer Days isA vulnerability
+first-ever OVAL Developer Days meeting on Monday isA vulnerability
+Tuesday isA vulnerability
+OVAL Board Members isA vulnerability
+organizations with OVAL-Compatible Products/Services isA vulnerability
+other experts isA vulnerability
+OVAL Community isA vulnerability
+current version of the OVAL Schema isA vulnerability
+Version isA vulnerability
+proponents of the OVAL Community isA vulnerability
+Scottsdale isA vulnerability
+Arizona isA vulnerability
+netForensics isA vulnerability
+Inc. Makes Declaration of OVAL Compatibility netForensics isA vulnerability
+security information management system isA vulnerability
+netForensics nFX Open Security Platform isA vulnerability
+white paper isA vulnerability
+complete meeting minutes isA vulnerability
+OVAL Board Preventsys isA vulnerability
+press release on June isA vulnerability
+support for OVAL isA vulnerability
+OVAL Board isA vulnerability
+purpose of the OVAL Board isA vulnerability
+quote from Ravenel isA vulnerability
+adoption of common standards isA vulnerability
+such as OVAL isA vulnerability
+enterprise-wide security posture isA vulnerability
+regulations isA vulnerability
+-15 isA vulnerability
+directors isA vulnerability
+CIOs isA vulnerability
+CSOs isA vulnerability
+systems analysts isA vulnerability
+network engineers isA vulnerability
+administrators isA vulnerability
+Webmasters isA vulnerability
+other information security professionals isA vulnerability
+modifications for OVAL Version isA vulnerability
+Technical aspects of the OVAL Schemas isA vulnerability
+attributes isA vulnerability
+OVAL Community Forum isA vulnerability
+New OVAL Board Member Patrick Ravenel of Preventsys isA vulnerability
+New OVAL Board Member Robert Hollis of ThreatGuard isA vulnerability
+Status isA vulnerability
+public on the OVAL Web site isA vulnerability
+status isA vulnerability
+Interim status isA vulnerability
+Draft status isA vulnerability
+system family isA vulnerability
+individual platforms isA vulnerability
+nCircle Network Security isA vulnerability
+Declarations of OVAL Compatibility nCircle Network Security isA vulnerability
+IP360 Vulnerability Management System isA vulnerability
+IDS isA vulnerability
+nTellect for Cisco IDS isA vulnerability
+remediation product isA vulnerability
+PolicyMaker Standard Edition isA vulnerability
+PolicyMaker Application Security isA vulnerability
+PolicyMaker Registry Extension isA vulnerability
+services compatible with OVAL Definitions isA vulnerability
+Host OVAL/CVE Booth at NetSec isA vulnerability
+CVE Senior Advisory Council isA vulnerability
+oversight for the OVAL effort isA vulnerability
+meeting on Monday isA vulnerability
+XCCDF isA vulnerability
+status updates on CME isA vulnerability
+appropriate funding isA vulnerability
+activities isA vulnerability
+share information isA vulnerability
+issue of CrossTalk isA vulnerability
+combination with procedural changes isA vulnerability
+Extensible Markup Language Configuration Checklist Data Format isA vulnerability
+measurement activities isA vulnerability
+declarations of OVAL Compatibility isA vulnerability
+way isA vulnerability
+OVAL XML results for remediation isA vulnerability
+organizational status reporting isA vulnerability
+accreditation reports isA vulnerability
+focused isA vulnerability
+efficient isA vulnerability
+information security products isA vulnerability
+impossible isA vulnerability
+] isA vulnerability
+RSA conference isA vulnerability
+CVE projects isA vulnerability
+Training Conference on April isA vulnerability
+Denver isA vulnerability
+Colorado isA vulnerability
+Cyber Security Chiefs Council Meeting on April isA vulnerability
+teleconference meeting on Thursday isA vulnerability
+main topic of an April isA vulnerability
+OVAL Board Member Gerhard Eschelbeck of Qualys isA vulnerability
+community effort isA vulnerability
+past years isA vulnerability
+vulnerability alert isA vulnerability
+Software Technology Conference on April isA vulnerability
+Salt Palace Convention Center in Salt Lake City isA vulnerability
+Utah isA vulnerability
+Army isA vulnerability
+Marine Corps isA vulnerability
+Navy isA vulnerability
+Department of the Navy isA vulnerability
+Air Force isA vulnerability
+DISA isA vulnerability
+military services isA vulnerability
+defense contractors isA vulnerability
+industry isA vulnerability
+Preventsys isA vulnerability
+Inc. Makes Declaration of OVAL Compatibility Preventsys isA vulnerability
+New OVAL Board Member Jim Alderson of GuardedNet isA vulnerability
+briefing on April isA vulnerability
+information security technology isA vulnerability
+technology providers isA vulnerability
+Expo/2005 isA vulnerability
+Westin Westminster in Denver isA vulnerability
+speakers from across the Federal Government isA vulnerability
+Department isA vulnerability
+banking isA vulnerability
+finance isA vulnerability
+real estate isA vulnerability
+insurance isA vulnerability
+health care industries isA vulnerability
+other industries isA vulnerability
+managers of information security isA vulnerability
+systems security administrators isA vulnerability
+IT auditors isA vulnerability
+analysts isA vulnerability
+application developers isA vulnerability
+engineers isA vulnerability
+systems integrators isA vulnerability
+strategic planners isA vulnerability
+[ among ] IT executives isA vulnerability
+managers isA vulnerability
+senior professionals isA vulnerability
+workshops isA vulnerability
+publications isA vulnerability
+definition creators isA vulnerability
+tool developers isA vulnerability
+vulnerability researchers isA vulnerability
+set of definitions/characteristics/results isA vulnerability
+individual dictionaries for the Core Definition Schema isA vulnerability
+Results Schema isA vulnerability
+XML elements isA vulnerability
+types isA vulnerability
+available as a single download isA vulnerability
+licensing terms for the Reference OVAL Definition Interpreters isA vulnerability
+content ownership isA vulnerability
+monthly downloads isA vulnerability
+Interim isA vulnerability
+schemas isA vulnerability
+data files isA vulnerability
+definition interpreters isA vulnerability
+OSVDB isA vulnerability
+OVAL886 isA vulnerability
+cross-references in SecuritySpace.com isA vulnerability
+Inc. 's vulnerability Web site isA vulnerability
+OVAL1530 isA vulnerability
+OVAL2155 isA vulnerability
+OVAL3179 isA vulnerability
+OVAL1186 isA vulnerability
+OVAL1943 isA vulnerability
+OVAL3514 isA vulnerability
+OVAL306 isA vulnerability
+OVAL322 isA vulnerability
+OVAL507 isA vulnerability
+GRIDtoday Article Announces Appointment of ArcSight isA vulnerability
+main topic of a February isA vulnerability
+Cisco isA vulnerability
+Defense Information Systems Agency isA vulnerability
+OVAL a complete isA vulnerability
+high-level view of network security status isA vulnerability
+prioritization of security events isA vulnerability
+OVAL Board ArcSight isA vulnerability
+press release on January isA vulnerability
+quote by Hugh Njemanze isA vulnerability
+founder of ArcSight isA vulnerability
+OVAL/ CVE exhibitor booth at RSA Conference isA vulnerability
+Coronado Springs Resort in Orlando isA vulnerability
+effective rights tests isA vulnerability
+interface test isA vulnerability
+port test isA vulnerability
+Schemas isA vulnerability
+MulVAL isA vulnerability
+great extentand an analyzer isA vulnerability
+OVAL definitions isA vulnerability
+OVAL Definition tests isA vulnerability
+ICAT isA vulnerability
+paper 's abstract isA vulnerability
+finance industry on March isA vulnerability
+San Antonio isA vulnerability
+Texas isA vulnerability
+X9 isA vulnerability
+private isA vulnerability
+conformity assessment systems isA vulnerability
+integrity isA vulnerability
+OVAL Board Configuresoft isA vulnerability
+press release on March isA vulnerability
+Dr. Dennis Moreau isA vulnerability
+CVE names isA vulnerability
+quote by Moreau isA vulnerability
+Updated Beta versions of the Red Hat OVAL Definition Interpreter isA vulnerability
+OVAL/CVE Booth at RSA Conference isA vulnerability
+information technology professionals isA vulnerability
+developers isA vulnerability
+policy makers isA vulnerability
+industry leaders isA vulnerability
+academics from organizations isA vulnerability
+Available Beta versions of the OVAL Definition Interpreters isA vulnerability
+Data Files isA vulnerability
+Bulk Content Download isA vulnerability
+first teleconference meeting on Thursday isA vulnerability
+part of the January isA vulnerability
+security checklists isA vulnerability
+benchmarks isA vulnerability
+information interchange isA vulnerability
+document generation isA vulnerability
+situational tailoring isA vulnerability
+compliance isA vulnerability
+other configuration guidance isA vulnerability
+XCCDF Web site isA vulnerability
+Information Assurance Workshop isA vulnerability
+Workshop in Atlanta isA vulnerability
+Georgia isA vulnerability
+purpose of the workshop isA vulnerability
+National Security Agency isA vulnerability
+Joint Staff isA vulnerability
+Strategic Commands isA vulnerability
+compliance with a security policy isA vulnerability
+particular service isA vulnerability
+open isA vulnerability
+particular length isA vulnerability
+OVAL Web site isA vulnerability
+beta versions of the OVAL Definition Interpreters isA vulnerability
+Timeline isA vulnerability
+time the current schemas isA vulnerability
+Information Assurance Workshop in Philadelphia isA vulnerability
+Pennsylvania isA vulnerability
+NSA isA vulnerability
+forum isA vulnerability
+Host OVAL/CVE Booth at RSA Conference isA vulnerability
+Moscone Center in San Francisco isA vulnerability
+February 7-10 isA vulnerability
+RSA Conference isA vulnerability
+April 4-6 isA vulnerability
+Software Technology Conference isA vulnerability
+April 18-21 isA vulnerability
+Other events isA vulnerability
+network traces isA vulnerability
+proof-of-concept exploit code isA vulnerability
+Android OS forks such as Amazon ’ isA vulnerability
+malicious Android Package file isA vulnerability
+issue isA vulnerability
+critical isA vulnerability
+tool for secure communications isA vulnerability
+regions of the world isA vulnerability
+urban development isA vulnerability
+many countries isA vulnerability
+language isA vulnerability
+gender isA vulnerability
+race isA vulnerability
+socioeconomic status isA vulnerability
+age isA vulnerability
+proof of concept isA vulnerability
+Meltdown isA vulnerability
+well-known threats such as Spectre isA vulnerability
+other questions isA vulnerability
+vulnerable parties isA vulnerability
+Summer School isA vulnerability
+rural regions isA vulnerability
+anyone isA vulnerability
+decade—rings alarms isA vulnerability
+IP cameras isA vulnerability
+hackers isA vulnerability
+peers isA vulnerability
+today ’ s society isA vulnerability
+friends isA vulnerability
+Geriatric Ethics isA vulnerability
+human vulnerability isA vulnerability
+elderly Cees Hertogh isA vulnerability
+Professor of Elderly Care Medicine isA vulnerability
+attacks on critical network nodes isA vulnerability
+today isA vulnerability
+physical discomfort isA vulnerability
+negative effect isA vulnerability
+danger isA threat
+warning isA threat
+declaration isA threat
+person isA threat
+individual isA threat
+someone isA threat
+somebody isA threat
+mortal isA threat
+soul isA threat
+limited distribution Enhanced analysis isA threat
+security vendor report isA threat
+Open Source intelligence isA threat
+reset instructions Email Cancel If the address isA threat
+email address isA threat
+username Email Close If the address isA threat
+s isA threat
+DOI isA threat
+keywords isA threat
+authors isA threat
+etc isA threat
+Fellows Events Grants isA threat
+schemes isA threat
+student isA threat
+FERPA isA threat
+school official isA threat
+other articles isA threat
+introduce links isA threat
+sociology isA threat
+theory in psychology isA threat
+effect isA threat
+levels of prejudice isA threat
+Walter G isA threat
+part of realistic conflict theory isA threat
+’ s identity isA threat
+’ s values isA threat
+colleagues isA threat
+Esses isA threat
+members of the outgroup isA threat
+ed isA threat
+unsafe isA threat
+general stereotypes isA threat
+links between prejudice isA threat
+other groups isA threat
+negative aspects of stereotypes isA threat
+ects of stereotypes isA threat
+symbolic threats isA threat
+realistic isA threat
+c framework of the theory isA threat
+subtypes of threat isA threat
+own separate categories isA threat
+physical danger isA threat
+realistic threat isA threat
+symbolic threat isA threat
+threat in order isA threat
+types of realistic isA threat
+success isA threat
+likely isA threat
+favorable attitudes towards immigrants isA threat
+supportive of programs isA threat
+negative attitudes towards the immigrants isA threat
+immigration into Canada isA threat
+Wann isA threat
+perceived threat isA threat
+outgroup isA threat
+case isA threat
+Russians isA threat
+d perception of threat isA threat
+decreased levels of group isA threat
+d isA threat
+d levels of group isA threat
+contact hypothesis isA threat
+important isA threat
+jobs isA threat
+s on the importance isA threat
+beliefs isA threat
+ambiguous situations isA threat
+research on various social groups isA threat
+immigrants isA threat
+Muslims isA threat
+tourists isA threat
+participants from New Zealand isA threat
+Attitudes toward Immigrants isA threat
+red Multicultural Ideology isA threat
+Intergroup Anxiety isA threat
+Contact with Immigrants isA threat
+Intergroup Threat isA threat
+multicultural ideology isA threat
+d contact with immigrants isA threat
+Great Britain isA threat
+dominant groups in France isA threat
+Germany isA threat
+imilate isA threat
+multigroup ethnic identity isA threat
+questionnaires isA threat
+measures for symbolic threats isA threat
+realistic threats isA threat
+stereotypes isA threat
+perception of immigrants ’ motivation isA threat
+res for symbolic threats isA threat
+Turkish immigrants in Germany isA threat
+expectations of French isA threat
+fictitious groups isA threat
+paragraph-long descriptions isA threat
+d on paragraph-long descriptions isA threat
+different attitudes about acculturation isA threat
+majority Hindu groups of India isA threat
+minority Muslim isA threat
+Hindu students at the same university isA threat
+Muslim isA threat
+in-group bias isA threat
+red contact quantity isA threat
+contact quality isA threat
+groups isA threat
+intergroup anxiety isA threat
+preference for social distance isA threat
+] Results isA threat
+important for Hindus ’ levels isA threat
+important for Muslims ’ levels isA threat
+prejudicial attitudes towards Muslims isA threat
+high schoolers in different cities isA threat
+support for multicultural ideologies isA threat
+in‐group identification isA threat
+realistic economic threat isA threat
+red support for multicultural ideologies isA threat
+levels of education isA threat
+ambiguity intolerance isA threat
+civilizations isA threat
+red ambiguity intolerance isA threat
+conspiracy isA threat
+d conspiracy isA threat
+d perceptions of symbolic threat isA threat
+levels of realistic isA threat
+levels of belief isA threat
+threat isA threat
+subject of some research isA threat
+New Zealand isA threat
+Fiji isA threat
+attitudes towards tourists isA threat
+tourism isA threat
+contact with tourists isA threat
+aspects of the original ITT isA threat
+ects of the original ITT isA threat
+attitudes towards spring breakers isA threat
+interviews with Cancun residents isA threat
+spring break isA threat
+spring break tourists isA threat
+influence isA threat
+harmful for relationships isA threat
+helpful isA threat
+Press isA threat
+determinants of intergroup attitudes isA threat
+oret isA threat
+imilation isA threat
+antecedent of intergroup threat isA threat
+May isA threat
+UTC isA threat
+dead isA threat
+organisms isA threat
+myriad of behavioral strategies isA threat
+chances isA threat
+exposure isA threat
+field isA threat
+survival rates isA threat
+presence of a looming object isA threat
+sudden movement isA threat
+appearance isA threat
+scent isA threat
+level of threat isA threat
+identity isA threat
+presence isA threat
+presence of a novel object isA threat
+color isA threat
+shape isA threat
+size isA threat
+skin lipids isA threat
+chemicals in urine isA threat
+predator 's recent presence isA threat
+order isA threat
+vibrations isA threat
+indicators of predator presence isA threat
+rainfall isA threat
+fleeing isA threat
+shells isA threat
+energy isA threat
+time isA threat
+e time isA threat
+nearby isA threat
+action isA threat
+ly isA threat
+presence of predators isA threat
+predators isA threat
+overall activity levels isA threat
+silent isA threat
+refuge isA threat
+avoid detection by predators isA threat
+coloration isA threat
+behavior isA threat
+stones isA threat
+decorator crabs isA threat
+plant matter isA threat
+identity as potential prey isA threat
+potential prey isA threat
+e of time isA threat
+likelihood isA threat
+signals of physical fitness isA threat
+fit animals isA threat
+toxic compounds isA threat
+predator isA threat
+irritant isA threat
+canine predators isA threat
+armadillo lizards isA threat
+prey after capture isA threat
+potential predators isA threat
+predation isA threat
+significant costs isA threat
+mates isA threat
+sentries isA threat
+respond isA threat
+different potential predators isA threat
+individual ’ s behavior isA threat
+problematic in the presence isA threat
+invasive species isA threat
+ve species isA threat
+fail isA threat
+example isA threat
+native lizards isA threat
+ve fire ant predators isA threat
+ern fence lizards isA threat
+ve red-imported fire ants isA threat
+camouflage isA threat
+armor isA threat
+dusk Mobbing — crowding isA threat
+e Crepuscular — active at dawn isA threat
+gait isA threat
+springing isA threat
+provide reliable information about an individual ’ s quality Autotomy — self-amputation isA threat
+signals isA threat
+Reading Sundermann isA threat
+viable offspring References isA threat
+ess risk isA threat
+Ecological Monographs isA threat
+B isA threat
+morphology of native lizards isA threat
+Name isA threat
+Genetic Makeup Influence Behavior How Does Social Behavior Evolve isA threat
+Environment isA threat
+Choice Behavior Perceptual Worlds isA threat
+Animal Preferences isA threat
+Consequences of Biodiversity Declines Disease Ecology Intermediate Animal Migration Cooperation isA threat
+Animal Behavior Social Parasitism in Ants Causes isA threat
+tism in Ants Causes isA threat
+Evolution of Complex Animal Societies Sexual Selection Territoriality isA threat
+Ecology Intermediate Animal Migration Cooperation isA threat
+Conflict isA threat
+Regional Ecology Conservation isA threat
+Browse Visually Other Topic Rooms Ecology Evolution Ecosystem Ecology Physiological Ecology Population Ecology Community Ecology Global isA threat
+Future Terrestrial Geosystems Marine Geosystems Soil isA threat
+Present isA threat
+NatureEdCast Simply Science Green Screen ConferenceCast Green Science Bio isA threat
+Simply Science Green Screen ConferenceCast Green Science Bio isA threat
+Green Science Bio isA threat
+Success Code isA threat
+Pop SciBytes Postcards from the Universe Brain Metrics Mind Read Eyes isA threat
+LearnCasting isA threat
+ing isA threat
+session isA threat
+Facebook page via Scitable LearnCast isA threat
+Settings isA threat
+fad isA threat
+Thrip isA threat
+former models isA threat
+Daesh in Syria isA threat
+commissioner isA threat
+irrespective of whether the governor isA threat
+Daesh [ ISIS ] in Syria isA threat
+rushers isA threat
+dust attacks isA threat
+alert isA threat
+Mission isA threat
+military advantage isA threat
+foment instability isA threat
+increase control over content isA threat
+Quote Free Downloads Scrutinizer Flowalyzer IPFIXify Support NetFlow isA threat
+IPFIX isA threat
+insider threats isA threat
+list isA threat
+ability isA threat
+detect isA threat
+opportunity isA threat
+insider threat isA threat
+former employees isA threat
+third parties isA threat
+contractors isA threat
+– TechTarget Scary isA threat
+addition isA threat
+record of every conversation isA threat
+other important conversation elements isA threat
+bottom isA threat
+rampant isA threat
+regulations isA threat
+little information for investigation isA threat
+Central Banks isA threat
+financial regulators isA threat
+physical crime isA threat
+financial sector resiliency Monday isA threat
+June isA threat
+Reston isA threat
+Singapore – June isA threat
+CE ntral banks isA threat
+Forum effective July isA threat
+group for central banks isA threat
+WannaCry isA threat
+frequent isA threat
+sophisticated isA threat
+Bill Nelson isA threat
+Today isA threat
+system for regulators isA threat
+threats isA threat
+banks isA threat
+credit unions isA threat
+insurance companies isA threat
+other financial institutions isA threat
+trusted space for private financial institutions isA threat
+STIX isA threat
+set of TTPs isA threat
+incidents isA threat
+STIX data model isA threat
+intent isA threat
+associated TTPs isA threat
+efficacy isA threat
+likely impact isA threat
+cost isA threat
+parameter observables isA threat
+information about a technical vulnerability isA threat
+weakness isA threat
+misconfiguration in software isA threat
+systems isA threat
+vulnerabilities isA threat
+other unnamed vulnerabilities isA threat
+STIX relationship model isA threat
+good deal of information isA threat
+information isA threat
+incident timeline isA threat
+points of contact isA threat
+threat actors isA threat
+part isA threat
+courses of action isA threat
+part of the investigation isA threat
+incident isA threat
+confidence in the indicator ’ s assertion isA threat
+restrictions isA threat
+valid time windows isA threat
+sightings of the indicator isA threat
+structured test mechanisms for detection isA threat
+related campaigns isA threat
+related indicators isA threat
+source of the Indicator isA threat
+representation isA threat
+threat actor isA threat
+desired effects isA threat
+observed behavior isA threat
+line experience isA threat
+Automotive Financial services Manufacturing Oil isA threat
+Information System Security Event Intelligence Products Security Event Intelligence isA threat
+organization ’ s security isA threat
+time on false positives isA threat
+available on a managed isA threat
+Minimize false positives via industry-leading intelligence Technology isA threat
+technical platform isA threat
+SIEM isA threat
+cloud-based public platform isA threat
+platform isA threat
+Orange Cyberdefense proprietary Threat Intelligence Database isA threat
+user behavior analytics isA threat
+multinational customers isA threat
+outcomes of the monitoring service isA threat
+private sources isA threat
+network operator isA threat
+false positives isA threat
+qualify incidents isA threat
+DHS Preventing Terrorism Overview Results isA threat
+Home > Topics > Preventing Terrorism > Weapons of Mass Destruction Preventing Terrorism Overview Results isA threat
+nuclear isA threat
+radiological isA threat
+chemical isA threat
+biological isA threat
+other device isA threat
+School Violence Sea Piracy September isA threat
+Journals isA threat
+Statistical Manual of Mental Disorders isA threat
+DSM-IV-TR isA threat
+essential feature of PTSD isA threat
+Remote Access Manage vendor access Vulnerability Management Identify isA threat
+prioritize isA threat
+support any device isA threat
+Passwords in Apps Control Application Usage Support Users isA threat
+Desktops isA threat
+integrations isA threat
+productivity isA threat
+Protect End Users isA threat
+Systems isA threat
+London isA threat
+Security Breach Remediation by Morey Haber — December isA threat
+reality isA threat
+organization isA threat
+malware isA threat
+compromised accounts isA threat
+lateral movement isA threat
+compromise of domain controllers isA threat
+worst-case scenario isA threat
+many cases isA threat
+risk isA threat
+feasibility isA threat
+far-fetched isA threat
+threats like rootkits isA threat
+Spectre isA threat
+Meltdown isA threat
+Athletics isA threat
+Fitness isA threat
+Recreation Student Activities Campus Safety Health isA threat
+UC isA threat
+way students isA threat
+educators isA threat
+Bring Storage isA threat
+opener Athletics isA threat
+Threat Assessment Team opener Health isA threat
+secure for all students isA threat
+staff isA threat
+faculty isA threat
+visitors isA threat
+possible experience isA threat
+Holiday APT Spectacular December isA threat
+| by Christopher Glyer isA threat
+month isA threat
+whole State of the Hack episode isA threat
+last isA threat
+new office in Reston isA threat
+threat intelligence conclusions isA threat
+dark isA threat
+techniques isA threat
+Next isA threat
+involved intrusion attempts against multiple industries isA threat
+law enforcement isA threat
+media isA threat
+losses isA threat
+DNS Over HTTPS isA threat
+hard work on this topic isA threat
+MITRE ATT isA threat
+element of cybersecurity argument Nikolai Mansourov isA threat
+Djenana Campara isA threat
+System Assurance isA threat
+injury argument isA threat
+entry point argument isA threat
+threat argument isA threat
+system elements isA threat
+threat components isA threat
+validation tasks isA threat
+Robert Nisbet isA threat
+Gary Miner isA threat
+Data Mining Applications isA threat
+visualization isA threat
+physical therapy procedures isA threat
+security threat identifications isA threat
+Chapter isA threat
+people isA threat
+animals isA threat
+rocks isA threat
+fact isA threat
+past few years isA threat
+researchers at several places isA threat
+University of California–Berkeley isA threat
+Yahoo isA threat
+Google isA threat
+California Institute of Technology isA threat
+% correct object category recognition isA threat
+number of objects isA threat
+methods isA threat
+training sets for object categorization isA threat
+left side isA threat
+cars isA threat
+fixed model for each in a generative system isA threat
+training set for object identification isA threat
+other hand isA threat
+category isA threat
+pairs isA threat
+identifiers isA threat
+distinctive regions of the object isA threat
+discriminate analysis methods isA threat
+accurate in object identification isA threat
+visual objects isA threat
+Briefly isA threat
+illustrations in Figure isA threat
+visual object dataset isA threat
+MNIST isA threat
+USPS isA threat
+CUReT isA threat
+illustrations isA threat
+populations isA threat
+mail envelopes in Buffalo isA threat
+real-world textures isA threat
+leather isA threat
+rabbit fur isA threat
+sponge isA threat
+next illustration for this object identification–visual data mining isA threat
+Figure isA threat
+objects isA threat
+Maji isA threat
+details isA threat
+interested isA threat
+sample of the false negatives isA threat
+al isA threat
+fast interaction SVM program isA threat
+source code isA threat
+book isA threat
+extension into movement modeling isA threat
+e.g isA threat
+motion picture isA threat
+successive slices of a body scan isA threat
+security threat detections isA threat
+athletic training regimens isA threat
+Taking Photos isA threat
+Pictures isA threat
+Photos isA threat
+photo isA threat
+illustration isA threat
+graph isA threat
+son isA threat
+Matt Miner 's GHOSTS Christmas album isA threat
+STATISTICA isA threat
+select Import Picture isA threat
+File menu isA threat
+diagram isA threat
+pixel in the photograph isA threat
+16-bit photo isA threat
+16-columns by 16-cases spreadsheet isA threat
+Open dialog box isA threat
+right of the dialog isA threat
+i.e isA threat
+Raw Data Plots isA threat
+Advanced tab of the Raw Data Plots dialog isA threat
+select Contour/Discrete in the Graph Type box isA threat
+spreadsheets isA threat
+injured limb isA threat
+security isA threat
+general isA threat
+visual object recognition by data mining technology isA threat
+visual object recognition isA threat
+such things as audio waves isA threat
+brain wave mapping isA threat
+full chapter Information Risk Assessment Timothy Virtue isA threat
+Justin Rainey isA threat
+HCISPP Study Guide isA threat
+part of the organizational risk management strategy isA threat
+types of threat sources isA threat
+Second Edition isA threat
+scanning of a radio-frequency band isA threat
+measurement of signal strength isA threat
+classification isA threat
+geolocating of emitters isA threat
+digital communication isA threat
+Costas-coded signaling for pulse compression radar isA threat
+radio monitoring isA threat
+FSK signal characteristics such as modulation parameters isA threat
+symbol rate isA threat
+section isA threat
+t isA threat
+multiple carrier modulation isA threat
+frequency content isA threat
+T b T b isA threat
+order of the information-bearing symbol isA threat
+constant amplitude isA threat
+frequency isA threat
+combination of frequency f isA threat
+f b isA threat
+≤ f k isA threat
+Unless isA threat
+intermediate frequency of the received signal isA threat
+Eq isA threat
+Part isA threat
+unknown isA threat
+] isA threat
+Fig isA threat
+p. isA threat
+representation from the spectrogram isA threat
+common TFD isA threat
+method isA threat
+WVD isA threat
+similar signals isA threat
+such as frequency-hopping signals isA threat
+full chapter Case study Nikolai Mansourov isA threat
+particular isA threat
+fragments of the assurance case isA threat
+linguistic analysis of the security requirement isA threat
+identification of the key characteristics isA threat
+KDM fact-oriented repository isA threat
+Security isA threat
+Risk isA threat
+Compliance isA threat
+Law isA threat
+Regulations isA threat
+Eric Conrad isA threat
+Joshua Feldman isA threat
+Third Edition isA threat
+Special Publication 800-30 isA threat
+steps isA threat
+Vulnerability Identification isA threat
+“ Risk = Threat × Vulnerability ” formula isA threat
+Control Analysis isA threat
+Steps isA threat
+Impact Analysis isA threat
+Control Recommendations isA threat
+final step isA threat
+Security Programs Jason Andress CISSP isA threat
+ISSAP isA threat
+CISM isA threat
+GPEN isA threat
+Mark Leary CISSP isA threat
+CGIET isA threat
+PMP isA threat
+Practical Information Security Program isA threat
+result of the assessment isA threat
+information technology isA threat
+Vulnerability Assessments Eric D. Knapp isA threat
+Joel Thomas Langill isA threat
+business network on the other hand isA threat
+same as authorized local traffic isA threat
+Read full chapter Introduction John R. Vacca isA threat
+communicate information security issues Read full chapter FAIR Terminology Jack Freund isA threat
+Jack Jones isA threat
+Managing Information Risk isA threat
+document isA threat
+FAIR isA threat
+threat identification isA threat
+First isA threat
+analysis isA threat
+opposite of a good idea isA threat
+possible matches isA threat
+pix into an ipsec tunnel isA threat
+great isA threat
+worried isA threat
+Methods Of Use Download PDF Info Publication number US20070186284A1 US20070186284A1 US11/617 isA threat
+Application number US11/617 isA threat
+date 2006-12-28 Publication date 2007-08-09 2004-08-12 Priority isA threat
+priority Critical patent/US8082506B1/en 2004-08-12 Priority isA threat
+priority patent/US8091130B1/en 2006-06-30 Priority isA threat
+priority patent/US20080004805A1/en 2006-07-10 Priority isA threat
+priority patent/US8631493B2/en 2006-07-11 Priority isA threat
+MCCONNELL isA threat
+JAMES T. 2006-12-28 Priority isA threat
+PALO ALTO NETWORKS isA threat
+INC. reassignment PALO ALTO NETWORKS isA threat
+computers isA threat
+components isA threat
+data against unauthorised activity G06F21/50 — Monitoring users isA threat
+integrity of platforms isA threat
+processors isA threat
+computer platforms isA threat
+power-downs isA threat
+version controls isA threat
+system software checks isA threat
+counter-measures H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION isA threat
+location-dependent isA threat
+terminals H — ELECTRICITY H04 — ELECTRIC COMMUNICATION TECHNIQUE H04L — TRANSMISSION OF DIGITAL INFORMATION isA threat
+network traffic H04L63/1425 — Traffic isA threat
+Location-sensitive isA threat
+geographical location isA threat
+correlation of location data isA threat
+physical location isA threat
+aspect isA threat
+threat data isA threat
+location data isA threat
+map data isA threat
+map isA threat
+No isA threat
+Jul isA threat
+“ METHODS AND SYSTEMS FOR LOCATING SOURCE OF COMPUTER-ORIGINATED ATTACK BASED ON GPS EQUIPPED COMPUTING DEVICE isA threat
+Jun isA threat
+“ GEOGRAPHICAL INTRUSION MAPPING SYSTEM USING TELECOMMUNICATION BILLING AND INVENTORY SYSTEMS isA threat
+Aug. isA threat
+“ GEOGRAPHICAL INTRUSION RESPONSE PRIORITIZATION MAPPING SYSTEM isA threat
+discovered isA threat
+practice isA threat
+threat information isA threat
+impacted/suspect device isA threat
+today isA threat
+logs isA threat
+call data records isA threat
+advanced intelligent network logs isA threat
+subsequent manual drawing of network “ isA threat
+Furthermore isA threat
+instance isA threat
+form of a direct attack isA threat
+worm isA threat
+receivers isA threat
+PDA isA threat
+Smartphone isA threat
+source of a computer-originated attack isA threat
+explosives isA threat
+uplink isA threat
+scenario isA threat
+computer-originated attack isA threat
+cyber attack isA threat
+GPS device isA threat
+vulnerable isA threat
+vulnerable GPS device isA threat
+security software vendor isA threat
+such as Antivirus isA threat
+attack isA threat
+GPS information isA threat
+vulnerability data with GPS data isA threat
+availability of GPS data isA threat
+manual review of TCP/IP switch information isA threat
+manual drawing of network “ isA threat
+vulnerability in a sequential order isA threat
+other instances isA threat
+financial systems isA threat
+computer systems isA threat
+networks isA threat
+wireless isA threat
+cable television isA threat
+Internet access isA threat
+business transactions isA threat
+detective isA threat
+preventive isA threat
+business transaction layer isA threat
+geographical correlation between physical isA threat
+computer-related crimes isA threat
+exemplary embodiments isA threat
+Wherever possible isA threat
+restrictive of the invention isA threat
+data processing system isA threat
+computer program product isA threat
+hardware embodiment isA threat
+software embodiment isA threat
+storage medium isA threat
+hard disks isA threat
+CD-ROMs isA threat
+optical storage devices isA threat
+flowchart illustrations of methods isA threat
+flowchart illustrations isA threat
+general purpose computer isA threat
+special purpose computer isA threat
+machine isA threat
+function in a particular manner isA threat
+blocks isA threat
+specified functions isA threat
+used herein isA threat
+service isA threat
+unauthorized use isA threat
+attempt isA threat
+successful entry into a digital isA threat
+system isA threat
+scope of the present invention isA threat
+herein isA threat
+prospective intrusion isA threat
+location in a digital isA threat
+particular operating system isA threat
+Service Pack isA threat
+such software products isA threat
+software isA threat
+anti-virus software isA threat
+virus isA threat
+vulnerable computer isA threat
+specific responses isA threat
+ease of discussion isA threat
+frauds isA threat
+FIG isA threat
+databases such as threat database isA threat
+database isA threat
+location database isA threat
+display isA threat
+such as a video display isA threat
+network isA threat
+electronic communication with computer isA threat
+embodiment isA threat
+threat in the system isA threat
+such isA threat
+threat type isA threat
+description isA threat
+date/time isA threat
+duration isA threat
+tariff cost isA threat
+other wireless network isA threat
+wireless location data isA threat
+telecommunications isA threat
+wireless location isA threat
+GPS isA threat
+exit isA threat
+information from the threat isA threat
+CDR isA threat
+use in system isA threat
+main memory isA threat
+RAM isA threat
+mass storage device isA threat
+optical disk isA threat
+CRT isA threat
+Display isA threat
+input device isA threat
+such as a keyboard isA threat
+cursor control isA threat
+such as a mouse isA threat
+axes isA threat
+y isA threat
+combination with another computer system isA threat
+computer-readable medium isA threat
+computer isA threat
+alternative implementation isA threat
+place isA threat
+invention isA threat
+many forms isA threat
+non-volatile media isA threat
+volatile media isA threat
+Non-volatile media isA threat
+magnetic disks isA threat
+dynamic memory isA threat
+coaxial cables isA threat
+fiber optics isA threat
+light waves isA threat
+Common forms of computer-readable media isA threat
+floppy disk isA threat
+flexible disk isA threat
+hard disk isA threat
+magnetic tape isA threat
+other magnetic medium isA threat
+CD-ROM isA threat
+other optical medium isA threat
+punch cards isA threat
+paper tape isA threat
+holes isA threat
+PROM isA threat
+EPROM isA threat
+FLASH-EPROM isA threat
+cartridge isA threat
+carrier wave isA threat
+purposes of this discussion isA threat
+LAN isA threat
+WAN isA threat
+such implementation isA threat
+electrical isA threat
+ISP isA threat
+turn isA threat
+electric isA threat
+data isA threat
+program code isA threat
+Consistent with the present invention isA threat
+and/or isA threat
+storage device isA threat
+connectable isA threat
+alternative embodiment isA threat
+computer on network isA threat
+databases isA threat
+other location isA threat
+such as on network isA threat
+address isA threat
+geographic location isA threat
+call detail records isA threat
+physical location information isA threat
+single database isA threat
+multiple threat isA threat
+location isA threat
+discussed herein isA threat
+relational database scheme isA threat
+Microsoft Excel™ software isA threat
+present invention isA threat
+execution isA threat
+such as by computer isA threat
+geographic mapping of threat information isA threat
+stage isA threat
+such as from a computer administrator isA threat
+threat detection system isA threat
+router isA threat
+network management system isA threat
+security information manager isA threat
+description of the threat isA threat
+receipt of the threat information isA threat
+other wireless networks isA threat
+retrieves isA threat
+CDR database isA threat
+telecommunications call isA threat
+messages isA threat
+like isA threat
+respective telecommunications call isA threat
+noted isA threat
+location database record isA threat
+detail isA threat
+network address isA threat
+such as an IP address isA threat
+potential fraud isA threat
+telephone number isA threat
+telephone number in a customer database isA threat
+map database isA threat
+mapping threats isA threat
+information within map database isA threat
+Microsoft isA threat
+Within isA threat
+pushpin isA threat
+change over time isA threat
+spread isA threat
+system updates isA threat
+system that the intruded computer isA threat
+inactive isA threat
+“ new isA threat
+response team isA threat
+map database record isA threat
+new ” threat isA threat
+locations of the threats isA threat
+response teams isA threat
+threat on the map isA threat
+area of the map isA threat
+data such that a user isA threat
+status isA threat
+quantity isA threat
+hardware isA threat
+“ TDS ” isA threat
+identification system isA threat
+location system isA threat
+mapping system isA threat
+display device isA threat
+various systems isA threat
+firewall logs isA threat
+network threats isA threat
+information such as the attack type isA threat
+impacted device information such as a network device isA threat
+IP address isA threat
+threat database isA threat
+stores threat information isA threat
+threat description isA threat
+network equipment isA threat
+users isA threat
+environment isA threat
+Authentication system isA threat
+RADIUS Authentication Protocol isA threat
+network devices such as routers isA threat
+modem servers isA threat
+fields such as code isA threat
+identifier isA threat
+length isA threat
+authenticator isA threat
+password isA threat
+network point in a telecom system isA threat
+client isA threat
+Authentication data isA threat
+user information isA threat
+telecom networks isA threat
+call database isA threat
+transactions isA threat
+party telephone number isA threat
+MINs isA threat
+IP/MAC addresses isA threat
+Voice over IP system isA threat
+conventional telephone number isA threat
+customer database isA threat
+particular customer entity isA threat
+network element database isA threat
+data from the various databases isA threat
+case for environment isA threat
+network security system isA threat
+multiple computing platforms isA threat
+other location in any combination isA threat
+multiple authentication databases isA threat
+authentication isA threat
+call isA threat
+customer location and/or mapping databases isA threat
+computer administrator isA threat
+identification information from a CDR database isA threat
+examples in FIGS isA threat
+authentication identification isA threat
+caller ID information isA threat
+geographical location data isA threat
+FIGS isA threat
+pushpin symbol isA threat
+area on the map isA threat
+pushpin location isA threat
+embodiments isA threat
+system user isA threat
+status of the response isA threat
+receives isA threat
+TDS isA threat
+source telephone number isA threat
+destination telephone number isA threat
+event name isA threat
+identification data from a CDR database isA threat
+identification data isA threat
+Location data isA threat
+stages isA threat
+identification isA threat
+tables from the aforementioned databases isA threat
+associated geographic coordinates isA threat
+attack event name isA threat
+authentication database isA threat
+identification data from identification system isA threat
+updated isA threat
+mobile device isA threat
+such as a GPS device isA threat
+GPS-enabled device isA threat
+description of the attack event isA threat
+appropriate wireless location record isA threat
+location information isA threat
+such as geographic coordinates isA threat
+exemplary embodiment of wireless location data isA threat
+telephone number from threat database isA threat
+“ pushpin isA threat
+updates isA threat
+GPS devices isA threat
+location data contains isA threat
+computer-originated attack from threat database isA threat
+regard isA threat
+source network address isA threat
+destination network address isA threat
+location information module isA threat
+GPS coordinates isA threat
+source of the wireless call isA threat
+various systems in wireless communications systems isA threat
+databases such as a threat database isA threat
+fraud database isA threat
+mapping database isA threat
+computing devices isA threat
+memory isA threat
+communications protocols such isA threat
+TDSs isA threat
+part hereof isA threat
+FDSs isA threat
+“ MULTIDIMENSIONAL TRANSACTION FRAUD DETECTION SYSTEM AND METHOD isA threat
+Dec. isA threat
+Information from each of these databases isA threat
+location/GPS engine isA threat
+street address isA threat
+provided database information isA threat
+other location information isA threat
+exemplary embodiment isA threat
+other system isA threat
+RADIUS database isA threat
+GPS database isA threat
+different isA threat
+longitude isA threat
+vertical isA threat
+details such isA threat
+originating switch isA threat
+terminating switch isA threat
+call length isA threat
+time of day isA threat
+business rules of the organization isA threat
+CDR/AIN isA threat
+manual review of the CDR/AIN isA threat
+table isA threat
+format of “ NPA-NXX-XXXX isA threat
+inventory of equipment isA threat
+devices isA threat
+Altoona isA threat
+Local Exchange Routing Guide isA threat
+“ The LERG ” isA threat
+month by Telcordia isA threat
+Inc. of Piscataway isA threat
+inventory database isA threat
+NXX from the suspect telephone number isA threat
+NPA isA threat
+corresponding NXX isA threat
+states isA threat
+equipment isA threat
+-character code identifies isA threat
+state isA threat
+building isA threat
+function isA threat
+horizontal coordinates isA threat
+database of FIG isA threat
+complete suspect telephone number isA threat
+CLLI location isA threat
+suspect telephone number isA threat
+matching address isA threat
+billing address isA threat
+possible isA threat
+complaint information isA threat
+address information isA threat
+termination of a suspected fraud activity isA threat
+database record identifier isA threat
+order of priority isA threat
+billing database isA threat
+accurate than the NXX range location isA threat
+accurate than the NPA range location isA threat
+street-type addresses isA threat
+vertical coordinates isA threat
+icons isA threat
+step isA threat
+same suspected fraudulent activity isA threat
+Step isA threat
+POTS isA threat
+wireless systems isA threat
+case of VoIP isA threat
+IP address location isA threat
+roaming situations isA threat
+useful isA threat
+intrusions isA threat
+intrusion detection system isA threat
+intrusion isA threat
+description of the intrusion isA threat
+receipt of the intrusion information isA threat
+such as from a network isA threat
+fraud isA threat
+fraud detection system isA threat
+receipt of the fraud information isA threat
+VoIP isA threat
+other Internet-facilitated communications isA threat
+telephone call isA threat
+specific GPS data isA threat
+other fixed network entity isA threat
+fraud events isA threat
+map database at step isA threat
+particular intrusion isA threat
+intrusion events isA threat
+intrusion information isA threat
+map database intrusion records isA threat
+Forensic linguistics From Wikipedia isA threat
+speech Orthography Prescriptivism Second-language acquisition Structuralism Linguistics portal v t e Forensic linguistics isA threat
+legal linguistics isA threat
+law isA threat
+application of linguistic knowledge isA threat
+forensic context of law isA threat
+language isA threat
+crime investigation isA threat
+trial isA threat
+judicial processes isA threat
+provision of linguistic evidence isA threat
+Jan Svartvik isA threat
+professor of linguistics isA threat
+Notting Hill police station isA threat
+England isA threat
+crime isA threat
+Evans isA threat
+different stylistic markers isA threat
+convictions of Derek Bentley isA threat
+Guildford Four isA threat
+Bridgewater Three isA threat
+Numerous times isA threat
+forensic linguistics isA threat
+forensic linguistics in the United Kingdom isA threat
+specific format isA threat
+orderly fashion isA threat
+fast-paced isA threat
+ransom note isA threat
+Duncan McLure isA threat
+girl isA threat
+letter isA threat
+kidnappers isA threat
+proper name isA threat
+] In the 1980s isA threat
+use of 'English isA threat
+English isA threat
+IAFL isA threat
+AALL isA threat
+Johnson isA threat
+diverse isA threat
+other law-making body isA threat
+private wills isA threat
+statutes of other bodies isA threat
+English common law isA threat
+gold isA threat
+edit ] Among other things isA threat
+cross-examination isA threat
+evidence presentation isA threat
+judge 's direction isA threat
+police cautions isA threat
+police testimonies in court isA threat
+jury isA threat
+interview techniques isA threat
+police officers ' social stature isA threat
+commands isA threat
+Solan isA threat
+Tiersma isA threat
+P isA threat
+unacceptable isA threat
+lawyer isA threat
+clear isA threat
+] During the examination process isA threat
+courtroom isA threat
+specific responses from the witness isA threat
+hostile witness isA threat
+response of the witness isA threat
+yes/no questions isA threat
+elaboration isA threat
+such as wh-formation questions isA threat
+Olsson isA threat
+Luchjenborers isA threat
+witness isA threat
+slang isA threat
+different ways isA threat
+previous societal experiences isA threat
+gender differences isA threat
+socioeconomic differences isA threat
+particular dialects isA threat
+responses in the legal process isA threat
+certain minimum procedural guarantees isA threat
+[ edit ] In an emergency call isA threat
+Emphasis on intonation isA threat
+role in emergency calls isA threat
+hesitations isA threat
+signs of evasiveness isA threat
+lack of commitment isA threat
+commission of the offence isA threat
+instrument isA threat
+persons isA threat
+years isA threat
+offender isA threat
+serious physical disability isA threat
+penetration isA threat
+practices isA threat
+government contractors isA threat
+reasons isA threat
+industrial networks isA threat
+United Nations Security Council isA threat
+execution of unknown malware isA threat
+exploit isA threat
+specific industries such as banking isA threat
+retail isA threat
+medical isA threat
+automotive isA threat
+industrial controls isA threat
+possible remediation instructions isA threat
+source isA threat
+affected technologies isA threat
+available controls isA threat
+possible remediation isA threat
+CVE ID isA threat
+rules isA threat
+implications for wider military strategy isA threat
+possible operational approaches isA threat
+capability requirements isA threat
+UK by Tom Rogan | December isA threat
+commuters isA threat
+trade within parties isA threat
+requirement of double coincidence isA threat
+central banks isA threat
+subtle isA threat
+large isA threat
+global workforce isA threat
+simple hardware failure coincide isA threat
+phishing email isA threat
+annexation of Crimea isA threat
+Ukraine crisis isA threat
+unexpected isA threat
+volume of work isA threat
+substitution isA threat
+modification isA threat
+reverse engineering isA threat
+information systems change isA threat
+business environment isA threat

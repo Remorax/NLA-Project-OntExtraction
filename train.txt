@@ -1,0 +1,225 @@
+danger  threat
+malicious code  malware
+malicious code  malicious
+Trojan Downloader  darknet
+XSS vulnerability  darknet
+Cybersecurity  cybersecurity
+XSS vulnerability  remotely exploitable vulnerability
+Trojan Downloader  ZeuS botnet
+Zeus malware  ZeuS botnet
+Sinowal Trojan  ZeuS botnet
+Trojan Downloader  WMF exploit
+WMF vulnerability  WMF exploit
+XSS vulnerability  WMF exploit
+Trojan Downloader  DNS cache poisoning
+cache poisoning  DNS cache poisoning
+XSS vulnerability  DNS cache poisoning
+Trojan Downloader  Download.Ject
+Koobface worm  Download.Ject
+SQL injection vulnerability  XSS vulnerability
+Trojan Downloader  antivirus scanners
+malicious executables  antivirus scanners
+Trojan Downloader  Downadup worm
+Mydoom virus  Downadup worm
+Nachi worm  Downadup worm
+antivirus scanners  viruses trojans
+WMF vulnerability  WMF flaw
+XSS vulnerability  WMF flaw
+Trojan Downloader  pharming attacks
+Trojan Downloader  URL spoofing
+XSS vulnerability  URL spoofing
+Trojan Downloader  Malicious code
+Trojan Downloader  SQL injection vulnerability
+XSS vulnerability  SQL injection vulnerability
+Trojan Downloader  Qakbot
+Nyxem D  Qakbot
+XSS vulnerability  ActiveX vulnerability
+WMF exploit  WMF vulnerability
+WMF flaw  WMF vulnerability
+DNS flaw  DNS vulnerability
+Mydoom virus  MSBlaster
+Nyxem D  MSBlaster
+Trojan Downloader  Koobface virus
+Koobface worm  Koobface virus
+Trojan Downloader  unpatched Windows
+Trojan Downloader  Sober.P
+Mydoom virus  Sober.P
+Nyxem D  Sober.P
+VML exploit  unpatched vulnerabilities
+unpatched bugs  unpatched vulnerabilities
+Trojan Downloader  malwares
+malware  malwares
+antivirus scanners  malwares
+Trojan Downloader  Fake antivirus
+rogue antivirus  Fake antivirus
+malware  malicious code
+Trojan Downloader  DNS flaw
+Witty worm  DNS flaw
+XSS vulnerability  DNS flaw
+Trojan Downloader  spyware keyloggers
+Nachi worm  Conficker virus
+malware  malcode
+Trojan Downloader  buffer overflow exploit
+antivirus scanners  malicious executables
+Korgo  LSASS vulnerability
+WMF vulnerability  LSASS vulnerability
+Trojan Downloader  grayware
+Trojan Downloader  Koobface worm
+Koobface virus  Koobface worm
+Santy worm  Koobface worm
+Trojan Downloader  Clickjacking
+XSS vulnerability  Clickjacking
+Trojan Downloader  Zlob
+Sinowal  Zlob
+Trojan Downloader  LizaMoon
+Mydoom.B  LizaMoon
+XSS vulnerability  LizaMoon
+Nachi worm  Mydoom virus
+Trojan Downloader  Santy worm
+Koobface worm  Santy worm
+Trojan Downloader  MS Blaster
+MSBlaster  MS Blaster
+Trojan Downloader  trojan downloader
+rogue antivirus  trojan downloader
+antivirus scanners  trojan downloader
+Mydoom.B  MyDoom.B
+Trojan Downloader  XSS vulnerabilities
+Trojan downloader  Trojan Downloader
+Koobface virus  Trojan Downloader
+Koobface worm  Trojan Downloader
+Trojan Downloader  HellRTS
+Virut  HellRTS
+Trojan Downloader  Doomjuice
+Mydoom virus  Doomjuice
+Nyxem D  Doomjuice
+unpatched vulnerabilities  unpatched bugs
+Trojan Downloader  Nachi worm
+Mydoom virus  Nachi worm
+Nyxem D  Nachi worm
+Trojan Downloader  Bofra
+Trojan downloader  Bofra
+Mydoom virus  Witty worm
+Nachi worm  Witty worm
+Trojan Downloader  cache poisoning
+DNS cache poisoning  cache poisoning
+XSS vulnerability  cache poisoning
+Trojan Downloader  Sinowal Trojan
+ZeuS botnet  Sinowal Trojan
+Sinowal  Sinowal Trojan
+Trojan Downloader  MyDoom worms
+Mydoom virus  MyDoom worms
+Nyxem D  MyDoom worms
+MyDoom.A  Mydoom.A
+MyDoom.B  Mydoom.A
+SoBig virus  Mydoom.A
+Trojan Downloader  Alureon rootkit
+Alureon  Alureon rootkit
+QuickTime vulnerability  QuickTime flaw
+XSS vulnerability  QuickTime flaw
+Trojan Downloader  Conflicker
+Conficker virus  Conflicker
+Nyxem D  Conflicker
+WMF vulnerability  IE flaw
+XSS vulnerability  IE flaw
+Trojan Downloader  VML exploit
+unpatched vulnerabilities  VML exploit
+ActiveX vulnerability  VML exploit
+XSS vulnerability  0day
+Trojan Downloader  Phatbot
+Zlob  Phatbot
+Trojan Downloader  Conficker.C
+Nachi worm  Conficker.C
+Trojan Downloader  Mebroot
+Sinowal  Mebroot
+MyDoom.B  Mydoom.B
+Trojan Downloader  Bropia worm
+Koobface virus  Bropia worm
+Mydoom virus  Sasser worms
+Nachi worm  Sasser worms
+Bagle virus  MSBlaster worm
+Nachi worm  MSBlaster worm
+unpatched bug  QuickTime vulnerability
+XSS vulnerability  QuickTime vulnerability
+Mydoom.A  Downadup
+Nyxem D  Downadup
+Trojan Downloader  Virut
+malicious Trojan horse  Virut
+Mebroot  Virut
+SoBig.F  Sobig worm
+Trojan Downloader  Bagle virus
+Mydoom virus  Bagle virus
+MSBlaster worm  Bagle virus
+Storm Worm  SoBig.F
+Mydoom virus  SoBig.F
+SoBig virus  SoBig.F
+Trojan Downloader  Nyxem D
+Mydoom virus  Nyxem D
+Nachi worm  Nyxem D
+Trojan Downloader  Alureon
+Alureon rootkit  Alureon
+XSS vulnerability  Alureon
+Mydoom.A  Mydoom worm
+Trojan Downloader  MacDefender
+Koobface worm  MacDefender
+Trojan Downloader  Trojan downloader
+trojan  Trojan downloader
+backdoor Trojan  Trojan downloader
+Trojan Downloader  Korgo
+Mydoom virus  Korgo
+Nyxem D  Korgo
+Zlob  Sinowal
+Trojan Downloader  MiMail
+Mydoom virus  MiMail
+Nyxem D  MiMail
+Trojan Downloader  Asprox
+Nyxem D  Asprox
+Trojan Downloader  Zeus malware
+ZeuS botnet  Zeus malware
+Koobface worm  Zeus malware
+Trojan downloader  Zeus bot
+XSS vulnerability  Zeus bot
+Trojan Downloader  Gaobot
+Trojan downloader  backdoor Trojan
+trojan  backdoor Trojan
+MyDoom.B  MyDoom.A
+Mydoom.A  MyDoom.A
+Trojan Downloader  Downadup Conficker
+ZeuS botnet  Downadup Conficker
+Trojan Downloader  Bugbear.B
+Nyxem D  Bugbear.B
+SoBig virus  MSBlast worm
+trojan  malicious Trojan horse
+WMF exploit  malicious Trojan horse
+Virut  malicious Trojan horse
+Trojan Downloader  ransomware
+Koobface worm  ransomware
+Trojan Downloader  RavMonE.exe
+Trojan downloader  trojan
+malware  trojan
+Trojan Downloader  conficker
+Koobface worm  conficker
+Conflicker  conficker
+Trojan Downloader  Mimail worm
+Nyxem D  Mimail worm
+XSS vulnerability  DoS vulnerability
+Trojan Downloader  buffer overflow vulnerabilities
+Nyxem D  Warezov
+Trojan Downloader  MyDoom.O
+Koobface worm  MyDoom.O
+MSBlast worm  SoBig virus
+SoBig.F  SoBig virus
+Bagle virus  Bagle worm
+Trojan Downloader  Storm Worm
+Koobface worm  Storm Worm
+Trojan Downloader  Blaster worms
+Mydoom virus  Blaster worms
+MSBlaster  Blaster worms
+Trojan Downloader  XSS flaws
+MyDoom.B  Lovsan
+MyDoom.A  Sobig F
+Nyxem D  Sobig F
+MSBlast worm  MSBlast
+SoBig virus  MSBlast
+Trojan Downloader  MyDoom.F
+Nachi worm  MyDoom.F
+Trojan Downloader  DNS poisoning
